@@ -1,0 +1,53 @@
+name: Radar Hugging Face
+
+on:
+  schedule:
+    - cron: '30 1,5,9,13,17,21 * * *'
+  workflow_dispatch: {}
+
+concurrency:
+  group: radar-huggingface-main
+  cancel-in-progress: false
+
+jobs:
+  build-radar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run Hugging Face radar
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: python radar_huggingface.py
+
+      - name: Commit feed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add feed.json feed.md summary.txt
+          if git diff --cached --quiet; then
+            echo "Nothing to commit"
+          else
+            git commit -m "Update Hugging Face radar feed"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+
+      - name: Send Discord delta
+        if: success()
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python discord_notifier.py
