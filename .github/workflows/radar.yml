@@ -33,16 +33,26 @@ jobs:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: python radar_huggingface.py
 
-      - name: Commit feed
+      - name: Publish generated feed safely
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          mkdir -p /tmp/radar-hf-output
+          cp feed.json feed.md summary.txt /tmp/radar-hf-output/
+
+          git fetch origin main
+          git reset --hard origin/main
+
+          cp /tmp/radar-hf-output/feed.json ./feed.json
+          cp /tmp/radar-hf-output/feed.md ./feed.md
+          cp /tmp/radar-hf-output/summary.txt ./summary.txt
+
           git add feed.json feed.md summary.txt
           if git diff --cached --quiet; then
             echo "Nothing to commit"
           else
             git commit -m "Update Hugging Face radar feed"
-            git pull --rebase origin main
             git push origin HEAD:main
           fi
 
