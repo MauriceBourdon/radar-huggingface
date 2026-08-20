@@ -1,14 +1,14 @@
 # Radar Hugging Face
 
-Généré : 2026-08-20T02:40:10.220183+00:00
+Généré : 2026-08-20T05:57:52.961728+00:00
 
 ## Delta du run
 
-- [NEW] iamkaikai/MiniMax-H3-Single-Frame-VAE-500K — quantization — https://huggingface.co/iamkaikai/MiniMax-H3-Single-Frame-VAE-500K
-- [UPDATE] nemusugikenshin/MiniMax-H3Test — base-model — https://huggingface.co/nemusugikenshin/MiniMax-H3Test
-- [UPDATE] Jojocodex/minimax-h3-wushu-action-lora — LoRA — https://huggingface.co/Jojocodex/minimax-h3-wushu-action-lora
-- [NEW] Jojocodex/minimax-h3-Camera-Motion-lora — LoRA — https://huggingface.co/Jojocodex/minimax-h3-Camera-Motion-lora
-- [NEW] mrdarkbr/minimax-h3-models-backup — base-model — https://huggingface.co/mrdarkbr/minimax-h3-models-backup
-- [UPDATE] Smite79/MiniMax-H3-Longvideos — base-model — https://huggingface.co/Smite79/MiniMax-H3-Longvideos
-- [NEW] MATLOWAI/minimax-h3-nvfp4 — LoRA — https://huggingface.co/MATLOWAI/minimax-h3-nvfp4
-- [UPDATE] tsolful/Minimax_H3_W4A8 — quantization — https://huggingface.co/tsolful/Minimax_H3_W4A8
+- [NEW] vasilerosca891/MiniMax-H3 — base-model — https://huggingface.co/vasilerosca891/MiniMax-H3
+- [NEW] xvmrjxc/MiniMax-H3-NVFP4 — quantization — https://huggingface.co/xvmrjxc/MiniMax-H3-NVFP4
+- [UPDATE] iamkaikai/MiniMax-H3-Single-Frame-VAE-500K — quantization — https://huggingface.co/iamkaikai/MiniMax-H3-Single-Frame-VAE-500K
+- [UPDATE] javawock7618/comfy-MiniMax-H3-workflows — LoRA — https://huggingface.co/javawock7618/comfy-MiniMax-H3-workflows
+- [UPDATE] LBH-123-AI/Minimax_h3_latent_Upscaler — utility — https://huggingface.co/LBH-123-AI/Minimax_h3_latent_Upscaler
+- [NEW] hainan88/minimax-h3-demo — base-model — https://huggingface.co/hainan88/minimax-h3-demo
+- [NEW] MrMofer/MiniMax-H3-MLX-8bit — LoRA — https://huggingface.co/MrMofer/MiniMax-H3-MLX-8bit
+- [NEW] TakTak/qwen3-vl-8b-distill32-image-math-lora — LoRA — https://huggingface.co/TakTak/qwen3-vl-8b-distill32-image-math-lora
