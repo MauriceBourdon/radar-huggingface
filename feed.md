@@ -1,26 +1,22 @@
 # Radar Hugging Face
 
-Généré : 2026-08-21T14:07:43.470896+00:00
+Généré : 2026-08-21T17:57:57.773826+00:00
 
 ## Delta du run
 
-- [UPDATE] ostris/minimax_h3_ref2va_jacked_lora — LoRA — https://huggingface.co/ostris/minimax_h3_ref2va_jacked_lora
-- [NEW] jasperz111/redcraft-minimax-h3-a2a-redmix — base-model — https://huggingface.co/jasperz111/redcraft-minimax-h3-a2a-redmix
+- [NEW] Codes4Fun/lightx2v_MiniMax-H3-Prompt-Rewriter-8B_ComfyUI — LoRA — https://huggingface.co/Codes4Fun/lightx2v_MiniMax-H3-Prompt-Rewriter-8B_ComfyUI
+- [NEW] rockerBOO/minimax-h3-nvfp4-fp8 — quantization — https://huggingface.co/rockerBOO/minimax-h3-nvfp4-fp8
+- [NEW] rockerBOO/minimax-h3-nvfp4-convrot — quantization — https://huggingface.co/rockerBOO/minimax-h3-nvfp4-convrot
+- [UPDATE] diffusers-modular/minimax-h3-inpainting — quantization — https://huggingface.co/diffusers-modular/minimax-h3-inpainting
+- [UPDATE] Plaguekind/Minimax-H3 — LoRA — https://huggingface.co/Plaguekind/Minimax-H3
+- [UPDATE] nikdevs/minimax-h3-loras — LoRA — https://huggingface.co/nikdevs/minimax-h3-loras
+- [NEW] 0v0o0w0/MinimaxH3_Actions — LoRA — https://huggingface.co/0v0o0w0/MinimaxH3_Actions
 - [UPDATE] javawock7618/comfy-MiniMax-H3-workflows — LoRA — https://huggingface.co/javawock7618/comfy-MiniMax-H3-workflows
-- [UPDATE] PulpCut/MiniMax-H3-INT8-ConvRot — quantization — https://huggingface.co/PulpCut/MiniMax-H3-INT8-ConvRot
-- [UPDATE] PulpCut/MiniMax-H3-Turbo-INT8-ConvRot — LoRA — https://huggingface.co/PulpCut/MiniMax-H3-Turbo-INT8-ConvRot
-- [UPDATE] PulpCut/MiniMax-H3-Ref2VA-Turbo-INT8-ConvRot — LoRA — https://huggingface.co/PulpCut/MiniMax-H3-Ref2VA-Turbo-INT8-ConvRot
-- [UPDATE] diffusers-modular/MiniMax-H3-Pruned-Ref-Delta-Fused-r1024 — utility — https://huggingface.co/diffusers-modular/MiniMax-H3-Pruned-Ref-Delta-Fused-r1024
-- [NEW] pmczip/MiniMaxH3_LoRAs — LoRA — https://huggingface.co/pmczip/MiniMaxH3_LoRAs
-- [NEW] sasimi/AfterMidnight-MiniMax-H3-NSFW — LoRA — https://huggingface.co/sasimi/AfterMidnight-MiniMax-H3-NSFW
-- [UPDATE] RunningHubAI/MiniMax-H3-INT8-CONVROT — LoRA — https://huggingface.co/RunningHubAI/MiniMax-H3-INT8-CONVROT
-- [UPDATE] FrankDase/LTX-2.5-MLX — utility — https://huggingface.co/FrankDase/LTX-2.5-MLX
-- [UPDATE] LaraAI-Labs/Lara-LTX-2.5-MLX-BF16 — adapter — https://huggingface.co/LaraAI-Labs/Lara-LTX-2.5-MLX-BF16
-- [UPDATE] PulpCut/LTX-2.5-INT8-ConvRot-safetensors — LoRA — https://huggingface.co/PulpCut/LTX-2.5-INT8-ConvRot-safetensors
-- [NEW] RuneXX/LTX-2.3-2.5-Workflows — LoRA — https://huggingface.co/RuneXX/LTX-2.3-2.5-Workflows
-- [UPDATE] topabaem/LTX-2.5-Text-Encoder-4bit-8GB — quantization — https://huggingface.co/topabaem/LTX-2.5-Text-Encoder-4bit-8GB
-- [NEW] mflux-community/qwen-image-mflux-q5 — base-model — https://huggingface.co/mflux-community/qwen-image-mflux-q5
-- [NEW] mflux-community/qwen-image-edit-2511-mflux-q3 — base-model — https://huggingface.co/mflux-community/qwen-image-edit-2511-mflux-q3
-- [NEW] mflux-community/qwen-image-edit-2511-mflux-q4 — base-model — https://huggingface.co/mflux-community/qwen-image-edit-2511-mflux-q4
-- [NEW] mflux-community/qwen-image-edit-2511-mflux-q5 — base-model — https://huggingface.co/mflux-community/qwen-image-edit-2511-mflux-q5
-- [NEW] mflux-community/qwen-image-edit-2511-mflux-q6 — base-model — https://huggingface.co/mflux-community/qwen-image-edit-2511-mflux-q6
+- [NEW] dreamkrate/Minimax-H3-Hybrid-BF16-Pruned — quantization — https://huggingface.co/dreamkrate/Minimax-H3-Hybrid-BF16-Pruned
+- [UPDATE] PurpleBlazey/Minimax-H3-pruned-GGUF — quantization — https://huggingface.co/PurpleBlazey/Minimax-H3-pruned-GGUF
+- [UPDATE] Deadshot699/ltx-2.5-gemma4-12b-comfy-nvfp4 — quantization — https://huggingface.co/Deadshot699/ltx-2.5-gemma4-12b-comfy-nvfp4
+- [UPDATE] joeygambino/LTX-2.5-Quantized — quantization — https://huggingface.co/joeygambino/LTX-2.5-Quantized
+- [NEW] xocialize/ltx-2.5-granules — base-model — https://huggingface.co/xocialize/ltx-2.5-granules
+- [NEW] mlx-community/ltx-2.5-mlx-q8 — quantization — https://huggingface.co/mlx-community/ltx-2.5-mlx-q8
+- [NEW] mlx-community/ltx-2.5-mlx-ditq8 — quantization — https://huggingface.co/mlx-community/ltx-2.5-mlx-ditq8
+- [UPDATE] GiorgioV/Qwen-image-adv — base-model — https://huggingface.co/GiorgioV/Qwen-image-adv
