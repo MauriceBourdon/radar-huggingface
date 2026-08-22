@@ -1,10 +1,12 @@
 # Radar Hugging Face
 
-Généré : 2026-08-22T05:54:52.743835+00:00
+Généré : 2026-08-22T09:52:50.508432+00:00
 
 ## Delta du run
 
-- [UPDATE] infosave/MiniMax-H3-Turbo-cmf — LoRA — https://huggingface.co/infosave/MiniMax-H3-Turbo-cmf
-- [NEW] Comfy-Org/MiniMax-H3 — LoRA — https://huggingface.co/Comfy-Org/MiniMax-H3
-- [NEW] firzahdzm/1gpu-qwenimage-6ac9b8e9-v16-01 — base-model — https://huggingface.co/firzahdzm/1gpu-qwenimage-6ac9b8e9-v16-01
-- [UPDATE] justinchuby/onnx-genai-example-qwen-image-edit-2509 — base-model — https://huggingface.co/justinchuby/onnx-genai-example-qwen-image-edit-2509
+- [UPDATE] PurpleBlazey/Minimax-H3-pruned-GGUF — quantization — https://huggingface.co/PurpleBlazey/Minimax-H3-pruned-GGUF
+- [UPDATE] Bolt-367/minimax-h3-serverless — base-model — https://huggingface.co/Bolt-367/minimax-h3-serverless
+- [NEW] misstoyou/ClipProj-MiniMax-H3 — LoRA — https://huggingface.co/misstoyou/ClipProj-MiniMax-H3
+- [UPDATE] DeepBeepMeep/MiniMax-H3 — LoRA — https://huggingface.co/DeepBeepMeep/MiniMax-H3
+- [NEW] misstoyou/MiniMax-H3 — base-model — https://huggingface.co/misstoyou/MiniMax-H3
+- [UPDATE] Abiray/LTX-2.5-Distilled-GGUF — quantization — https://huggingface.co/Abiray/LTX-2.5-Distilled-GGUF
