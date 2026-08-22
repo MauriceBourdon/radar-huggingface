@@ -1,13 +1,17 @@
 # Radar Hugging Face
 
-Généré : 2026-08-22T13:53:48.652488+00:00
+Généré : 2026-08-22T17:48:47.146805+00:00
 
 ## Delta du run
 
-- [NEW] Playtime-AI/Minimax_H3-Mila_Kunis — base-model — https://huggingface.co/Playtime-AI/Minimax_H3-Mila_Kunis
-- [UPDATE] Bolt-367/minimax-h3-serverless — base-model — https://huggingface.co/Bolt-367/minimax-h3-serverless
+- [NEW] GingerLabsPlatform/MiniMax-H3-D10000-T2V-Runtime — base-model — https://huggingface.co/GingerLabsPlatform/MiniMax-H3-D10000-T2V-Runtime
+- [UPDATE] javawock7618/comfy-MiniMax-H3-workflows — LoRA — https://huggingface.co/javawock7618/comfy-MiniMax-H3-workflows
+- [NEW] vpakarinen/minimax-h3-custom-loras — LoRA — https://huggingface.co/vpakarinen/minimax-h3-custom-loras
+- [NEW] GingerLabsPlatform/MiniMax-H3-Voice-Preprocessor-Runtime — base-model — https://huggingface.co/GingerLabsPlatform/MiniMax-H3-Voice-Preprocessor-Runtime
 - [UPDATE] PurpleBlazey/Minimax-H3-pruned-GGUF — quantization — https://huggingface.co/PurpleBlazey/Minimax-H3-pruned-GGUF
-- [NEW] h35656566/dasiwa_minimax_h3_ref2va_v1_hybrid_pruned_int8_convrot — quantization — https://huggingface.co/h35656566/dasiwa_minimax_h3_ref2va_v1_hybrid_pruned_int8_convrot
-- [NEW] Zabin/Qwen_Image_2512_LoRAs — LoRA — https://huggingface.co/Zabin/Qwen_Image_2512_LoRAs
-- [NEW] lijin3777/Qwen-Image-2512-Penis-Heretic — LoRA — https://huggingface.co/lijin3777/Qwen-Image-2512-Penis-Heretic
-- [UPDATE] Comfy-Org/TRELLIS.2 — quantization — https://huggingface.co/Comfy-Org/TRELLIS.2
+- [UPDATE] EllaPriest45/MinimaxH3_Checkpoints — LoRA — https://huggingface.co/EllaPriest45/MinimaxH3_Checkpoints
+- [UPDATE] EllaPriest45/MinimaxH3_Actions — LoRA — https://huggingface.co/EllaPriest45/MinimaxH3_Actions
+- [UPDATE] Jommarn/Qwen-Image-NSFW-LoRA — LoRA — https://huggingface.co/Jommarn/Qwen-Image-NSFW-LoRA
+- [UPDATE] EllaPriest45/Wan2.2_Actions — base-model — https://huggingface.co/EllaPriest45/Wan2.2_Actions
+- [UPDATE] EllaPriest45/LTX2.3_Actions — LoRA — https://huggingface.co/EllaPriest45/LTX2.3_Actions
+- [UPDATE] EllaPriest45/Wan2.2_Styles — base-model — https://huggingface.co/EllaPriest45/Wan2.2_Styles
