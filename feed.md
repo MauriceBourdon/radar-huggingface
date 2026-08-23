@@ -1,14 +1,11 @@
 # Radar Hugging Face
 
-Généré : 2026-08-22T21:48:31.145292+00:00
+Généré : 2026-08-23T02:47:28.545967+00:00
 
 ## Delta du run
 
-- [UPDATE] Smite79/MiniMax-H3-Longvideos — utility — https://huggingface.co/Smite79/MiniMax-H3-Longvideos
-- [NEW] joeygambino/MiniMax-H3-x-Z-Image-GGUF — quantization — https://huggingface.co/joeygambino/MiniMax-H3-x-Z-Image-GGUF
-- [UPDATE] Plaguekind/Minimax-H3 — LoRA — https://huggingface.co/Plaguekind/Minimax-H3
-- [NEW] clayshoaf/minimax-h3-runpod — base-model — https://huggingface.co/clayshoaf/minimax-h3-runpod
-- [UPDATE] vpakarinen/minimax-h3-custom-loras — LoRA — https://huggingface.co/vpakarinen/minimax-h3-custom-loras
-- [NEW] joeygambino/MiniMax-H3-x-Z-Image-native — quantization — https://huggingface.co/joeygambino/MiniMax-H3-x-Z-Image-native
-- [NEW] dc-ai/DC-Gen-Qwen-Image-Edit-Res1K — base-model — https://huggingface.co/dc-ai/DC-Gen-Qwen-Image-Edit-Res1K
+- [NEW] NazGulation/comfyui_model_minimaxH3 — base-model — https://huggingface.co/NazGulation/comfyui_model_minimaxH3
+- [NEW] Royalrajat1230/MiniMax-H3 — base-model — https://huggingface.co/Royalrajat1230/MiniMax-H3
 - [UPDATE] Jommarn/Qwen-Image-NSFW-LoRA — LoRA — https://huggingface.co/Jommarn/Qwen-Image-NSFW-LoRA
+- [UPDATE] Jommarn/Qwen-Image-2512-Penis-Heretic — LoRA — https://huggingface.co/Jommarn/Qwen-Image-2512-Penis-Heretic
+- [UPDATE] sh202603/lada-seedvr2-lora — LoRA — https://huggingface.co/sh202603/lada-seedvr2-lora
