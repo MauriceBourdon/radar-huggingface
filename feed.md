@@ -1,16 +1,19 @@
 # Radar Hugging Face
 
-Généré : 2026-08-23T13:55:45.396193+00:00
+Généré : 2026-08-23T17:48:23.968565+00:00
 
 ## Delta du run
 
-- [UPDATE] javawock7618/comfy-MiniMax-H3-workflows — LoRA — https://huggingface.co/javawock7618/comfy-MiniMax-H3-workflows
-- [UPDATE] DeepBeepMeep/MiniMax-H3 — LoRA — https://huggingface.co/DeepBeepMeep/MiniMax-H3
-- [UPDATE] Bolt-367/minimax-h3-serverless — base-model — https://huggingface.co/Bolt-367/minimax-h3-serverless
-- [NEW] chfm/MiniMax-H3-Turbo-Lora — LoRA — https://huggingface.co/chfm/MiniMax-H3-Turbo-Lora
-- [UPDATE] Zabin/Qwen_Image_2512_LoRAs — LoRA — https://huggingface.co/Zabin/Qwen_Image_2512_LoRAs
+- [NEW] Video-Reason/VBVR-Pro-Wan2.2-I2V-A14B — base-model — https://huggingface.co/Video-Reason/VBVR-Pro-Wan2.2-I2V-A14B
+- [NEW] Video-Reason/VBVR-Pro-Wan2.2-TI2V-5B — base-model — https://huggingface.co/Video-Reason/VBVR-Pro-Wan2.2-TI2V-5B
+- [NEW] Video-Reason/VBVR-Pro-Wan2.1-I2V-14B — base-model — https://huggingface.co/Video-Reason/VBVR-Pro-Wan2.1-I2V-14B
+- [NEW] Video-Reason/VBVR-Pro-Wan2.1-I2V-14B-diffsynth — LoRA — https://huggingface.co/Video-Reason/VBVR-Pro-Wan2.1-I2V-14B-diffsynth
+- [NEW] Video-Reason/VBVR-Pro-Wan2.2-I2V-A14B-diffsynth — LoRA — https://huggingface.co/Video-Reason/VBVR-Pro-Wan2.2-I2V-A14B-diffsynth
+- [NEW] Video-Reason/VBVR-Pro-Wan2.2-TI2V-5B-diffsynth — LoRA — https://huggingface.co/Video-Reason/VBVR-Pro-Wan2.2-TI2V-5B-diffsynth
 - [UPDATE] Jommarn/Qwen-Image-NSFW-LoRA — LoRA — https://huggingface.co/Jommarn/Qwen-Image-NSFW-LoRA
-- [NEW] nasooh1/Qwen-Image — base-model — https://huggingface.co/nasooh1/Qwen-Image
-- [NEW] firzahdzm/1gpu-qwenimage-6ac9b8e9-v16-01-q_cd05-r2 — base-model — https://huggingface.co/firzahdzm/1gpu-qwenimage-6ac9b8e9-v16-01-q_cd05-r2
-- [NEW] ad-astra-video/LTX-Loras — LoRA — https://huggingface.co/ad-astra-video/LTX-Loras
-- [NEW] EllaPriest45/SenseNova-U1.5-8B-MoT — quantization — https://huggingface.co/EllaPriest45/SenseNova-U1.5-8B-MoT
+- [NEW] Video-Reason/VBVR-Pro-Qwen-Image-Edit — LoRA — https://huggingface.co/Video-Reason/VBVR-Pro-Qwen-Image-Edit
+- [UPDATE] Jommarn/Qwen-Image-2512-Penis-Heretic — LoRA — https://huggingface.co/Jommarn/Qwen-Image-2512-Penis-Heretic
+- [NEW] Video-Reason/VBVR-Pro-Qwen-Image-Edit-diffsynth — LoRA — https://huggingface.co/Video-Reason/VBVR-Pro-Qwen-Image-Edit-diffsynth
+- [NEW] Woffee/Qwen-Image-Edit-Rapid-AIO-V19 — base-model — https://huggingface.co/Woffee/Qwen-Image-Edit-Rapid-AIO-V19
+- [NEW] sadjava/smolvla-video-expert-libero90-s1000-lora-r8 — LoRA — https://huggingface.co/sadjava/smolvla-video-expert-libero90-s1000-lora-r8
+- [UPDATE] EllaPriest45/Wan2.2_Actions — base-model — https://huggingface.co/EllaPriest45/Wan2.2_Actions
