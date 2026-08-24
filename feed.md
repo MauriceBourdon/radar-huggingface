@@ -1,17 +1,19 @@
 # Radar Hugging Face
 
-Généré : 2026-08-24T17:59:39.929679+00:00
+Généré : 2026-08-24T21:54:52.531843+00:00
 
 ## Delta du run
 
-- [NEW] GJuarez67/MiniMax-H3-Fun-Controlnet-Union-Demo — adapter — https://huggingface.co/GJuarez67/MiniMax-H3-Fun-Controlnet-Union-Demo
-- [NEW] hoidhxd/MiniMax-H3-x-Z-Image-hybrid-GGUF — quantization — https://huggingface.co/hoidhxd/MiniMax-H3-x-Z-Image-hybrid-GGUF
-- [NEW] hoidhxd/MiniMax-H3-x-Z-Image-bf16 — quantization — https://huggingface.co/hoidhxd/MiniMax-H3-x-Z-Image-bf16
-- [UPDATE] hoidhxd/MiniMax-H3-x-Z-Image-hybrid — quantization — https://huggingface.co/hoidhxd/MiniMax-H3-x-Z-Image-hybrid
-- [UPDATE] vpakarinen/minimax-h3-custom-loras — LoRA — https://huggingface.co/vpakarinen/minimax-h3-custom-loras
-- [NEW] Kijai/MiniMax-H3-experimental — LoRA — https://huggingface.co/Kijai/MiniMax-H3-experimental
-- [UPDATE] AiNinja94/MiniMax-H3 — base-model — https://huggingface.co/AiNinja94/MiniMax-H3
-- [NEW] hjshus/MiniMax-H3 — base-model — https://huggingface.co/hjshus/MiniMax-H3
-- [NEW] TechnoBaptist/MiniMax-H3-Fun-Controlnet-Union — adapter — https://huggingface.co/TechnoBaptist/MiniMax-H3-Fun-Controlnet-Union
-- [NEW] RuneXX/LTX-2.5-Workflows — LoRA — https://huggingface.co/RuneXX/LTX-2.5-Workflows
-- [UPDATE] sisniha/Qwen-Image-Edit-Rapid-AIO — LoRA — https://huggingface.co/sisniha/Qwen-Image-Edit-Rapid-AIO
+- [NEW] Playtime-AI/Minimax_H3-Salma_Hayek — base-model — https://huggingface.co/Playtime-AI/Minimax_H3-Salma_Hayek
+- [NEW] fkyyy/MiniMax-H3-slim — base-model — https://huggingface.co/fkyyy/MiniMax-H3-slim
+- [UPDATE] EllaPriest45/MinimaxH3_Styles — LoRA — https://huggingface.co/EllaPriest45/MinimaxH3_Styles
+- [UPDATE] EllaPriest45/MinimaxH3_Characters — base-model — https://huggingface.co/EllaPriest45/MinimaxH3_Characters
+- [UPDATE] EllaPriest45/MinimaxH3_Actions — LoRA — https://huggingface.co/EllaPriest45/MinimaxH3_Actions
+- [NEW] Playtime-AI/Minimax_H3-Sydney_Sweeney — base-model — https://huggingface.co/Playtime-AI/Minimax_H3-Sydney_Sweeney
+- [NEW] tugrulv89/LTX_2.5-handler — LoRA — https://huggingface.co/tugrulv89/LTX_2.5-handler
+- [NEW] yuvraj108c/LTX-2.5-22b-IC-LoRA-BBox-Control — LoRA — https://huggingface.co/yuvraj108c/LTX-2.5-22b-IC-LoRA-BBox-Control
+- [NEW] EllaPriest45/LTX2.5_checkpoints — base-model — https://huggingface.co/EllaPriest45/LTX2.5_checkpoints
+- [NEW] sisniha/Qwen-Image-Edit-F2P — LoRA — https://huggingface.co/sisniha/Qwen-Image-Edit-F2P
+- [UPDATE] EllaPriest45/Krea2_Checkpoints — LoRA — https://huggingface.co/EllaPriest45/Krea2_Checkpoints
+- [UPDATE] EllaPriest45/Krea2_Styles — base-model — https://huggingface.co/EllaPriest45/Krea2_Styles
+- [UPDATE] EllaPriest45/Krea2_actions — LoRA — https://huggingface.co/EllaPriest45/Krea2_actions
