@@ -1,13 +1,18 @@
 # Radar Hugging Face
 
-Généré : 2026-08-25T10:02:09.734652+00:00
+Généré : 2026-08-25T14:21:42.436341+00:00
 
 ## Delta du run
 
-- [UPDATE] sonnybox/MiniMax-H3_experimental — LoRA — https://huggingface.co/sonnybox/MiniMax-H3_experimental
-- [NEW] adehong/minimax-h3-ntt-lora — LoRA — https://huggingface.co/adehong/minimax-h3-ntt-lora
-- [UPDATE] fkyyy/MiniMax-H3-slim — base-model — https://huggingface.co/fkyyy/MiniMax-H3-slim
+- [NEW] FX-FeiHou/MiniMax-H3-Remix — LoRA — https://huggingface.co/FX-FeiHou/MiniMax-H3-Remix
+- [NEW] taurusduan/MiniMax-H3-x-Z-Image-native — quantization — https://huggingface.co/taurusduan/MiniMax-H3-x-Z-Image-native
 - [UPDATE] javawock7618/comfy-MiniMax-H3-workflows — LoRA — https://huggingface.co/javawock7618/comfy-MiniMax-H3-workflows
-- [UPDATE] mhnakif/minimax_h3 — base-model — https://huggingface.co/mhnakif/minimax_h3
-- [UPDATE] yuvraj108c/LTX-2.5-22b-IC-LoRA-BBox-Control — LoRA — https://huggingface.co/yuvraj108c/LTX-2.5-22b-IC-LoRA-BBox-Control
-- [NEW] Mohammad200AI/Qwen-Image-Edit-2511-Multiple-Angles-LoRA — LoRA — https://huggingface.co/Mohammad200AI/Qwen-Image-Edit-2511-Multiple-Angles-LoRA
+- [UPDATE] Jojocodex/minimax-h3-wushu-action-lora — LoRA — https://huggingface.co/Jojocodex/minimax-h3-wushu-action-lora
+- [NEW] Playtime-AI/Minimax_H3-Jennifer_Connelly — base-model — https://huggingface.co/Playtime-AI/Minimax_H3-Jennifer_Connelly
+- [UPDATE] saejon/MinimaxH3 — LoRA — https://huggingface.co/saejon/MinimaxH3
+- [NEW] saejon/minimaxh32 — base-model — https://huggingface.co/saejon/minimaxh32
+- [NEW] sisniha/AfterMidnight-MiniMax-H3-NSFW — LoRA — https://huggingface.co/sisniha/AfterMidnight-MiniMax-H3-NSFW
+- [NEW] Exmanq/minimax-h3-aoti — quantization — https://huggingface.co/Exmanq/minimax-h3-aoti
+- [NEW] Exmanq/Minimax-h3-Turbo — base-model — https://huggingface.co/Exmanq/Minimax-h3-Turbo
+- [NEW] Exmanq/MiniMax-H3-Turbo-Lora — LoRA — https://huggingface.co/Exmanq/MiniMax-H3-Turbo-Lora
+- [NEW] Exmanq/MiniMax-H3 — base-model — https://huggingface.co/Exmanq/MiniMax-H3
