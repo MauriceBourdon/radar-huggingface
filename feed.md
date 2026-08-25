@@ -1,18 +1,11 @@
 # Radar Hugging Face
 
-Généré : 2026-08-25T14:21:42.436341+00:00
+Généré : 2026-08-25T17:58:13.664757+00:00
 
 ## Delta du run
 
-- [NEW] FX-FeiHou/MiniMax-H3-Remix — LoRA — https://huggingface.co/FX-FeiHou/MiniMax-H3-Remix
-- [NEW] taurusduan/MiniMax-H3-x-Z-Image-native — quantization — https://huggingface.co/taurusduan/MiniMax-H3-x-Z-Image-native
-- [UPDATE] javawock7618/comfy-MiniMax-H3-workflows — LoRA — https://huggingface.co/javawock7618/comfy-MiniMax-H3-workflows
-- [UPDATE] Jojocodex/minimax-h3-wushu-action-lora — LoRA — https://huggingface.co/Jojocodex/minimax-h3-wushu-action-lora
-- [NEW] Playtime-AI/Minimax_H3-Jennifer_Connelly — base-model — https://huggingface.co/Playtime-AI/Minimax_H3-Jennifer_Connelly
-- [UPDATE] saejon/MinimaxH3 — LoRA — https://huggingface.co/saejon/MinimaxH3
-- [NEW] saejon/minimaxh32 — base-model — https://huggingface.co/saejon/minimaxh32
-- [NEW] sisniha/AfterMidnight-MiniMax-H3-NSFW — LoRA — https://huggingface.co/sisniha/AfterMidnight-MiniMax-H3-NSFW
-- [NEW] Exmanq/minimax-h3-aoti — quantization — https://huggingface.co/Exmanq/minimax-h3-aoti
-- [NEW] Exmanq/Minimax-h3-Turbo — base-model — https://huggingface.co/Exmanq/Minimax-h3-Turbo
-- [NEW] Exmanq/MiniMax-H3-Turbo-Lora — LoRA — https://huggingface.co/Exmanq/MiniMax-H3-Turbo-Lora
-- [NEW] Exmanq/MiniMax-H3 — base-model — https://huggingface.co/Exmanq/MiniMax-H3
+- [UPDATE] Plaguekind/Minimax-H3 — LoRA — https://huggingface.co/Plaguekind/Minimax-H3
+- [NEW] Rkss/Minimax_h3_fl2v_lightx2v_turbo_4to8step_v0.1-v1.0_768p_v4_step600_dareties_fro095_pruned — LoRA — https://huggingface.co/Rkss/Minimax_h3_fl2v_lightx2v_turbo_4to8step_v0.1-v1.0_768p_v4_step600_dareties_fro095_pruned
+- [UPDATE] lovis93/studio-1939-old-animation-lora-minimax-h3 — LoRA — https://huggingface.co/lovis93/studio-1939-old-animation-lora-minimax-h3
+- [UPDATE] tugrulv89/LTX_2.5-handler — LoRA — https://huggingface.co/tugrulv89/LTX_2.5-handler
+- [NEW] Titanfrm/Qwen-Image-Edit-Rapid-AIO — LoRA — https://huggingface.co/Titanfrm/Qwen-Image-Edit-Rapid-AIO
