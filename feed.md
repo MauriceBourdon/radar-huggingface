@@ -1,14 +1,18 @@
 # Radar Hugging Face
 
-Généré : 2026-08-26T02:49:24.864881+00:00
+Généré : 2026-08-26T06:01:29.698451+00:00
 
 ## Delta du run
 
-- [UPDATE] mhnakif/minimax_h3 — base-model — https://huggingface.co/mhnakif/minimax_h3
-- [NEW] zzzDDs/MiniMax-H3_experimental — LoRA — https://huggingface.co/zzzDDs/MiniMax-H3_experimental
-- [NEW] taurusduan/MiniMax-H3-x-Z-Image-hybrid — quantization — https://huggingface.co/taurusduan/MiniMax-H3-x-Z-Image-hybrid
-- [UPDATE] silveroxides/MiniMax-H3_tests — base-model — https://huggingface.co/silveroxides/MiniMax-H3_tests
-- [NEW] Sawfwair/LTX-2.5-Distilled-BF16-MLX-Q4-Text — quantization — https://huggingface.co/Sawfwair/LTX-2.5-Distilled-BF16-MLX-Q4-Text
-- [NEW] Sawfwair/LTX-2.5-Gemma-4-12B-Text-Encoder-MLX-4bit — quantization — https://huggingface.co/Sawfwair/LTX-2.5-Gemma-4-12B-Text-Encoder-MLX-4bit
-- [UPDATE] justinchuby/onnx-genai-example-qwen-image-edit-2509 — base-model — https://huggingface.co/justinchuby/onnx-genai-example-qwen-image-edit-2509
-- [NEW] chibifire/anny-camera-lora — LoRA — https://huggingface.co/chibifire/anny-camera-lora
+- [UPDATE] Smite79/MiniMax-H3-Longvideos — utility — https://huggingface.co/Smite79/MiniMax-H3-Longvideos
+- [NEW] Cup3/next-scene-qwen-image-lora-2509 — LoRA — https://huggingface.co/Cup3/next-scene-qwen-image-lora-2509
+- [NEW] ibyteohdear/Qwen-Image-Edit-lora — LoRA — https://huggingface.co/ibyteohdear/Qwen-Image-Edit-lora
+- [NEW] Pound1320/next-scene-qwen-image-lora-2509 — LoRA — https://huggingface.co/Pound1320/next-scene-qwen-image-lora-2509
+- [NEW] Titanfrm/next-scene-qwen-image-lora-2509 — LoRA — https://huggingface.co/Titanfrm/next-scene-qwen-image-lora-2509
+- [NEW] AST-1320/next-scene-qwen-image-lora-2509 — LoRA — https://huggingface.co/AST-1320/next-scene-qwen-image-lora-2509
+- [NEW] Cup4/next-scene-qwen-image-lora-2509 — LoRA — https://huggingface.co/Cup4/next-scene-qwen-image-lora-2509
+- [NEW] Cup5/next-scene-qwen-image-lora-2509 — LoRA — https://huggingface.co/Cup5/next-scene-qwen-image-lora-2509
+- [NEW] Cup5/Qwen-Image-Edit-Rapid-AIO — LoRA — https://huggingface.co/Cup5/Qwen-Image-Edit-Rapid-AIO
+- [NEW] Cup4/Qwen-Image-Edit-Rapid-AIO — LoRA — https://huggingface.co/Cup4/Qwen-Image-Edit-Rapid-AIO
+- [NEW] Cup3/Qwen-Image-Edit-Rapid-AIO — LoRA — https://huggingface.co/Cup3/Qwen-Image-Edit-Rapid-AIO
+- [NEW] Pound1320/Qwen-Image-Edit-Rapid-AIO — LoRA — https://huggingface.co/Pound1320/Qwen-Image-Edit-Rapid-AIO
