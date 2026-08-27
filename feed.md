@@ -1,36 +1,40 @@
 # Radar Hugging Face
 
-Généré : 2026-08-27T11:54:08.926404+00:00
+Généré : 2026-08-27T23:01:44.716955+00:00
 
 ## Delta du run
 
-- [NEW] StefanFalkok/Minimax_H3_Workflows — LoRA — https://huggingface.co/StefanFalkok/Minimax_H3_Workflows
-- [NEW] BIGJUTT/MiniMax-H3 — base-model — https://huggingface.co/BIGJUTT/MiniMax-H3
-- [UPDATE] javawock7618/comfy-MiniMax-H3-workflows — LoRA — https://huggingface.co/javawock7618/comfy-MiniMax-H3-workflows
-- [NEW] Playtime-AI/Minimax_H3-Zendaya — base-model — https://huggingface.co/Playtime-AI/Minimax_H3-Zendaya
-- [UPDATE] lightx2v/Minimax-h3-Turbo — LoRA — https://huggingface.co/lightx2v/Minimax-h3-Turbo
-- [NEW] Dcbuilder831/MiniMax-H3-Longvideos — utility — https://huggingface.co/Dcbuilder831/MiniMax-H3-Longvideos
-- [NEW] mrlol123/MiniMax-H3 — base-model — https://huggingface.co/mrlol123/MiniMax-H3
-- [UPDATE] alibaba-pai/MiniMax-H3-Acc-LoRAs — LoRA — https://huggingface.co/alibaba-pai/MiniMax-H3-Acc-LoRAs
-- [NEW] ljt520lxy/MiniMax-H3 — base-model — https://huggingface.co/ljt520lxy/MiniMax-H3
-- [NEW] Jamphus/Qwen3-VL-32B-Heretic-MiniMax-H3-NVFP4 — quantization — https://huggingface.co/Jamphus/Qwen3-VL-32B-Heretic-MiniMax-H3-NVFP4
-- [UPDATE] Lightricks/LTX-2.5 — base-model — https://huggingface.co/Lightricks/LTX-2.5
-- [NEW] Video-Reason/VBVR-Pro-Wan2.2-TI2V-5B-RLVLM-Qwen3.6-27B-Reward — base-model — https://huggingface.co/Video-Reason/VBVR-Pro-Wan2.2-TI2V-5B-RLVLM-Qwen3.6-27B-Reward
-- [NEW] Video-Reason/VBVR-Pro-Wan2.2-TI2V-5B-RLVR — base-model — https://huggingface.co/Video-Reason/VBVR-Pro-Wan2.2-TI2V-5B-RLVR
-- [UPDATE] Video-Reason/VBVR-Pro-Wan2.1-I2V-14B — base-model — https://huggingface.co/Video-Reason/VBVR-Pro-Wan2.1-I2V-14B
-- [UPDATE] Video-Reason/VBVR-Pro-Wan2.2-TI2V-5B — base-model — https://huggingface.co/Video-Reason/VBVR-Pro-Wan2.2-TI2V-5B
-- [UPDATE] Video-Reason/VBVR-Pro-Wan2.2-TI2V-5B-diffsynth — LoRA — https://huggingface.co/Video-Reason/VBVR-Pro-Wan2.2-TI2V-5B-diffsynth
-- [UPDATE] Video-Reason/VBVR-Pro-Wan2.2-I2V-A14B-diffsynth — LoRA — https://huggingface.co/Video-Reason/VBVR-Pro-Wan2.2-I2V-A14B-diffsynth
+- [NEW] fkyyy/MiniMax-H3-fp8 — quantization — https://huggingface.co/fkyyy/MiniMax-H3-fp8
+- [UPDATE] joeygambino/MiniMax-H3-Multishot-Workflow — utility — https://huggingface.co/joeygambino/MiniMax-H3-Multishot-Workflow
+- [UPDATE] Kijai/MiniMax-H3-experimental — LoRA — https://huggingface.co/Kijai/MiniMax-H3-experimental
+- [UPDATE] Hearmeman/minimax-h3-loras — LoRA — https://huggingface.co/Hearmeman/minimax-h3-loras
+- [UPDATE] Bolt-367/minimax-h3-serverless — base-model — https://huggingface.co/Bolt-367/minimax-h3-serverless
+- [UPDATE] StefanFalkok/Minimax_H3_Workflows — LoRA — https://huggingface.co/StefanFalkok/Minimax_H3_Workflows
+- [NEW] NTU-yiwen/awm-minimax-h3-new1344-lora-checkpoints — LoRA — https://huggingface.co/NTU-yiwen/awm-minimax-h3-new1344-lora-checkpoints
+- [NEW] Wesley1234/minimax_h3_ref2va_patchin_hf102 — quantization — https://huggingface.co/Wesley1234/minimax_h3_ref2va_patchin_hf102
+- [NEW] Wesley1234/Minimax-H3-Dasiwa-V1-Hybird-4steps — base-model — https://huggingface.co/Wesley1234/Minimax-H3-Dasiwa-V1-Hybird-4steps
+- [NEW] Wesley1234/MiniMax-H3-Acc-8Step-comfy — LoRA — https://huggingface.co/Wesley1234/MiniMax-H3-Acc-8Step-comfy
+- [NEW] Wesley1234/minimax_h3_turbo_4step_10ErosMax_test4_pruned_curveproj1025_T8 — LoRA — https://huggingface.co/Wesley1234/minimax_h3_turbo_4step_10ErosMax_test4_pruned_curveproj1025_T8
+- [NEW] Wesley1234/minimax_h3_fl2v_turbo_4step_v0.1_comfyui_alpha8-T8-convert — base-model — https://huggingface.co/Wesley1234/minimax_h3_fl2v_turbo_4step_v0.1_comfyui_alpha8-T8-convert
+- [NEW] Wesley1234/minimax-h3-4step-turbo-loras-comfyui-exp — LoRA — https://huggingface.co/Wesley1234/minimax-h3-4step-turbo-loras-comfyui-exp
+- [UPDATE] Smite79/MiniMax-H3-Longvideos — utility — https://huggingface.co/Smite79/MiniMax-H3-Longvideos
+- [NEW] Deepdive404-3/MiniMax-H3 — base-model — https://huggingface.co/Deepdive404-3/MiniMax-H3
+- [UPDATE] nemusugikenshin/MiniMax-H3Test — base-model — https://huggingface.co/nemusugikenshin/MiniMax-H3Test
+- [UPDATE] drbaph/MiniMax-H3-Turbo-Lora-ComfyUI — LoRA — https://huggingface.co/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI
+- [NEW] wt5719001/Minimax-H3-Dasiwa-V1-Hybird-4steps — base-model — https://huggingface.co/wt5719001/Minimax-H3-Dasiwa-V1-Hybird-4steps
+- [NEW] dgrauet/ltx-2.5-mlx-q4 — base-model — https://huggingface.co/dgrauet/ltx-2.5-mlx-q4
+- [NEW] tamm5y5m5/ltx2.5-kimalo-lora — LoRA — https://huggingface.co/tamm5y5m5/ltx2.5-kimalo-lora
+- [NEW] dgrauet/ltx-2.5-mlx-q8 — LoRA — https://huggingface.co/dgrauet/ltx-2.5-mlx-q8
+- [NEW] dgrauet/ltx-2.5-mlx — LoRA — https://huggingface.co/dgrauet/ltx-2.5-mlx
+- [UPDATE] Video-Reason/VBVR-Pro-Wan2.2-I2V-A14B — base-model — https://huggingface.co/Video-Reason/VBVR-Pro-Wan2.2-I2V-A14B
 - [UPDATE] Video-Reason/VBVR-Pro-Wan2.1-I2V-14B-diffsynth — LoRA — https://huggingface.co/Video-Reason/VBVR-Pro-Wan2.1-I2V-14B-diffsynth
-- [NEW] sin336/Qwen-Image-Edit-2511-Gaussian-Splash — LoRA — https://huggingface.co/sin336/Qwen-Image-Edit-2511-Gaussian-Splash
-- [UPDATE] Video-Reason/VBVR-Pro-Qwen-Image-Edit — LoRA — https://huggingface.co/Video-Reason/VBVR-Pro-Qwen-Image-Edit
+- [UPDATE] Video-Reason/VBVR-Pro-Wan2.2-I2V-A14B-diffsynth — LoRA — https://huggingface.co/Video-Reason/VBVR-Pro-Wan2.2-I2V-A14B-diffsynth
+- [UPDATE] Video-Reason/VBVR-Pro-Wan2.2-TI2V-5B-diffsynth — LoRA — https://huggingface.co/Video-Reason/VBVR-Pro-Wan2.2-TI2V-5B-diffsynth
+- [UPDATE] Video-Reason/VBVR-Pro-Wan2.2-TI2V-5B — base-model — https://huggingface.co/Video-Reason/VBVR-Pro-Wan2.2-TI2V-5B
+- [NEW] qbrtml/Qwen-Image-Edit-2511-Lightning-NSFW — base-model — https://huggingface.co/qbrtml/Qwen-Image-Edit-2511-Lightning-NSFW
 - [UPDATE] Video-Reason/VBVR-Pro-Qwen-Image-Edit-diffsynth — LoRA — https://huggingface.co/Video-Reason/VBVR-Pro-Qwen-Image-Edit-diffsynth
-- [UPDATE] mflux-community/qwen-image-edit-mflux-q6 — base-model — https://huggingface.co/mflux-community/qwen-image-edit-mflux-q6
-- [UPDATE] mflux-community/qwen-image-edit-mflux-q3 — base-model — https://huggingface.co/mflux-community/qwen-image-edit-mflux-q3
-- [UPDATE] mflux-community/qwen-image-edit-mflux-q4 — base-model — https://huggingface.co/mflux-community/qwen-image-edit-mflux-q4
-- [UPDATE] mflux-community/qwen-image-edit-mflux-q5 — base-model — https://huggingface.co/mflux-community/qwen-image-edit-mflux-q5
-- [UPDATE] mflux-community/qwen-image-edit-mflux-q8 — base-model — https://huggingface.co/mflux-community/qwen-image-edit-mflux-q8
-- [UPDATE] mflux-community/qwen-image-edit-mflux-bf16 — base-model — https://huggingface.co/mflux-community/qwen-image-edit-mflux-bf16
-- [UPDATE] sh202603/lada-seedvr2-lora — LoRA — https://huggingface.co/sh202603/lada-seedvr2-lora
-- [NEW] dreamdifferent/vam-cross-level4-kuka-iiwa14-widowx-texture-video-lora-iter400 — LoRA — https://huggingface.co/dreamdifferent/vam-cross-level4-kuka-iiwa14-widowx-texture-video-lora-iter400
-- [NEW] dreamdifferent/vam-cross-level4-kuka-iiwa14-widowx-texture-teleopaligned-videolora200-action-decoder-iter1800 — LoRA — https://huggingface.co/dreamdifferent/vam-cross-level4-kuka-iiwa14-widowx-texture-teleopaligned-videolora200-action-decoder-iter1800
+- [UPDATE] Video-Reason/VBVR-Pro-Qwen-Image-Edit — LoRA — https://huggingface.co/Video-Reason/VBVR-Pro-Qwen-Image-Edit
+- [NEW] amitat44/comic-qwen-image-edit — quantization — https://huggingface.co/amitat44/comic-qwen-image-edit
+- [UPDATE] Merserk/Seedvr2-vae-fp32 — utility — https://huggingface.co/Merserk/Seedvr2-vae-fp32
+- [NEW] dreamdifferent/vam-cross-level4-panda-robosuite-widowx-texture-video-lora-iter-400 — LoRA — https://huggingface.co/dreamdifferent/vam-cross-level4-panda-robosuite-widowx-texture-video-lora-iter-400
+- [NEW] dreamdifferent/vam-cross-level4-panda-robosuite-widowx-texture-video-lora-iter-200 — LoRA — https://huggingface.co/dreamdifferent/vam-cross-level4-panda-robosuite-widowx-texture-video-lora-iter-200
