@@ -56,8 +56,10 @@ jobs:
             git push origin HEAD:main
           fi
 
-      - name: Send Discord delta
-        if: success()
+      # Temporary benchmark control: collection and feed persistence remain active,
+      # while the legacy Discord publication is intentionally neutralized.
+      - name: Send Discord delta (temporarily disabled)
+        if: ${{ false }}
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         run: python discord_notifier.py
