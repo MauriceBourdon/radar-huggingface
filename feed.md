@@ -1,24 +1,29 @@
 # Radar Hugging Face
 
-Généré : 2026-08-31T07:27:23.852647+00:00
+Généré : 2026-08-31T17:11:41.908124+00:00
 
 ## Delta du run
 
-- [NEW] Papina/MiniMax-H3-ref2va-int8 — quantization — https://huggingface.co/Papina/MiniMax-H3-ref2va-int8
+- [UPDATE] Smite79/MiniMax-H3-Longvideos — LoRA — https://huggingface.co/Smite79/MiniMax-H3-Longvideos
+- [NEW] suanyu/MiniMax-H3-Star7-INT8 — quantization — https://huggingface.co/suanyu/MiniMax-H3-Star7-INT8
+- [NEW] mu1998/MiniMax-H3-Turbo-Lora — LoRA — https://huggingface.co/mu1998/MiniMax-H3-Turbo-Lora
+- [UPDATE] silveroxides/MiniMax-H3_tests — base-model — https://huggingface.co/silveroxides/MiniMax-H3_tests
+- [UPDATE] vantagewithai/MiniMax-H3-comfyUI-GGUF — quantization — https://huggingface.co/vantagewithai/MiniMax-H3-comfyUI-GGUF
+- [NEW] nyxtesla/MiniMax-H3 — base-model — https://huggingface.co/nyxtesla/MiniMax-H3
+- [UPDATE] Jojocodex/wushu-action-v7-minimax-h3-fl2va-ref2va-lora — LoRA — https://huggingface.co/Jojocodex/wushu-action-v7-minimax-h3-fl2va-ref2va-lora
+- [UPDATE] javawock7618/comfy-MiniMax-H3-workflows — LoRA — https://huggingface.co/javawock7618/comfy-MiniMax-H3-workflows
 - [UPDATE] Bolt-367/minimax-h3-serverless — base-model — https://huggingface.co/Bolt-367/minimax-h3-serverless
-- [NEW] PixelAlchemist123/Minimax_h3_latent_Upscaler — utility — https://huggingface.co/PixelAlchemist123/Minimax_h3_latent_Upscaler
-- [NEW] treydonovan/Minimax-h3-Turbo — LoRA — https://huggingface.co/treydonovan/Minimax-h3-Turbo
-- [UPDATE] Smite79/MiniMax-H3-Longvideos — utility — https://huggingface.co/Smite79/MiniMax-H3-Longvideos
-- [NEW] orangesouth/MinimaxH3CinematicRealism — base-model — https://huggingface.co/orangesouth/MinimaxH3CinematicRealism
-- [NEW] taurusduan/MiniMax-H3-x-Z-Image-bf16 — quantization — https://huggingface.co/taurusduan/MiniMax-H3-x-Z-Image-bf16
-- [NEW] taurusduan/Minimax-H3-Super-Acceleration-Comfy — LoRA — https://huggingface.co/taurusduan/Minimax-H3-Super-Acceleration-Comfy
-- [UPDATE] Plaguekind/Minimax-H3 — LoRA — https://huggingface.co/Plaguekind/Minimax-H3
-- [NEW] taurusduan/MiniMax-H3-Remix — LoRA — https://huggingface.co/taurusduan/MiniMax-H3-Remix
-- [NEW] taurusduan/Qwen3-VL-32B-Heretic-MiniMax-H3-NVFP4 — quantization — https://huggingface.co/taurusduan/Qwen3-VL-32B-Heretic-MiniMax-H3-NVFP4
-- [NEW] taurusduan/MiniMax-H3-experimental — LoRA — https://huggingface.co/taurusduan/MiniMax-H3-experimental
-- [NEW] taurusduan/MiniMax-H3_comfy — LoRA — https://huggingface.co/taurusduan/MiniMax-H3_comfy
-- [NEW] taurusduan/MiniMax-H3-TAE — utility — https://huggingface.co/taurusduan/MiniMax-H3-TAE
-- [UPDATE] mhnakif/minimax_h3 — base-model — https://huggingface.co/mhnakif/minimax_h3
-- [NEW] Playtime-AI/Minimax_H3-Anya_Taylor_Joy — base-model — https://huggingface.co/Playtime-AI/Minimax_H3-Anya_Taylor_Joy
-- [NEW] wolf1280/qwen-image-edit-plus-nsfw-lora — LoRA — https://huggingface.co/wolf1280/qwen-image-edit-plus-nsfw-lora
-- [NEW] wolf1280/Qwen-Image-Edit-Rapid-AIO-V19 — base-model — https://huggingface.co/wolf1280/Qwen-Image-Edit-Rapid-AIO-V19
+- [NEW] lynaNSFW/DaSiWa_MiniMax_H3 — LoRA — https://huggingface.co/lynaNSFW/DaSiWa_MiniMax_H3
+- [NEW] PlatypusDevice/minimax-h3-ref2va-runtime — quantization — https://huggingface.co/PlatypusDevice/minimax-h3-ref2va-runtime
+- [NEW] taurusduan/MiniMax-H3 — LoRA — https://huggingface.co/taurusduan/MiniMax-H3
+- [NEW] glory-hyeok/wam-dit4dit-robocasa-kitchen-wan22-4knobA-plain60-videorepa-vmae-l18-pc05-fmalign-g4 — base-model — https://huggingface.co/glory-hyeok/wam-dit4dit-robocasa-kitchen-wan22-4knobA-plain60-videorepa-vmae-l18-pc05-fmalign-g4
+- [UPDATE] YoAiKimia/Qwen-Image — base-model — https://huggingface.co/YoAiKimia/Qwen-Image
+- [NEW] perpetual3x/Qwen-Image-Female-Anatomy-Fix-NSFW-LoRA-Triggerless-v2 — LoRA — https://huggingface.co/perpetual3x/Qwen-Image-Female-Anatomy-Fix-NSFW-LoRA-Triggerless-v2
+- [UPDATE] sh202603/lada-seedvr2-lora — LoRA — https://huggingface.co/sh202603/lada-seedvr2-lora
+- [NEW] Chisato623/seedvr2_ncnn — base-model — https://huggingface.co/Chisato623/seedvr2_ncnn
+- [NEW] dreamdifferent/vam-cross-level2-kuka-iiwa14-widowx-texture-teleopaligned-videolora200-action-decoder-iter900 — LoRA — https://huggingface.co/dreamdifferent/vam-cross-level2-kuka-iiwa14-widowx-texture-teleopaligned-videolora200-action-decoder-iter900
+- [NEW] dreamdifferent/vam-cross-level2-so101-widowx-texture-video-lora-iter-400 — LoRA — https://huggingface.co/dreamdifferent/vam-cross-level2-so101-widowx-texture-video-lora-iter-400
+- [NEW] dreamdifferent/vam-cross-level4-so101-widowx-texture-teleopaligned-videolora200-action-decoder-iter900 — LoRA — https://huggingface.co/dreamdifferent/vam-cross-level4-so101-widowx-texture-teleopaligned-videolora200-action-decoder-iter900
+- [NEW] dreamdifferent/vam-cross-level5-panda-robosuite-widowx-texture-teleopaligned-videolora200-action-dec-9a6c710730 — LoRA — https://huggingface.co/dreamdifferent/vam-cross-level5-panda-robosuite-widowx-texture-teleopaligned-videolora200-action-dec-9a6c710730
+- [NEW] dreamdifferent/vam-cross-level2-so101-widowx-texture-video-lora-iter-200 — LoRA — https://huggingface.co/dreamdifferent/vam-cross-level2-so101-widowx-texture-video-lora-iter-200
+- [NEW] dreamdifferent/vam-cross-level2-kuka-iiwa14-widowx-texture-video-lora-iter-400 — LoRA — https://huggingface.co/dreamdifferent/vam-cross-level2-kuka-iiwa14-widowx-texture-video-lora-iter-400
