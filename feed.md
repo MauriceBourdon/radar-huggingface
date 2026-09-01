@@ -1,27 +1,23 @@
 # Radar Hugging Face
 
-Généré : 2026-09-01T06:40:25.444263+00:00
+Généré : 2026-09-01T14:15:28.731912+00:00
 
 ## Delta du run
 
-- [UPDATE] Smite79/MiniMax-H3-Longvideos — utility — https://huggingface.co/Smite79/MiniMax-H3-Longvideos
-- [UPDATE] suanyu/MiniMax-H3-Star7-INT8 — quantization — https://huggingface.co/suanyu/MiniMax-H3-Star7-INT8
+- [NEW] cokeadrink/minimax-h3-fl2va-lightning-4step — base-model — https://huggingface.co/cokeadrink/minimax-h3-fl2va-lightning-4step
+- [UPDATE] KennethFal/vh5tape-vhs-lora-minimax-h3 — LoRA — https://huggingface.co/KennethFal/vh5tape-vhs-lora-minimax-h3
 - [UPDATE] javawock7618/comfy-MiniMax-H3-workflows — LoRA — https://huggingface.co/javawock7618/comfy-MiniMax-H3-workflows
-- [NEW] JOKER141/MiniMax-H3-General-Motion-Continuity-Repair — LoRA — https://huggingface.co/JOKER141/MiniMax-H3-General-Motion-Continuity-Repair
-- [NEW] JOKER141/MiniMax-H3-Combat-Base-V2 — LoRA — https://huggingface.co/JOKER141/MiniMax-H3-Combat-Base-V2
 - [UPDATE] Jojocodex/wushu-action-v7-minimax-h3-fl2va-ref2va-lora — LoRA — https://huggingface.co/Jojocodex/wushu-action-v7-minimax-h3-fl2va-ref2va-lora
-- [UPDATE] Beidouqixing/minimax-h3-4step-lora-flashgen — LoRA — https://huggingface.co/Beidouqixing/minimax-h3-4step-lora-flashgen
-- [NEW] lihaoyun6/MiniMax-H3-VAE-ONNX — quantization — https://huggingface.co/lihaoyun6/MiniMax-H3-VAE-ONNX
-- [UPDATE] silveroxides/MiniMax-H3_tests — base-model — https://huggingface.co/silveroxides/MiniMax-H3_tests
-- [NEW] nutboyai/minimaxH3-NSFW — base-model — https://huggingface.co/nutboyai/minimaxH3-NSFW
-- [NEW] saluca-labs/MiniMax-H3 — base-model — https://huggingface.co/saluca-labs/MiniMax-H3
-- [UPDATE] Plaguekind/Minimax-H3 — LoRA — https://huggingface.co/Plaguekind/Minimax-H3
-- [NEW] r3lax/MiniMax-H3-Turbo-cmf — LoRA — https://huggingface.co/r3lax/MiniMax-H3-Turbo-cmf
-- [NEW] Playtime-AI/Minimax_H3-Kiernan_Shipka — base-model — https://huggingface.co/Playtime-AI/Minimax_H3-Kiernan_Shipka
-- [NEW] Playtime-AI/Minimax_H3-Millie_Bobby_Brown — base-model — https://huggingface.co/Playtime-AI/Minimax_H3-Millie_Bobby_Brown
-- [NEW] Playtime-AI/Minimax_H3-Milly_Alcock — base-model — https://huggingface.co/Playtime-AI/Minimax_H3-Milly_Alcock
-- [UPDATE] StefanFalkok/Minimax_H3_Workflows — LoRA — https://huggingface.co/StefanFalkok/Minimax_H3_Workflows
-- [UPDATE] Lightricks/LTX-2.5-22b-IC-LoRA-Pixel-Spatial-Upscaler — LoRA — https://huggingface.co/Lightricks/LTX-2.5-22b-IC-LoRA-Pixel-Spatial-Upscaler
-- [UPDATE] Lightricks/LTX-2.5 — base-model — https://huggingface.co/Lightricks/LTX-2.5
-- [UPDATE] perpetual3x/Qwen-Image-Female-Anatomy-Fix-NSFW-LoRA-Triggerless-v2 — LoRA — https://huggingface.co/perpetual3x/Qwen-Image-Female-Anatomy-Fix-NSFW-LoRA-Triggerless-v2
-- [NEW] ussoewwin/SeedVR2-VAE-TenorRT-Engine-for-Blackwell — utility — https://huggingface.co/ussoewwin/SeedVR2-VAE-TenorRT-Engine-for-Blackwell
+- [NEW] diobrando0/MiniMax-H3-fl2va-ref2va-hybrids-bf16 — quantization — https://huggingface.co/diobrando0/MiniMax-H3-fl2va-ref2va-hybrids-bf16
+- [NEW] skySakir/MiniMax-H3 — base-model — https://huggingface.co/skySakir/MiniMax-H3
+- [UPDATE] vantagewithai/MiniMax-H3-comfyUI-GGUF — quantization — https://huggingface.co/vantagewithai/MiniMax-H3-comfyUI-GGUF
+- [NEW] deAPI-ai/minimax-h3-33b-int8 — LoRA — https://huggingface.co/deAPI-ai/minimax-h3-33b-int8
+- [NEW] tomas-organization/minimax-h3-ref2va-cache-int8 — quantization — https://huggingface.co/tomas-organization/minimax-h3-ref2va-cache-int8
+- [UPDATE] Smite79/MiniMax-H3-Longvideos — utility — https://huggingface.co/Smite79/MiniMax-H3-Longvideos
+- [UPDATE] Chisato623/seedvr2_ncnn — base-model — https://huggingface.co/Chisato623/seedvr2_ncnn
+- [UPDATE] ussoewwin/SeedVR2-VAE-TenorRT-Engine-for-Blackwell — utility — https://huggingface.co/ussoewwin/SeedVR2-VAE-TenorRT-Engine-for-Blackwell
+- [NEW] dreamdifferent/vam-cross-level2-panda-robosuite-widowx-texture-video-lora-iter-400 — LoRA — https://huggingface.co/dreamdifferent/vam-cross-level2-panda-robosuite-widowx-texture-video-lora-iter-400
+- [NEW] dreamdifferent/vam-cross-level2-panda-robosuite-widowx-texture-video-lora-iter-200 — LoRA — https://huggingface.co/dreamdifferent/vam-cross-level2-panda-robosuite-widowx-texture-video-lora-iter-200
+- [NEW] dreamdifferent/vam-cross-level4-so101-widowx-texture-teleopaligned-videolora200-action-decoder-iter1800 — LoRA — https://huggingface.co/dreamdifferent/vam-cross-level4-so101-widowx-texture-teleopaligned-videolora200-action-decoder-iter1800
+- [UPDATE] EllaPriest45/Wan2.2_Actions — base-model — https://huggingface.co/EllaPriest45/Wan2.2_Actions
+- [UPDATE] EllaPriest45/Wan2.2_Checkpoints — quantization — https://huggingface.co/EllaPriest45/Wan2.2_Checkpoints
