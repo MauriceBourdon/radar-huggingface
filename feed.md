@@ -1,19 +1,21 @@
 # Radar Hugging Face
 
-Généré : 2026-09-02T20:02:14.057378+00:00
+Généré : 2026-09-02T23:30:54.555868+00:00
 
 ## Delta du run
 
-- [UPDATE] lihaoyun6/MiniMax-H3-VAE-ONNX — quantization — https://huggingface.co/lihaoyun6/MiniMax-H3-VAE-ONNX
+- [NEW] herb786/MinimaxH3-achece-int8 — quantization — https://huggingface.co/herb786/MinimaxH3-achece-int8
+- [UPDATE] EllaPriest45/MinimaxH3_Styles — LoRA — https://huggingface.co/EllaPriest45/MinimaxH3_Styles
+- [UPDATE] EllaPriest45/MinimaxH3_Characters — base-model — https://huggingface.co/EllaPriest45/MinimaxH3_Characters
+- [UPDATE] EllaPriest45/MinimaxH3_Actions — LoRA — https://huggingface.co/EllaPriest45/MinimaxH3_Actions
 - [UPDATE] Smite79/MiniMax-H3-Longvideos — utility — https://huggingface.co/Smite79/MiniMax-H3-Longvideos
-- [NEW] pottokao/MiniMax-H3-FastH3-NVFP4-rotated — quantization — https://huggingface.co/pottokao/MiniMax-H3-FastH3-NVFP4-rotated
-- [NEW] pottokao/MiniMax-H3-NVFP4-rotated — quantization — https://huggingface.co/pottokao/MiniMax-H3-NVFP4-rotated
-- [UPDATE] saejon/MinimaxH3 — LoRA — https://huggingface.co/saejon/MinimaxH3
-- [UPDATE] RuneXX/LTX-2.5-Workflows — LoRA — https://huggingface.co/RuneXX/LTX-2.5-Workflows
-- [NEW] mikexen/qwen-image-t2i-fp8 — quantization — https://huggingface.co/mikexen/qwen-image-t2i-fp8
-- [NEW] 15548utgjsyyaau8/qwen-image-edit-plus-nsfw-lora — LoRA — https://huggingface.co/15548utgjsyyaau8/qwen-image-edit-plus-nsfw-lora
-- [NEW] perpetual3x/Qwen-Image-Japanese-Female-Anatomy-Realism-NSFW-LoRA-v1 — LoRA — https://huggingface.co/perpetual3x/Qwen-Image-Japanese-Female-Anatomy-Realism-NSFW-LoRA-v1
-- [UPDATE] ussoewwin/SeedVR2-VAE-TenorRT-Engine-for-Blackwell — utility — https://huggingface.co/ussoewwin/SeedVR2-VAE-TenorRT-Engine-for-Blackwell
-- [NEW] dreamdifferent/vam-cross-level2-so101-widowx-texture-teleopaligned-videolora200-action-decoder-iter900 — LoRA — https://huggingface.co/dreamdifferent/vam-cross-level2-so101-widowx-texture-teleopaligned-videolora200-action-decoder-iter900
-- [NEW] wmghf2023/h3-video-model-comfyui-backups — LoRA — https://huggingface.co/wmghf2023/h3-video-model-comfyui-backups
-- [UPDATE] Comfy-Org/Pixal3D — quantization — https://huggingface.co/Comfy-Org/Pixal3D
+- [NEW] Asirus/Minimax-H3-Latent-Upscaler-BF16-MAXQUALITY — quantization — https://huggingface.co/Asirus/Minimax-H3-Latent-Upscaler-BF16-MAXQUALITY
+- [NEW] OpenVDN/vdn-minimax-h3 — LoRA — https://huggingface.co/OpenVDN/vdn-minimax-h3
+- [NEW] AST-1320/Qwen-Image-Lightning — LoRA — https://huggingface.co/AST-1320/Qwen-Image-Lightning
+- [NEW] AST-1320/Qwen-Image-Studio-Realism — LoRA — https://huggingface.co/AST-1320/Qwen-Image-Studio-Realism
+- [NEW] dreamdifferent/vam-cross-level4-kuka-iiwa14-widowx-texture-v2-video-lora-iter400 — LoRA — https://huggingface.co/dreamdifferent/vam-cross-level4-kuka-iiwa14-widowx-texture-v2-video-lora-iter400
+- [NEW] dreamdifferent/vam-cross-level4-kuka-iiwa14-widowx-texture-v2-video-lora-iter200 — LoRA — https://huggingface.co/dreamdifferent/vam-cross-level4-kuka-iiwa14-widowx-texture-v2-video-lora-iter200
+- [NEW] dreamdifferent/vam-cross-level5-panda-robotiq-widowx-texture-video-lora-iter400 — LoRA — https://huggingface.co/dreamdifferent/vam-cross-level5-panda-robotiq-widowx-texture-video-lora-iter400
+- [NEW] dreamdifferent/vam-cross-level5-panda-robotiq-widowx-texture-video-lora-iter200 — LoRA — https://huggingface.co/dreamdifferent/vam-cross-level5-panda-robotiq-widowx-texture-video-lora-iter200
+- [NEW] dreamdifferent/vam-cross-level2-panda-robosuite-widowx-texture-teleopaligned-videolora200-action-dec-776302f09c — LoRA — https://huggingface.co/dreamdifferent/vam-cross-level2-panda-robosuite-widowx-texture-teleopaligned-videolora200-action-dec-776302f09c
+- [UPDATE] EllaPriest45/LTX2.3_Styles — base-model — https://huggingface.co/EllaPriest45/LTX2.3_Styles
