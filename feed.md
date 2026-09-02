@@ -1,15 +1,19 @@
 # Radar Hugging Face
 
-Généré : 2026-09-02T13:48:11.687994+00:00
+Généré : 2026-09-02T20:02:14.057378+00:00
 
 ## Delta du run
 
 - [UPDATE] lihaoyun6/MiniMax-H3-VAE-ONNX — quantization — https://huggingface.co/lihaoyun6/MiniMax-H3-VAE-ONNX
-- [NEW] B4100/MiniMax-H3-Facial-Realism-CloseUp — LoRA — https://huggingface.co/B4100/MiniMax-H3-Facial-Realism-CloseUp
 - [UPDATE] Smite79/MiniMax-H3-Longvideos — utility — https://huggingface.co/Smite79/MiniMax-H3-Longvideos
-- [UPDATE] vpakarinen/minimax-h3-custom-loras — LoRA — https://huggingface.co/vpakarinen/minimax-h3-custom-loras
-- [UPDATE] Jojocodex/wushu-action-v7-minimax-h3-fl2va-ref2va-lora — LoRA — https://huggingface.co/Jojocodex/wushu-action-v7-minimax-h3-fl2va-ref2va-lora
-- [UPDATE] cokeadrink/minimax-h3-fl2va-lightning-4step — base-model — https://huggingface.co/cokeadrink/minimax-h3-fl2va-lightning-4step
-- [UPDATE] javawock7618/comfy-MiniMax-H3-workflows — LoRA — https://huggingface.co/javawock7618/comfy-MiniMax-H3-workflows
-- [UPDATE] Giniiki/LTX-2.5-mlx-4bit-distilled — quantization — https://huggingface.co/Giniiki/LTX-2.5-mlx-4bit-distilled
-- [NEW] fosie/qwen-image-edit-plus-nsfw-lora — LoRA — https://huggingface.co/fosie/qwen-image-edit-plus-nsfw-lora
+- [NEW] pottokao/MiniMax-H3-FastH3-NVFP4-rotated — quantization — https://huggingface.co/pottokao/MiniMax-H3-FastH3-NVFP4-rotated
+- [NEW] pottokao/MiniMax-H3-NVFP4-rotated — quantization — https://huggingface.co/pottokao/MiniMax-H3-NVFP4-rotated
+- [UPDATE] saejon/MinimaxH3 — LoRA — https://huggingface.co/saejon/MinimaxH3
+- [UPDATE] RuneXX/LTX-2.5-Workflows — LoRA — https://huggingface.co/RuneXX/LTX-2.5-Workflows
+- [NEW] mikexen/qwen-image-t2i-fp8 — quantization — https://huggingface.co/mikexen/qwen-image-t2i-fp8
+- [NEW] 15548utgjsyyaau8/qwen-image-edit-plus-nsfw-lora — LoRA — https://huggingface.co/15548utgjsyyaau8/qwen-image-edit-plus-nsfw-lora
+- [NEW] perpetual3x/Qwen-Image-Japanese-Female-Anatomy-Realism-NSFW-LoRA-v1 — LoRA — https://huggingface.co/perpetual3x/Qwen-Image-Japanese-Female-Anatomy-Realism-NSFW-LoRA-v1
+- [UPDATE] ussoewwin/SeedVR2-VAE-TenorRT-Engine-for-Blackwell — utility — https://huggingface.co/ussoewwin/SeedVR2-VAE-TenorRT-Engine-for-Blackwell
+- [NEW] dreamdifferent/vam-cross-level2-so101-widowx-texture-teleopaligned-videolora200-action-decoder-iter900 — LoRA — https://huggingface.co/dreamdifferent/vam-cross-level2-so101-widowx-texture-teleopaligned-videolora200-action-decoder-iter900
+- [NEW] wmghf2023/h3-video-model-comfyui-backups — LoRA — https://huggingface.co/wmghf2023/h3-video-model-comfyui-backups
+- [UPDATE] Comfy-Org/Pixal3D — quantization — https://huggingface.co/Comfy-Org/Pixal3D
