@@ -1,22 +1,20 @@
 # Radar Hugging Face
 
-Généré : 2026-09-04T13:42:11.082357+00:00
+Généré : 2026-09-04T19:48:15.317638+00:00
 
 ## Delta du run
 
-- [NEW] ewin-reg/MiniMax-H3-SchurScale-NVFP — base-model — https://huggingface.co/ewin-reg/MiniMax-H3-SchurScale-NVFP
-- [NEW] shamanic/minimax-h3-equi360-lora — LoRA — https://huggingface.co/shamanic/minimax-h3-equi360-lora
-- [NEW] Playtime-AI/Minimax_H3-Ricky_Gervais — base-model — https://huggingface.co/Playtime-AI/Minimax_H3-Ricky_Gervais
-- [NEW] t8star/minimax_h3_fl2v_turbo_8step_v1.0_768p_FeiHouRemix_v0.6_compat_v001_T8 — base-model — https://huggingface.co/t8star/minimax_h3_fl2v_turbo_8step_v1.0_768p_FeiHouRemix_v0.6_compat_v001_T8
-- [NEW] t8star/minimax_h3_turbo_v4_step600_ema_DasiwaREF2VAHybridV1_0_curveproj1025_compat_v001 — base-model — https://huggingface.co/t8star/minimax_h3_turbo_v4_step600_ema_DasiwaREF2VAHybridV1_0_curveproj1025_compat_v001
-- [NEW] Heouzen/minimax-h3_sks_noel — base-model — https://huggingface.co/Heouzen/minimax-h3_sks_noel
-- [UPDATE] lightx2v/Minimax-h3-Turbo — LoRA — https://huggingface.co/lightx2v/Minimax-h3-Turbo
-- [NEW] brurpo/DaSiWa-MiniMax-H3-Hybrid — base-model — https://huggingface.co/brurpo/DaSiWa-MiniMax-H3-Hybrid
-- [UPDATE] drbaph/vdn-minimax-h3-int8-convrot-comfyui — quantization — https://huggingface.co/drbaph/vdn-minimax-h3-int8-convrot-comfyui
-- [NEW] t8star/Minimax-H3-World-Comfy — LoRA — https://huggingface.co/t8star/Minimax-H3-World-Comfy
-- [NEW] Heouzen/minimax-h3_sks_rikel_r16 — quantization — https://huggingface.co/Heouzen/minimax-h3_sks_rikel_r16
-- [NEW] t8star/MinimaxH3-Dasiwa-10eros-hybird-8steps-turbo — base-model — https://huggingface.co/t8star/MinimaxH3-Dasiwa-10eros-hybird-8steps-turbo
-- [NEW] jinksa77/Minimax_H3 — base-model — https://huggingface.co/jinksa77/Minimax_H3
-- [NEW] aufjsufjaujda3/vdn-minimax-h3-int8-convrot-comfyui — quantization — https://huggingface.co/aufjsufjaujda3/vdn-minimax-h3-int8-convrot-comfyui
-- [NEW] Heouzen/LTX-2.5_sks_mdm — base-model — https://huggingface.co/Heouzen/LTX-2.5_sks_mdm
-- [NEW] shanghen/Qwen-Image-Edit-2511 — LoRA — https://huggingface.co/shanghen/Qwen-Image-Edit-2511
+- [UPDATE] StefanFalkok/Minimax_H3_Workflows — LoRA — https://huggingface.co/StefanFalkok/Minimax_H3_Workflows
+- [NEW] NaukNauk/minimax-h3-turbo-ref2va-merged — LoRA — https://huggingface.co/NaukNauk/minimax-h3-turbo-ref2va-merged
+- [UPDATE] DeepBeepMeep/MiniMax-H3 — LoRA — https://huggingface.co/DeepBeepMeep/MiniMax-H3
+- [UPDATE] ewin-reg/MiniMax-H3-SchurScale-NVFP — LoRA — https://huggingface.co/ewin-reg/MiniMax-H3-SchurScale-NVFP
+- [NEW] Playtime-AI/Minimax_H3-Sasha_Grey — base-model — https://huggingface.co/Playtime-AI/Minimax_H3-Sasha_Grey
+- [UPDATE] KennethFal/vh5tape-vhs-lora-minimax-h3 — LoRA — https://huggingface.co/KennethFal/vh5tape-vhs-lora-minimax-h3
+- [UPDATE] Rkss/Minimax_h3_fl2v_lightx2v_turbo_4to8step_v0.1-v1.0_768p_v4_step600_dareties_fro095_native — LoRA — https://huggingface.co/Rkss/Minimax_h3_fl2v_lightx2v_turbo_4to8step_v0.1-v1.0_768p_v4_step600_dareties_fro095_native
+- [UPDATE] drbaph/MiniMax-H3-Turbo-Lora-ComfyUI — LoRA — https://huggingface.co/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI
+- [NEW] wanvideo/wan-3-0-video — base-model — https://huggingface.co/wanvideo/wan-3-0-video
+- [UPDATE] backpack-run/Wan2.2-TI2V-5B-Backpack-Video — quantization — https://huggingface.co/backpack-run/Wan2.2-TI2V-5B-Backpack-Video
+- [UPDATE] GiorgioV/Qwen-image-adv — base-model — https://huggingface.co/GiorgioV/Qwen-image-adv
+- [NEW] perpetual3x/Qwen-Image-Chinese-Female-Anatomy-Realism-NSFW-LoRA-v1 — LoRA — https://huggingface.co/perpetual3x/Qwen-Image-Chinese-Female-Anatomy-Realism-NSFW-LoRA-v1
+- [UPDATE] r3L4x123/video-loras-wildfans — LoRA — https://huggingface.co/r3L4x123/video-loras-wildfans
+- [NEW] dreamdifferent/vam-cross-level4-kuka-iiwa14-widowx-texture-v2-teleopaligned-videolora200-action-deco-662789eebe — LoRA — https://huggingface.co/dreamdifferent/vam-cross-level4-kuka-iiwa14-widowx-texture-v2-teleopaligned-videolora200-action-deco-662789eebe
