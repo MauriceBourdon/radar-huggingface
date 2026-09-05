@@ -1,12 +1,15 @@
 # Radar Hugging Face
 
-Généré : 2026-09-05T16:11:54.349562+00:00
+Généré : 2026-09-05T19:19:54.161555+00:00
 
 ## Delta du run
 
-- [UPDATE] shamanic/minimax-h3-equi360-lora — LoRA — https://huggingface.co/shamanic/minimax-h3-equi360-lora
-- [NEW] Playtime-AI/Minimax_H3-Alan_Rickman — base-model — https://huggingface.co/Playtime-AI/Minimax_H3-Alan_Rickman
-- [NEW] Appeltaartman/Minimax_H3-Margot_Robbie — base-model — https://huggingface.co/Appeltaartman/Minimax_H3-Margot_Robbie
-- [NEW] pottokao/MiniMax-H3-FL2VA-turbo-4step-v1.2-768p-NVFP4-SVDQuant-vLLM-Omni — LoRA — https://huggingface.co/pottokao/MiniMax-H3-FL2VA-turbo-4step-v1.2-768p-NVFP4-SVDQuant-vLLM-Omni
-- [NEW] Raretutor/vdn-minimax-h3-comfyui-int8-convrot — quantization — https://huggingface.co/Raretutor/vdn-minimax-h3-comfyui-int8-convrot
-- [UPDATE] Owen777/LTX2.5-One-Step-Refiner-Step835 — LoRA — https://huggingface.co/Owen777/LTX2.5-One-Step-Refiner-Step835
+- [NEW] iamgroot1212/minimax-h3-loras — LoRA — https://huggingface.co/iamgroot1212/minimax-h3-loras
+- [NEW] xiaogongshou/MiniMax-H3 — base-model — https://huggingface.co/xiaogongshou/MiniMax-H3
+- [UPDATE] Smite79/MiniMax-H3-Longvideos — utility — https://huggingface.co/Smite79/MiniMax-H3-Longvideos
+- [NEW] WarmBloodAban/Minimax-h3_Singularity — base-model — https://huggingface.co/WarmBloodAban/Minimax-h3_Singularity
+- [UPDATE] fbjr/MiniMax-H3-Acc-LoRAs-sidecar — LoRA — https://huggingface.co/fbjr/MiniMax-H3-Acc-LoRAs-sidecar
+- [NEW] Playtime-AI/Minimax_H3-Betty_Gilpin — base-model — https://huggingface.co/Playtime-AI/Minimax_H3-Betty_Gilpin
+- [UPDATE] Raretutor/vdn-minimax-h3-comfyui-int8-convrot — quantization — https://huggingface.co/Raretutor/vdn-minimax-h3-comfyui-int8-convrot
+- [NEW] thornmaze/qwen-image-edit-rapid-aio-v19 — base-model — https://huggingface.co/thornmaze/qwen-image-edit-rapid-aio-v19
+- [UPDATE] JohnKontodimos/My_SeedVR2_Models — base-model — https://huggingface.co/JohnKontodimos/My_SeedVR2_Models
