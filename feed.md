@@ -1,20 +1,18 @@
 # Radar Hugging Face
 
-Généré : 2026-09-05T23:10:31.152863+00:00
+Généré : 2026-09-06T06:24:50.147559+00:00
 
 ## Delta du run
 
-- [UPDATE] WarmBloodAban/Minimax-h3_Singularity — base-model — https://huggingface.co/WarmBloodAban/Minimax-h3_Singularity
-- [UPDATE] silveroxides/MiniMax-H3_tests — base-model — https://huggingface.co/silveroxides/MiniMax-H3_tests
+- [NEW] HardGravy2/Minimax_H3_FLF_HardGravy_6_Step_Turbo_Merge — base-model — https://huggingface.co/HardGravy2/Minimax_H3_FLF_HardGravy_6_Step_Turbo_Merge
 - [UPDATE] Smite79/MiniMax-H3-Longvideos — utility — https://huggingface.co/Smite79/MiniMax-H3-Longvideos
-- [UPDATE] JOKER141/MiniMax-H3-General-Motion-Continuity-Repair — LoRA — https://huggingface.co/JOKER141/MiniMax-H3-General-Motion-Continuity-Repair
 - [UPDATE] saejon/MinimaxH3 — LoRA — https://huggingface.co/saejon/MinimaxH3
-- [UPDATE] iamgroot1212/minimax-h3-loras — LoRA — https://huggingface.co/iamgroot1212/minimax-h3-loras
-- [NEW] TheMindExpansionNetwork/swingusinnerz_t2v_minimax_h3_v1 — LoRA — https://huggingface.co/TheMindExpansionNetwork/swingusinnerz_t2v_minimax_h3_v1
+- [UPDATE] javawock7618/comfy-MiniMax-H3-workflows — LoRA — https://huggingface.co/javawock7618/comfy-MiniMax-H3-workflows
+- [NEW] EllipsesMark/MinimaxH3_Checkpoints — LoRA — https://huggingface.co/EllipsesMark/MinimaxH3_Checkpoints
+- [UPDATE] 1ronman1993/MiniMax-H3-SVDQuant-fp4-pdd8 — LoRA — https://huggingface.co/1ronman1993/MiniMax-H3-SVDQuant-fp4-pdd8
+- [UPDATE] 1ronman1993/MiniMax-H3-SVDQuant-int4-pdd8 — LoRA — https://huggingface.co/1ronman1993/MiniMax-H3-SVDQuant-int4-pdd8
+- [UPDATE] WarmBloodAban/Minimax-h3_Singularity — LoRA — https://huggingface.co/WarmBloodAban/Minimax-h3_Singularity
+- [UPDATE] Jojocodex/wushu-action-v7-minimax-h3-fl2va-ref2va-lora — LoRA — https://huggingface.co/Jojocodex/wushu-action-v7-minimax-h3-fl2va-ref2va-lora
+- [NEW] EllipsesMark/MiniMax-H3-ComfyUI — LoRA — https://huggingface.co/EllipsesMark/MiniMax-H3-ComfyUI
 - [UPDATE] elix3r/gemma4-12b-with-proj-ltx-2.5-GGUF — quantization — https://huggingface.co/elix3r/gemma4-12b-with-proj-ltx-2.5-GGUF
-- [UPDATE] Owen777/LTX2.5-One-Step-Refiner-Step835 — LoRA — https://huggingface.co/Owen777/LTX2.5-One-Step-Refiner-Step835
-- [NEW] dreamdifferent/vam-cross-level5-panda-robotiq-widowx-texture-ur5e-contact-v2-video-lora-iter400 — LoRA — https://huggingface.co/dreamdifferent/vam-cross-level5-panda-robotiq-widowx-texture-ur5e-contact-v2-video-lora-iter400
-- [NEW] dreamdifferent/vam-cross-level-panda-robotiq-widowx-texture-ur5e-contact-v2-video-lora-iter200 — LoRA — https://huggingface.co/dreamdifferent/vam-cross-level-panda-robotiq-widowx-texture-ur5e-contact-v2-video-lora-iter200
-- [UPDATE] EllaPriest45/Krea2_Characters — LoRA — https://huggingface.co/EllaPriest45/Krea2_Characters
-- [UPDATE] EllaPriest45/Krea2_Checkpoints — LoRA — https://huggingface.co/EllaPriest45/Krea2_Checkpoints
-- [UPDATE] EllaPriest45/Krea2_base — LoRA — https://huggingface.co/EllaPriest45/Krea2_base
+- [UPDATE] ChrisColeTech/qwen-image-edit-uncensored-v1.1-GGUF — quantization — https://huggingface.co/ChrisColeTech/qwen-image-edit-uncensored-v1.1-GGUF
