@@ -1,19 +1,16 @@
 # Radar Hugging Face
 
-Généré : 2026-09-09T13:50:34.052372+00:00
+Généré : 2026-09-09T19:58:12.911027+00:00
 
 ## Delta du run
 
-- [UPDATE] Jojocodex/wushu-action-v7-minimax-h3-fl2va-ref2va-lora — LoRA — https://huggingface.co/Jojocodex/wushu-action-v7-minimax-h3-fl2va-ref2va-lora
-- [UPDATE] SexGod1979/PinkCherry_MiniMax-H3 — LoRA — https://huggingface.co/SexGod1979/PinkCherry_MiniMax-H3
-- [UPDATE] javawock7618/comfy-MiniMax-H3-workflows — LoRA — https://huggingface.co/javawock7618/comfy-MiniMax-H3-workflows
 - [UPDATE] Smite79/MiniMax-H3-Longvideos — LoRA — https://huggingface.co/Smite79/MiniMax-H3-Longvideos
-- [NEW] meshllm/qwen3vl_32b_minimax_h3-Q4_K_M-layers — base-model — https://huggingface.co/meshllm/qwen3vl_32b_minimax_h3-Q4_K_M-layers
-- [NEW] keyoung/MiniMaxH3_SMPL — base-model — https://huggingface.co/keyoung/MiniMaxH3_SMPL
-- [UPDATE] ComfyCloudModel/MinimaxH3-Loras — LoRA — https://huggingface.co/ComfyCloudModel/MinimaxH3-Loras
-- [NEW] EliovpAI/MiniMax-H3-W4A8-Paiton-RDNA4 — quantization — https://huggingface.co/EliovpAI/MiniMax-H3-W4A8-Paiton-RDNA4
-- [NEW] Vayden/LTX-2.5-MLX-Q8-Paged — LoRA — https://huggingface.co/Vayden/LTX-2.5-MLX-Q8-Paged
+- [UPDATE] OpenVDN/vdn-minimax-h3 — LoRA — https://huggingface.co/OpenVDN/vdn-minimax-h3
+- [NEW] Rudra-ai/MiniMax-H3 — quantization — https://huggingface.co/Rudra-ai/MiniMax-H3
+- [UPDATE] speach1sdef178/MiniMax-H3-Semantic-Bridge — LoRA — https://huggingface.co/speach1sdef178/MiniMax-H3-Semantic-Bridge
+- [UPDATE] Jojocodex/wushu-action-v7-minimax-h3-fl2va-ref2va-lora — LoRA — https://huggingface.co/Jojocodex/wushu-action-v7-minimax-h3-fl2va-ref2va-lora
+- [NEW] Jhjhhkj65/Minimax_H3-Sydney_Sweeney — base-model — https://huggingface.co/Jhjhhkj65/Minimax_H3-Sydney_Sweeney
+- [NEW] Vayden/MiniMax-H3-Ref2VA-MLX-q8-extended-paged — quantization — https://huggingface.co/Vayden/MiniMax-H3-Ref2VA-MLX-q8-extended-paged
 - [UPDATE] ChrisColeTech/LTX-2.5-uncensored-v1.1-GGUF — quantization — https://huggingface.co/ChrisColeTech/LTX-2.5-uncensored-v1.1-GGUF
-- [UPDATE] DigitalByte/LTX-2.5-Exploded-View-XPLDV — LoRA — https://huggingface.co/DigitalByte/LTX-2.5-Exploded-View-XPLDV
-- [UPDATE] ussoewwin/SeedVR2-VAE-TenorRT-Engine-for-Blackwell — utility — https://huggingface.co/ussoewwin/SeedVR2-VAE-TenorRT-Engine-for-Blackwell
 - [UPDATE] JohnKontodimos/My_SeedVR2_Models — base-model — https://huggingface.co/JohnKontodimos/My_SeedVR2_Models
+- [NEW] dreamdifferent/vam-cross-level2-panda-robotiq-widowx-texture-ur5e-contact-v2-teleopaligned-videolora-6a938ee24f — LoRA — https://huggingface.co/dreamdifferent/vam-cross-level2-panda-robotiq-widowx-texture-ur5e-contact-v2-teleopaligned-videolora-6a938ee24f
