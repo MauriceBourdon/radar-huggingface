@@ -1,13 +1,18 @@
 # Radar Hugging Face
 
-Généré : 2026-09-15T06:33:42.238092+00:00
+Généré : 2026-09-15T14:25:12.920623+00:00
 
 ## Delta du run
 
-- [NEW] NaukNauk/minimax-h3-ref2va-larry-v4-strength-1.7 — LoRA — https://huggingface.co/NaukNauk/minimax-h3-ref2va-larry-v4-strength-1.7
-- [NEW] NaukNauk/minimax-h3-ref2va-larry-v4-strength-1.3 — LoRA — https://huggingface.co/NaukNauk/minimax-h3-ref2va-larry-v4-strength-1.3
-- [UPDATE] yniw/MiniMax-H3-mmh3 — LoRA — https://huggingface.co/yniw/MiniMax-H3-mmh3
-- [NEW] frtertaer/LTX-2.5-uncensored-v1.1-FP8 — LoRA — https://huggingface.co/frtertaer/LTX-2.5-uncensored-v1.1-FP8
-- [NEW] huiwon/isaac_libero_wan22_videorepa_vmae_L18_pc05_ah16_effgb64_g4gc — base-model — https://huggingface.co/huiwon/isaac_libero_wan22_videorepa_vmae_L18_pc05_ah16_effgb64_g4gc
-- [UPDATE] Plopmenz/Qwen-Image-2512-int8-ov-lightning-merged — quantization — https://huggingface.co/Plopmenz/Qwen-Image-2512-int8-ov-lightning-merged
-- [NEW] dreamdifferent/vam-cross-level5-panda-robotiq-widowx-texture-ur5e-contact-v2-teleopaligned-videolora-afcb7a8fca — LoRA — https://huggingface.co/dreamdifferent/vam-cross-level5-panda-robotiq-widowx-texture-ur5e-contact-v2-teleopaligned-videolora-afcb7a8fca
+- [UPDATE] jinksa77/Minimax_H3 — base-model — https://huggingface.co/jinksa77/Minimax_H3
+- [UPDATE] xtanqn/MiniMax-H3-fl2va-ref2va-b25-49-r1024-r0 — LoRA — https://huggingface.co/xtanqn/MiniMax-H3-fl2va-ref2va-b25-49-r1024-r0
+- [NEW] Gonzaluigi/minimax-h3-refmods — base-model — https://huggingface.co/Gonzaluigi/minimax-h3-refmods
+- [NEW] NaukNauk/minimax-h3-ref2va-larry-v4-strength-2.0 — LoRA — https://huggingface.co/NaukNauk/minimax-h3-ref2va-larry-v4-strength-2.0
+- [UPDATE] OpenVDN/vdn-minimax-h3 — LoRA — https://huggingface.co/OpenVDN/vdn-minimax-h3
+- [UPDATE] Smite79/MiniMax-H3-Longvideos — LoRA — https://huggingface.co/Smite79/MiniMax-H3-Longvideos
+- [UPDATE] ChrisColeTech/LTX-2.5-uncensored-v1.1-FP8 — LoRA — https://huggingface.co/ChrisColeTech/LTX-2.5-uncensored-v1.1-FP8
+- [NEW] aztro/ltx-2.5-iara-v2-lora — LoRA — https://huggingface.co/aztro/ltx-2.5-iara-v2-lora
+- [NEW] aztro/ltx-2.5-tessy-lora — LoRA — https://huggingface.co/aztro/ltx-2.5-tessy-lora
+- [UPDATE] Zabin/Qwen_Image_2512_LoRAs — LoRA — https://huggingface.co/Zabin/Qwen_Image_2512_LoRAs
+- [NEW] ldov/seedvr2 — quantization — https://huggingface.co/ldov/seedvr2
+- [NEW] dreamdifferent/panda-robosuite-level4-wrist-ablation-v1-videolora200-action-decoder-iter900 — LoRA — https://huggingface.co/dreamdifferent/panda-robosuite-level4-wrist-ablation-v1-videolora200-action-decoder-iter900
