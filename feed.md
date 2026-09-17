@@ -1,13 +1,15 @@
 # Radar Hugging Face
 
-Généré : 2026-09-17T06:32:14.734106+00:00
+Généré : 2026-09-17T14:24:44.654519+00:00
 
 ## Delta du run
 
-- [NEW] cicalooo/MiniMax-H3-hybrid-b45-49-rtx3090-w4a8-int8 — quantization — https://huggingface.co/cicalooo/MiniMax-H3-hybrid-b45-49-rtx3090-w4a8-int8
-- [UPDATE] OpenVDN/vdn-minimax-h3 — LoRA — https://huggingface.co/OpenVDN/vdn-minimax-h3
-- [NEW] bumasura/minimax-h3 — base-model — https://huggingface.co/bumasura/minimax-h3
-- [UPDATE] Smite79/MiniMax-H3-Longvideos — LoRA — https://huggingface.co/Smite79/MiniMax-H3-Longvideos
-- [NEW] yang1975/MinimaxH3_Actions — LoRA — https://huggingface.co/yang1975/MinimaxH3_Actions
-- [NEW] carrot124/minimaxh3 — base-model — https://huggingface.co/carrot124/minimaxh3
-- [UPDATE] LiconStudio/LTX-2.5-Multiple-Subject-Reference — LoRA — https://huggingface.co/LiconStudio/LTX-2.5-Multiple-Subject-Reference
+- [UPDATE] Gonzaluigi/minimax-h3-refmods — base-model — https://huggingface.co/Gonzaluigi/minimax-h3-refmods
+- [NEW] xxx1311/minimax-h3 — base-model — https://huggingface.co/xxx1311/minimax-h3
+- [UPDATE] LBH-123-AI/Minimax_h3_latent_Upscaler — utility — https://huggingface.co/LBH-123-AI/Minimax_h3_latent_Upscaler
+- [UPDATE] jinksa77/Minimax_H3 — base-model — https://huggingface.co/jinksa77/Minimax_H3
+- [UPDATE] ComfyCloudModel/MinimaxH3-Loras — LoRA — https://huggingface.co/ComfyCloudModel/MinimaxH3-Loras
+- [UPDATE] CQdesign/LTX-2.5-CQ-Video-and-Image-Enhancer-LoRAs — LoRA — https://huggingface.co/CQdesign/LTX-2.5-CQ-Video-and-Image-Enhancer-LoRAs
+- [NEW] baki0115/gaze-controlnet-qwen-image-edit — quantization — https://huggingface.co/baki0115/gaze-controlnet-qwen-image-edit
+- [NEW] 77Pete77/minimax_Video_Reasoning_lora_VBVR — LoRA — https://huggingface.co/77Pete77/minimax_Video_Reasoning_lora_VBVR
+- [NEW] Comfy-Org/MoGe — base-model — https://huggingface.co/Comfy-Org/MoGe
