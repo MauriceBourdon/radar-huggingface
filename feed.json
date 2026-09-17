@@ -1,61 +1,66 @@
 {
-  "generated_at": "2026-09-17T20:29:52.794810+00:00",
+  "generated_at": "2026-09-17T23:37:30.823740+00:00",
   "window": "rolling-30d",
   "current_run_events": [
     {
-      "id": "silveroxides/MiniMax-H3_tests",
+      "id": "Comfy-Org/MoGe",
       "type": "UPDATE"
-    },
-    {
-      "id": "Asirus/MiniMax-H3-TaoMate-3Step-INT8-ConvRot256-AdaLN-BF16",
-      "type": "NEW"
-    },
-    {
-      "id": "WarmBloodAban/Minimax_H3_LoRAs",
-      "type": "NEW"
-    },
-    {
-      "id": "carrot124/minimaxh3-r2v",
-      "type": "NEW"
-    },
-    {
-      "id": "carrot124/minimaxh3-i2v",
-      "type": "NEW"
-    },
-    {
-      "id": "Asirus/Minimax-H3-Latent-Upscaler-BF16-MAXQUALITY",
-      "type": "UPDATE"
-    },
-    {
-      "id": "KennethFal/16bit-pixel-lora-minimax-h3",
-      "type": "NEW"
-    },
-    {
-      "id": "WarmBloodAban/Minimax-h3_Singularity",
-      "type": "UPDATE"
-    },
-    {
-      "id": "ChrisColeTech/minimax-h3-turbo-GGUF",
-      "type": "UPDATE"
-    },
-    {
-      "id": "smith1302/Minimaxh3",
-      "type": "NEW"
-    },
-    {
-      "id": "xxx1311/minimax-h3",
-      "type": "UPDATE"
-    },
-    {
-      "id": "Zabin/Qwen_Image_2512_LoRAs",
-      "type": "UPDATE"
-    },
-    {
-      "id": "Ddng061280/Qwen-Image-Edit-2511",
-      "type": "NEW"
     }
   ],
   "models": [
+    {
+      "id": "Comfy-Org/MoGe",
+      "url": "https://huggingface.co/Comfy-Org/MoGe",
+      "author": "Comfy-Org",
+      "createdAt": "2026-05-13T18:45:15.000Z",
+      "lastModified": "2026-09-17T21:22:01.000Z",
+      "likes": 33,
+      "downloads": 89644,
+      "pipeline_tag": null,
+      "library_name": "diffusion-single-file",
+      "tags": [
+        "diffusion-single-file",
+        "comfyui",
+        "base_model:Ruicheng/moge-2-vitl",
+        "base_model:finetune:Ruicheng/moge-2-vitl",
+        "license:mit",
+        "region:us"
+      ],
+      "card_excerpt": "---\nlicense: mit\ntags:\n- comfyui\n- diffusion-single-file\nbase_model:\n- Ruicheng/moge-vitl\n- Ruicheng/moge-2-vitl\n- Ruicheng/moge-3-vitg\n- Ruicheng/moge-3-vitl\n---\n\n# MoGe: Accurate Monocular Geometry Estimation\n\nRepackaged model files for ComfyUI.\n\nOriginal model repository:\n\n- https://github.com/microsoft/moge\n- https://huggingface.co/Ruicheng/moge-vitl\n- https://huggingface.co/Ruicheng/moge-2-vitl\n- https://huggingface.co/Ruicheng/moge-3-vitg\n- https://huggingface.co/Ruicheng/moge-3-vitl\n\nPlace the files in the following folders:\n\n```\n📂 ComfyUI/\n├── 📂 models/\n│   ├── 📂 geometry_estimation/\n│   │   ├── moge_1_vitl_fp16.safetensors\n│   │   ├── moge_2_vitl_normal_fp16.safetensors\n│   │   ├── moge_3_vitg_fp16.safetensors\n│   │   └── moge_3_vitl_fp16.safetensors\n```",
+      "files": [
+        {
+          "name": "geometry_estimation/moge_1_vitl_fp16.safetensors",
+          "size": null
+        },
+        {
+          "name": "geometry_estimation/moge_2_vitl_normal_fp16.safetensors",
+          "size": null
+        },
+        {
+          "name": "geometry_estimation/moge_3_vitg_fp16.safetensors",
+          "size": null
+        },
+        {
+          "name": "geometry_estimation/moge_3_vitl_fp16.safetensors",
+          "size": null
+        }
+      ],
+      "kind": "base-model",
+      "first_seen_at": "2026-09-17T14:24:44.654519+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
+      "activity_history": [
+        {
+          "detected_at": "2026-09-17T14:24:44.654519+00:00",
+          "type": "NEW",
+          "lastModified": "2026-09-17T14:12:29.000Z"
+        },
+        {
+          "detected_at": "2026-09-17T23:37:30.823740+00:00",
+          "type": "UPDATE",
+          "lastModified": "2026-09-17T21:22:01.000Z"
+        }
+      ]
+    },
     {
       "id": "silveroxides/MiniMax-H3_tests",
       "url": "https://huggingface.co/silveroxides/MiniMax-H3_tests",
@@ -286,7 +291,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -416,7 +421,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-09-17T20:29:52.794810+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-17T20:29:52.794810+00:00",
@@ -455,7 +460,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-17T20:29:52.794810+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-17T20:29:52.794810+00:00",
@@ -542,7 +547,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-09-17T20:29:52.794810+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-17T20:29:52.794810+00:00",
@@ -629,7 +634,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-09-17T20:29:52.794810+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-17T20:29:52.794810+00:00",
@@ -871,7 +876,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-22T13:53:48.652488+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-22T13:53:48.652488+00:00",
@@ -986,7 +991,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-09-02T23:30:54.555868+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-02T23:30:54.555868+00:00",
@@ -1039,7 +1044,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-17T20:29:52.794810+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-17T20:29:52.794810+00:00",
@@ -1093,7 +1098,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-05T19:19:54.161555+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-05T19:19:54.161555+00:00",
@@ -1204,7 +1209,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -1240,7 +1245,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-09-17T20:29:52.794810+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-17T20:29:52.794810+00:00",
@@ -1315,7 +1320,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-17T20:29:52.794810+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-17T20:29:52.794810+00:00",
@@ -1362,7 +1367,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-09-17T14:24:44.654519+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-17T14:24:44.654519+00:00",
@@ -1434,7 +1439,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-09-15T14:25:12.920623+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-15T14:25:12.920623+00:00",
@@ -1460,54 +1465,6 @@
           "detected_at": "2026-09-17T14:24:44.654519+00:00",
           "type": "UPDATE",
           "lastModified": "2026-09-17T14:22:14.000Z"
-        }
-      ]
-    },
-    {
-      "id": "Comfy-Org/MoGe",
-      "url": "https://huggingface.co/Comfy-Org/MoGe",
-      "author": "Comfy-Org",
-      "createdAt": "2026-05-13T18:45:15.000Z",
-      "lastModified": "2026-09-17T14:12:29.000Z",
-      "likes": 30,
-      "downloads": 89644,
-      "pipeline_tag": null,
-      "library_name": "diffusion-single-file",
-      "tags": [
-        "diffusion-single-file",
-        "comfyui",
-        "base_model:Ruicheng/moge-2-vitl",
-        "base_model:finetune:Ruicheng/moge-2-vitl",
-        "license:mit",
-        "region:us"
-      ],
-      "card_excerpt": "---\nlicense: mit\ntags:\n- comfyui\n- diffusion-single-file\nbase_model:\n- Ruicheng/moge-vitl\n- Ruicheng/moge-2-vitl\n---\n\n# MoGe: Accurate Monocular Geometry Estimation\n\nRepackaged model files for ComfyUI.\n\nOriginal model repository:\n\n- https://github.com/microsoft/moge\n- https://huggingface.co/Ruicheng/moge-vitl\n- https://huggingface.co/Ruicheng/moge-2-vitl\n\nPlace the files in the following folders:\n\n```\n📂 ComfyUI/\n├── 📂 models/\n│   ├── 📂 geometry_estimation/\n│   │   ├── moge_1_vitl_fp16.safetensors\n│   │   └── moge_2_vitl_normal_fp16.safetensors\n```",
-      "files": [
-        {
-          "name": "geometry_estimation/moge-3-vitg_fp16.safetensors",
-          "size": null
-        },
-        {
-          "name": "geometry_estimation/moge-3-vitl_fp16.safetensors",
-          "size": null
-        },
-        {
-          "name": "geometry_estimation/moge_1_vitl_fp16.safetensors",
-          "size": null
-        },
-        {
-          "name": "geometry_estimation/moge_2_vitl_normal_fp16.safetensors",
-          "size": null
-        }
-      ],
-      "kind": "base-model",
-      "first_seen_at": "2026-09-17T14:24:44.654519+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
-      "activity_history": [
-        {
-          "detected_at": "2026-09-17T14:24:44.654519+00:00",
-          "type": "NEW",
-          "lastModified": "2026-09-17T14:12:29.000Z"
         }
       ]
     },
@@ -1548,7 +1505,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-09-17T14:24:44.654519+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-17T14:24:44.654519+00:00",
@@ -1600,7 +1557,7 @@
       ],
       "kind": "utility",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -1673,7 +1630,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-09-04T13:42:11.082357+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-04T13:42:11.082357+00:00",
@@ -1732,7 +1689,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -1773,7 +1730,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-17T14:24:44.654519+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-17T14:24:44.654519+00:00",
@@ -1877,7 +1834,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-02T06:17:43.758035+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-02T06:17:43.758035+00:00",
@@ -1942,7 +1899,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-09-17T06:32:14.734106+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-17T06:32:14.734106+00:00",
@@ -2067,7 +2024,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-02T23:30:54.555868+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-02T23:30:54.555868+00:00",
@@ -2165,7 +2122,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-09-17T06:32:14.734106+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-17T06:32:14.734106+00:00",
@@ -2200,7 +2157,7 @@
       "files": [],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -2584,7 +2541,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -3016,7 +2973,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-17T06:32:14.734106+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-17T06:32:14.734106+00:00",
@@ -3184,7 +3141,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-09-16T14:18:07.732310+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-16T14:18:07.732310+00:00",
@@ -3270,7 +3227,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-09-16T23:45:24.078015+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-16T23:45:24.078015+00:00",
@@ -3312,7 +3269,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-16T23:45:24.078015+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-16T23:45:24.078015+00:00",
@@ -3356,7 +3313,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-16T23:45:24.078015+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-16T23:45:24.078015+00:00",
@@ -3421,7 +3378,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-16T20:21:59.420403+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-16T20:21:59.420403+00:00",
@@ -3521,7 +3478,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-09-17T06:32:14.734106+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-17T06:32:14.734106+00:00",
@@ -3567,7 +3524,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-14T21:01:48.622422+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-14T21:01:48.622422+00:00",
@@ -3611,7 +3568,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-16T20:21:59.420403+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-16T20:21:59.420403+00:00",
@@ -3660,7 +3617,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-09-16T20:21:59.420403+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-16T20:21:59.420403+00:00",
@@ -3698,7 +3655,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-16T20:21:59.420403+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-16T20:21:59.420403+00:00",
@@ -3742,7 +3699,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-16T23:45:24.078015+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-16T23:45:24.078015+00:00",
@@ -3828,7 +3785,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-16T20:21:59.420403+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-16T20:21:59.420403+00:00",
@@ -3899,7 +3856,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-09-16T20:21:59.420403+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-16T20:21:59.420403+00:00",
@@ -3937,7 +3894,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-16T20:21:59.420403+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-16T20:21:59.420403+00:00",
@@ -3981,7 +3938,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-16T14:18:07.732310+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-16T14:18:07.732310+00:00",
@@ -4025,7 +3982,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-16T14:18:07.732310+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-16T14:18:07.732310+00:00",
@@ -4073,7 +4030,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-16T14:18:07.732310+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-16T14:18:07.732310+00:00",
@@ -4115,7 +4072,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-16T14:18:07.732310+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-16T14:18:07.732310+00:00",
@@ -4146,7 +4103,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-16T14:18:07.732310+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-16T14:18:07.732310+00:00",
@@ -4278,7 +4235,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-09-16T06:33:03.269451+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-16T06:33:03.269451+00:00",
@@ -4318,7 +4275,7 @@
       "files": [],
       "kind": "LoRA",
       "first_seen_at": "2026-09-16T14:18:07.732310+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-16T14:18:07.732310+00:00",
@@ -4396,7 +4353,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-09-16T14:18:07.732310+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-16T14:18:07.732310+00:00",
@@ -4480,7 +4437,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-16T14:18:07.732310+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-16T14:18:07.732310+00:00",
@@ -4526,7 +4483,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-09-16T14:18:07.732310+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-16T14:18:07.732310+00:00",
@@ -4572,7 +4529,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-09-16T14:18:07.732310+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-16T14:18:07.732310+00:00",
@@ -4610,7 +4567,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-16T14:18:07.732310+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-16T14:18:07.732310+00:00",
@@ -4648,7 +4605,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-16T14:18:07.732310+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-16T14:18:07.732310+00:00",
@@ -4741,7 +4698,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -4806,7 +4763,7 @@
       ],
       "kind": "utility",
       "first_seen_at": "2026-09-16T06:33:03.269451+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-16T06:33:03.269451+00:00",
@@ -4893,7 +4850,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-11T06:31:53.837954+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-11T06:31:53.837954+00:00",
@@ -4935,7 +4892,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-09-16T06:33:03.269451+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-16T06:33:03.269451+00:00",
@@ -5120,7 +5077,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-05T19:19:54.161555+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-05T19:19:54.161555+00:00",
@@ -5269,7 +5226,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-16T06:33:03.269451+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-16T06:33:03.269451+00:00",
@@ -5309,7 +5266,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-16T06:33:03.269451+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-16T06:33:03.269451+00:00",
@@ -5337,7 +5294,7 @@
       "files": [],
       "kind": "quantization",
       "first_seen_at": "2026-09-16T06:33:03.269451+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-16T06:33:03.269451+00:00",
@@ -5388,7 +5345,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-15T23:36:55.223742+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-15T23:36:55.223742+00:00",
@@ -5420,7 +5377,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-15T23:36:55.223742+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-15T23:36:55.223742+00:00",
@@ -5457,7 +5414,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-09-15T23:36:55.223742+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-15T23:36:55.223742+00:00",
@@ -5492,7 +5449,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-15T23:36:55.223742+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-15T23:36:55.223742+00:00",
@@ -5590,7 +5547,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-10T06:30:54.467122+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-10T06:30:54.467122+00:00",
@@ -5647,7 +5604,7 @@
       "files": [],
       "kind": "LoRA",
       "first_seen_at": "2026-08-27T11:54:08.926404+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-27T11:54:08.926404+00:00",
@@ -5767,7 +5724,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-12T19:35:14.540030+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-12T19:35:14.540030+00:00",
@@ -5953,7 +5910,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-22T05:54:52.743835+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-22T05:54:52.743835+00:00",
@@ -6021,7 +5978,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-15T20:23:35.135148+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-15T20:23:35.135148+00:00",
@@ -6101,7 +6058,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-09-15T20:23:35.135148+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-15T20:23:35.135148+00:00",
@@ -6144,7 +6101,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-08T13:47:32.495997+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-08T13:47:32.495997+00:00",
@@ -6247,7 +6204,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-09-15T14:25:12.920623+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-15T14:25:12.920623+00:00",
@@ -6285,7 +6242,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-15T14:25:12.920623+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-15T14:25:12.920623+00:00",
@@ -6342,7 +6299,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-08T06:25:16.669153+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-08T06:25:16.669153+00:00",
@@ -6400,7 +6357,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-15T14:25:12.920623+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-15T14:25:12.920623+00:00",
@@ -6491,7 +6448,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-15T14:25:12.920623+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-15T14:25:12.920623+00:00",
@@ -6517,7 +6474,7 @@
       "files": [],
       "kind": "base-model",
       "first_seen_at": "2026-09-15T06:33:42.238092+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-15T06:33:42.238092+00:00",
@@ -6608,7 +6565,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-15T06:33:42.238092+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-15T06:33:42.238092+00:00",
@@ -6663,7 +6620,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-09-14T15:58:17.179624+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-14T15:58:17.179624+00:00",
@@ -6759,7 +6716,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-15T06:33:42.238092+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-15T06:33:42.238092+00:00",
@@ -6807,7 +6764,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-14T23:57:32.732785+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-14T23:57:32.732785+00:00",
@@ -6910,7 +6867,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-15T06:33:42.238092+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-15T06:33:42.238092+00:00",
@@ -6948,7 +6905,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-15T06:33:42.238092+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-15T06:33:42.238092+00:00",
@@ -7036,7 +6993,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-28T13:17:07.612956+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-28T13:17:07.612956+00:00",
@@ -7203,7 +7160,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-14T21:01:48.622422+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-14T21:01:48.622422+00:00",
@@ -7255,7 +7212,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-14T21:01:48.622422+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-14T21:01:48.622422+00:00",
@@ -7293,7 +7250,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-14T21:01:48.622422+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-14T21:01:48.622422+00:00",
@@ -7340,7 +7297,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-14T21:01:48.622422+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-14T21:01:48.622422+00:00",
@@ -7375,7 +7332,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-14T21:01:48.622422+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-14T21:01:48.622422+00:00",
@@ -7439,7 +7396,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -7886,7 +7843,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -7969,7 +7926,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -8110,7 +8067,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -8305,7 +8262,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -8376,7 +8333,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -8818,7 +8775,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -8884,7 +8841,7 @@
       "files": [],
       "kind": "base-model",
       "first_seen_at": "2026-08-28T23:09:50.441020+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-28T23:09:50.441020+00:00",
@@ -9791,7 +9748,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-09-13T06:40:03.236819+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-13T06:40:03.236819+00:00",
@@ -9850,7 +9807,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -10178,7 +10135,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-09-14T06:52:10.401709+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-14T06:52:10.401709+00:00",
@@ -10741,7 +10698,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-09-13T06:40:03.236819+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-13T06:40:03.236819+00:00",
@@ -10784,7 +10741,7 @@
       "files": [],
       "kind": "quantization",
       "first_seen_at": "2026-09-13T23:22:32.217194+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-13T23:22:32.217194+00:00",
@@ -10819,7 +10776,7 @@
       "files": [],
       "kind": "quantization",
       "first_seen_at": "2026-09-13T23:22:32.217194+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-13T23:22:32.217194+00:00",
@@ -11010,7 +10967,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-13T19:41:01.826594+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-13T19:41:01.826594+00:00",
@@ -11112,7 +11069,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-13T19:41:01.826594+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-13T19:41:01.826594+00:00",
@@ -11193,7 +11150,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-15T14:25:12.920623+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-15T14:25:12.920623+00:00",
@@ -11282,7 +11239,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-13T13:52:22.768065+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-13T13:52:22.768065+00:00",
@@ -11320,7 +11277,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-13T13:52:22.768065+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-13T13:52:22.768065+00:00",
@@ -11358,7 +11315,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-13T13:52:22.768065+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-13T13:52:22.768065+00:00",
@@ -11396,7 +11353,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-13T13:52:22.768065+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-13T13:52:22.768065+00:00",
@@ -11547,7 +11504,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-09-13T13:52:22.768065+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-13T13:52:22.768065+00:00",
@@ -11931,7 +11888,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-13T06:40:03.236819+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-13T06:40:03.236819+00:00",
@@ -12028,7 +11985,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-13T06:40:03.236819+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-13T06:40:03.236819+00:00",
@@ -12323,7 +12280,7 @@
       "files": [],
       "kind": "base-model",
       "first_seen_at": "2026-09-10T19:58:56.948113+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-10T19:58:56.948113+00:00",
@@ -12605,7 +12562,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-09-12T13:02:47.051610+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-12T13:02:47.051610+00:00",
@@ -13527,7 +13484,7 @@
       ],
       "kind": "utility",
       "first_seen_at": "2026-09-11T23:29:47.143869+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-11T23:29:47.143869+00:00",
@@ -13569,7 +13526,7 @@
       "files": [],
       "kind": "utility",
       "first_seen_at": "2026-09-01T06:40:25.444263+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-01T06:40:25.444263+00:00",
@@ -14207,7 +14164,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -14284,7 +14241,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-11T19:58:17.330412+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-11T19:58:17.330412+00:00",
@@ -14772,7 +14729,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-11T19:58:17.330412+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-11T19:58:17.330412+00:00",
@@ -14808,7 +14765,7 @@
       "files": [],
       "kind": "quantization",
       "first_seen_at": "2026-09-11T19:58:17.330412+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-11T19:58:17.330412+00:00",
@@ -14999,7 +14956,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-04T23:12:26.964765+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-04T23:12:26.964765+00:00",
@@ -15341,7 +15298,7 @@
       ],
       "kind": "utility",
       "first_seen_at": "2026-09-11T13:43:59.485790+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-11T13:43:59.485790+00:00",
@@ -15473,7 +15430,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-11T06:31:53.837954+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-11T06:31:53.837954+00:00",
@@ -15544,7 +15501,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-09-11T06:31:53.837954+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-11T06:31:53.837954+00:00",
@@ -15854,7 +15811,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-10T19:58:56.948113+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-10T19:58:56.948113+00:00",
@@ -15897,7 +15854,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-10T19:58:56.948113+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-10T19:58:56.948113+00:00",
@@ -15941,7 +15898,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-10T19:58:56.948113+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-10T19:58:56.948113+00:00",
@@ -15984,7 +15941,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-10T19:58:56.948113+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-10T19:58:56.948113+00:00",
@@ -16026,7 +15983,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-10T19:58:56.948113+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-10T19:58:56.948113+00:00",
@@ -16070,7 +16027,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-10T19:58:56.948113+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-10T19:58:56.948113+00:00",
@@ -16112,7 +16069,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-10T19:58:56.948113+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-10T19:58:56.948113+00:00",
@@ -16155,7 +16112,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-10T19:58:56.948113+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-10T19:58:56.948113+00:00",
@@ -16410,7 +16367,7 @@
       ],
       "kind": "adapter",
       "first_seen_at": "2026-09-10T19:58:56.948113+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-10T19:58:56.948113+00:00",
@@ -16612,7 +16569,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -16746,7 +16703,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -16861,7 +16818,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-10T13:45:37.918724+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-10T13:45:37.918724+00:00",
@@ -16942,7 +16899,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-10T06:30:54.467122+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-10T06:30:54.467122+00:00",
@@ -17370,7 +17327,7 @@
       ],
       "kind": "utility",
       "first_seen_at": "2026-09-10T06:30:54.467122+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-10T06:30:54.467122+00:00",
@@ -17798,7 +17755,7 @@
       ],
       "kind": "utility",
       "first_seen_at": "2026-09-10T06:30:54.467122+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-10T06:30:54.467122+00:00",
@@ -18226,7 +18183,7 @@
       ],
       "kind": "utility",
       "first_seen_at": "2026-09-10T06:30:54.467122+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-10T06:30:54.467122+00:00",
@@ -18935,7 +18892,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-09-09T23:27:47.207922+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-09T23:27:47.207922+00:00",
@@ -19112,7 +19069,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-09T19:58:12.911027+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-09T19:58:12.911027+00:00",
@@ -19816,7 +19773,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-09T13:50:34.052372+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-09T13:50:34.052372+00:00",
@@ -20537,7 +20494,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-09T06:31:20.408153+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-09T06:31:20.408153+00:00",
@@ -20579,7 +20536,7 @@
       ],
       "kind": "utility",
       "first_seen_at": "2026-09-09T06:31:20.408153+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-09T06:31:20.408153+00:00",
@@ -20679,7 +20636,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-20T14:09:24.706684+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-20T14:09:24.706684+00:00",
@@ -20882,7 +20839,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-08T20:08:59.946620+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-08T20:08:59.946620+00:00",
@@ -20965,7 +20922,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-08T20:08:59.946620+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-08T20:08:59.946620+00:00",
@@ -21087,7 +21044,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-09-08T20:08:59.946620+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-08T20:08:59.946620+00:00",
@@ -21118,7 +21075,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-09-08T20:08:59.946620+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-08T20:08:59.946620+00:00",
@@ -21185,7 +21142,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-09-08T20:08:59.946620+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-08T20:08:59.946620+00:00",
@@ -21819,7 +21776,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-05T06:12:28.336455+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-05T06:12:28.336455+00:00",
@@ -21988,7 +21945,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -22421,7 +22378,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -22560,7 +22517,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -22998,7 +22955,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -23456,7 +23413,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -23528,7 +23485,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-31T17:11:41.908124+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-31T17:11:41.908124+00:00",
@@ -23896,7 +23853,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-08T06:25:16.669153+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-08T06:25:16.669153+00:00",
@@ -23973,7 +23930,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-07T23:41:35.433122+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-07T23:41:35.433122+00:00",
@@ -24011,7 +23968,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-07T23:41:35.433122+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-07T23:41:35.433122+00:00",
@@ -24142,7 +24099,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-07T23:41:35.433122+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-07T23:41:35.433122+00:00",
@@ -24184,7 +24141,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-07T23:41:35.433122+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-07T23:41:35.433122+00:00",
@@ -24440,7 +24397,7 @@
       "files": [],
       "kind": "base-model",
       "first_seen_at": "2026-09-07T20:44:14.032552+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-07T20:44:14.032552+00:00",
@@ -24660,7 +24617,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-07T15:09:58.315794+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-07T15:09:58.315794+00:00",
@@ -24925,7 +24882,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-07T15:09:58.315794+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-07T15:09:58.315794+00:00",
@@ -25104,7 +25061,7 @@
       ],
       "kind": "utility",
       "first_seen_at": "2026-09-07T06:32:55.459995+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-07T06:32:55.459995+00:00",
@@ -25610,7 +25567,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-06T23:01:55.695494+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-06T23:01:55.695494+00:00",
@@ -25645,7 +25602,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-06T23:01:55.695494+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-06T23:01:55.695494+00:00",
@@ -25760,7 +25717,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-06T23:01:55.695494+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-06T23:01:55.695494+00:00",
@@ -25810,7 +25767,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-01T20:05:21.408197+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-01T20:05:21.408197+00:00",
@@ -25863,7 +25820,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-31T17:11:41.908124+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-31T17:11:41.908124+00:00",
@@ -26004,7 +25961,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-06T16:24:05.906453+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-06T16:24:05.906453+00:00",
@@ -27050,7 +27007,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-06T13:03:24.781288+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-06T13:03:24.781288+00:00",
@@ -27138,7 +27095,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-06T13:03:24.781288+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-06T13:03:24.781288+00:00",
@@ -27267,7 +27224,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -27668,7 +27625,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-05T23:10:31.152863+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-05T23:10:31.152863+00:00",
@@ -27703,7 +27660,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-05T23:10:31.152863+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-05T23:10:31.152863+00:00",
@@ -27743,7 +27700,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-29T14:38:42.787155+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-29T14:38:42.787155+00:00",
@@ -27961,7 +27918,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -28471,7 +28428,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-09-05T19:19:54.161555+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-05T19:19:54.161555+00:00",
@@ -29607,7 +29564,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-05T12:57:48.002767+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-05T12:57:48.002767+00:00",
@@ -30165,7 +30122,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-09-03T06:20:21.204757+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-03T06:20:21.204757+00:00",
@@ -30217,7 +30174,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-29T08:13:03.665354+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-29T08:13:03.665354+00:00",
@@ -30598,7 +30555,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-03T06:20:21.204757+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-03T06:20:21.204757+00:00",
@@ -30939,7 +30896,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -30992,7 +30949,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-04T19:48:15.317638+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-04T19:48:15.317638+00:00",
@@ -31023,7 +30980,7 @@
       "files": [],
       "kind": "base-model",
       "first_seen_at": "2026-09-04T19:48:15.317638+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-04T19:48:15.317638+00:00",
@@ -31076,7 +31033,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-04T19:48:15.317638+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-04T19:48:15.317638+00:00",
@@ -31120,7 +31077,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-09-03T23:28:09.734981+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-03T23:28:09.734981+00:00",
@@ -31267,7 +31224,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-04T13:42:11.082357+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-04T13:42:11.082357+00:00",
@@ -31927,7 +31884,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-03T20:03:57.316623+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-03T20:03:57.316623+00:00",
@@ -32179,7 +32136,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-03T20:03:57.316623+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-03T20:03:57.316623+00:00",
@@ -32486,7 +32443,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-03T20:03:57.316623+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-03T20:03:57.316623+00:00",
@@ -32618,7 +32575,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-09-03T20:03:57.316623+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-03T20:03:57.316623+00:00",
@@ -32670,7 +32627,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-09-03T20:03:57.316623+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-03T20:03:57.316623+00:00",
@@ -32744,7 +32701,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-03T20:03:57.316623+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-03T20:03:57.316623+00:00",
@@ -32889,7 +32846,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-09-03T13:47:24.694578+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-03T13:47:24.694578+00:00",
@@ -32936,7 +32893,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-03T13:47:24.694578+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-03T13:47:24.694578+00:00",
@@ -32971,7 +32928,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-03T13:47:24.694578+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-03T13:47:24.694578+00:00",
@@ -33009,7 +32966,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-03T13:47:24.694578+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-03T13:47:24.694578+00:00",
@@ -33047,7 +33004,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-03T13:47:24.694578+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-03T13:47:24.694578+00:00",
@@ -33089,7 +33046,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -33526,7 +33483,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -34336,7 +34293,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -34562,7 +34519,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -34779,7 +34736,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-02T23:30:54.555868+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-02T23:30:54.555868+00:00",
@@ -34814,7 +34771,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-02T23:30:54.555868+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-02T23:30:54.555868+00:00",
@@ -34861,7 +34818,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-02T23:30:54.555868+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-02T23:30:54.555868+00:00",
@@ -34896,7 +34853,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-02T23:30:54.555868+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-02T23:30:54.555868+00:00",
@@ -34934,7 +34891,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-02T23:30:54.555868+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-02T23:30:54.555868+00:00",
@@ -34972,7 +34929,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-02T20:02:14.057378+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-02T20:02:14.057378+00:00",
@@ -35072,7 +35029,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -35119,7 +35076,7 @@
       "files": [],
       "kind": "LoRA",
       "first_seen_at": "2026-08-24T17:59:39.929679+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-24T17:59:39.929679+00:00",
@@ -35164,7 +35121,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-09-02T20:02:14.057378+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-02T20:02:14.057378+00:00",
@@ -35206,7 +35163,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-02T20:02:14.057378+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-02T20:02:14.057378+00:00",
@@ -35687,7 +35644,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-02T20:02:14.057378+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-02T20:02:14.057378+00:00",
@@ -37293,7 +37250,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-01T20:05:21.408197+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-01T20:05:21.408197+00:00",
@@ -37354,7 +37311,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-09-01T20:05:21.408197+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-01T20:05:21.408197+00:00",
@@ -38213,7 +38170,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -38265,7 +38222,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-01T14:15:28.731912+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-01T14:15:28.731912+00:00",
@@ -38300,7 +38257,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-01T14:15:28.731912+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-01T14:15:28.731912+00:00",
@@ -38338,7 +38295,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-09-01T14:15:28.731912+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-01T14:15:28.731912+00:00",
@@ -38518,7 +38475,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -39420,7 +39377,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-31T17:11:41.908124+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-31T17:11:41.908124+00:00",
@@ -39483,7 +39440,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-31T22:00:06.662697+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-31T22:00:06.662697+00:00",
@@ -39538,7 +39495,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-31T22:00:06.662697+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-31T22:00:06.662697+00:00",
@@ -39610,7 +39567,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -39703,7 +39660,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -39739,7 +39696,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-31T22:00:06.662697+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-31T22:00:06.662697+00:00",
@@ -39824,7 +39781,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-31T17:11:41.908124+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-31T17:11:41.908124+00:00",
@@ -40699,7 +40656,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-31T17:11:41.908124+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-31T17:11:41.908124+00:00",
@@ -45044,7 +45001,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-29T19:56:40.228728+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-29T19:56:40.228728+00:00",
@@ -45308,7 +45265,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-26T02:49:24.864881+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-26T02:49:24.864881+00:00",
@@ -46072,7 +46029,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-28T13:17:07.612956+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-28T13:17:07.612956+00:00",
@@ -46525,7 +46482,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-28T23:09:50.441020+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-28T23:09:50.441020+00:00",
@@ -46642,7 +46599,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-28T23:09:50.441020+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-28T23:09:50.441020+00:00",
@@ -47332,7 +47289,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-28T23:09:50.441020+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-28T23:09:50.441020+00:00",
@@ -47753,7 +47710,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-28T13:17:07.612956+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-28T13:17:07.612956+00:00",
@@ -47902,7 +47859,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-27T23:01:44.716955+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-27T23:01:44.716955+00:00",
@@ -48521,7 +48478,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-27T23:01:44.716955+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-27T23:01:44.716955+00:00",
@@ -48616,7 +48573,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-27T23:01:44.716955+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-27T23:01:44.716955+00:00",
@@ -48713,7 +48670,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-27T23:01:44.716955+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-27T23:01:44.716955+00:00",
@@ -48782,7 +48739,7 @@
       ],
       "kind": "utility",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -49337,7 +49294,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-23T17:48:23.968565+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-23T17:48:23.968565+00:00",
@@ -49524,7 +49481,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-23T17:48:23.968565+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-23T17:48:23.968565+00:00",
@@ -49582,7 +49539,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-23T17:48:23.968565+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-23T17:48:23.968565+00:00",
@@ -49636,7 +49593,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-23T17:48:23.968565+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-23T17:48:23.968565+00:00",
@@ -49723,7 +49680,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-23T17:48:23.968565+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-23T17:48:23.968565+00:00",
@@ -50872,7 +50829,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-27T11:54:08.926404+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-27T11:54:08.926404+00:00",
@@ -50936,7 +50893,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-27T11:54:08.926404+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-27T11:54:08.926404+00:00",
@@ -51539,7 +51496,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-23T17:48:23.968565+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-23T17:48:23.968565+00:00",
@@ -53481,7 +53438,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-24T21:54:52.531843+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-24T21:54:52.531843+00:00",
@@ -53558,7 +53515,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -53633,7 +53590,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-09-08T13:47:32.495997+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-09-08T13:47:32.495997+00:00",
@@ -54060,7 +54017,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-26T19:24:54.675078+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-26T19:24:54.675078+00:00",
@@ -54805,7 +54762,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-26T14:13:33.308165+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-26T14:13:33.308165+00:00",
@@ -54942,7 +54899,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-26T10:06:49.983654+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-26T10:06:49.983654+00:00",
@@ -57204,7 +57161,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-26T02:49:24.864881+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-26T02:49:24.864881+00:00",
@@ -57243,7 +57200,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-25T21:54:38.383487+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-25T21:54:38.383487+00:00",
@@ -57326,7 +57283,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-25T21:54:38.383487+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-25T21:54:38.383487+00:00",
@@ -57417,7 +57374,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-24T21:54:52.531843+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-24T21:54:52.531843+00:00",
@@ -58939,7 +58896,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-24T21:54:52.531843+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-24T21:54:52.531843+00:00",
@@ -59111,7 +59068,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-25T02:46:39.502746+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-25T02:46:39.502746+00:00",
@@ -59413,7 +59370,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-20T02:40:10.220183+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-20T02:40:10.220183+00:00",
@@ -60971,7 +60928,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-24T02:48:03.239572+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-24T02:48:03.239572+00:00",
@@ -61173,7 +61130,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -62236,7 +62193,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-23T13:55:45.396193+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-23T13:55:45.396193+00:00",
@@ -64185,7 +64142,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -64340,7 +64297,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -64487,7 +64444,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -65294,7 +65251,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-21T02:46:41.746813+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-21T02:46:41.746813+00:00",
@@ -66173,7 +66130,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-21T10:02:04.665324+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-21T10:02:04.665324+00:00",
@@ -71138,7 +71095,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-20T14:09:24.706684+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-20T14:09:24.706684+00:00",
@@ -71972,7 +71929,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-20T10:01:35.964862+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-20T10:01:35.964862+00:00",
@@ -74419,7 +74376,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -74848,7 +74805,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -75429,7 +75386,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -76364,7 +76321,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -76859,7 +76816,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -76915,7 +76872,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -76967,7 +76924,7 @@
       ],
       "kind": "utility",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -77015,7 +76972,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -77067,7 +77024,7 @@
       ],
       "kind": "utility",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -77098,7 +77055,7 @@
       "files": [],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -77142,7 +77099,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -77187,7 +77144,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -77247,7 +77204,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -77291,7 +77248,7 @@
       ],
       "kind": "adapter",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -77327,7 +77284,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -77387,7 +77344,7 @@
       ],
       "kind": "utility",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -77423,7 +77380,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -77459,7 +77416,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -77499,7 +77456,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -77555,7 +77512,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -77589,7 +77546,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -77637,7 +77594,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -77697,7 +77654,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -77733,7 +77690,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -77769,7 +77726,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -77813,7 +77770,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -77873,7 +77830,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -77930,7 +77887,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -77990,7 +77947,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -78030,7 +77987,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -78066,7 +78023,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -78122,7 +78079,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -78158,7 +78115,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -78230,7 +78187,7 @@
       ],
       "kind": "utility",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -78435,7 +78392,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -78599,7 +78556,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -78637,7 +78594,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -78677,7 +78634,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -78781,7 +78738,7 @@
       ],
       "kind": "adapter",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -78881,7 +78838,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -78925,7 +78882,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -78985,7 +78942,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -79019,7 +78976,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -79063,7 +79020,7 @@
       ],
       "kind": "utility",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -79115,7 +79072,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -79199,7 +79156,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -79243,7 +79200,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -80998,7 +80955,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -81138,7 +81095,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -81187,7 +81144,7 @@
       ],
       "kind": "utility",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -84987,7 +84944,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -85476,7 +85433,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -85903,7 +85860,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -86604,7 +86561,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -87035,7 +86992,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -87585,7 +87542,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -87629,7 +87586,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -87789,7 +87746,7 @@
       "files": [],
       "kind": "utility",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -88021,7 +87978,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -88121,7 +88078,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -88152,7 +88109,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -88178,7 +88135,7 @@
       "files": [],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -88362,7 +88319,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -88789,7 +88746,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -89216,7 +89173,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -89643,7 +89600,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -89756,7 +89713,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -89792,7 +89749,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -89818,7 +89775,7 @@
       "files": [],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -90245,7 +90202,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -90469,7 +90426,7 @@
       ],
       "kind": "utility",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -90736,7 +90693,7 @@
       ],
       "kind": "utility",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -90823,7 +90780,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -90864,7 +90821,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -90923,7 +90880,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -91351,7 +91308,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -91393,7 +91350,7 @@
       ],
       "kind": "utility",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -91435,7 +91392,7 @@
       ],
       "kind": "utility",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -91484,7 +91441,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -91529,7 +91486,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -91570,7 +91527,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -91637,7 +91594,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -91676,7 +91633,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -91715,7 +91672,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -91807,7 +91764,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -92701,7 +92658,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -92810,7 +92767,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -92863,7 +92820,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -92915,7 +92872,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -92968,7 +92925,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -93020,7 +92977,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -93064,7 +93021,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -93097,7 +93054,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -93137,7 +93094,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -93241,7 +93198,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -93314,7 +93271,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -93741,7 +93698,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -93984,7 +93941,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -94135,7 +94092,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -94186,7 +94143,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -94233,7 +94190,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -94719,7 +94676,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -94834,7 +94791,7 @@
       "files": [],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -94905,7 +94862,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -94998,7 +94955,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -96094,7 +96051,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -96153,7 +96110,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -96185,7 +96142,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -96328,7 +96285,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -96367,7 +96324,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -96426,7 +96383,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -96461,7 +96418,7 @@
       "files": [],
       "kind": "utility",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -96551,7 +96508,7 @@
       ],
       "kind": "utility",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -96592,7 +96549,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -96634,7 +96591,7 @@
       ],
       "kind": "utility",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -96676,7 +96633,7 @@
       ],
       "kind": "utility",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -96718,7 +96675,7 @@
       ],
       "kind": "utility",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -96758,7 +96715,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -96784,7 +96741,7 @@
       "files": [],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -96821,7 +96778,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -96864,7 +96821,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -97295,7 +97252,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -97611,7 +97568,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -97642,7 +97599,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -97680,7 +97637,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -97719,7 +97676,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -97758,7 +97715,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -97797,7 +97754,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -97836,7 +97793,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -97905,7 +97862,7 @@
       "files": [],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -97931,7 +97888,7 @@
       "files": [],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -97968,7 +97925,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -98005,7 +97962,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -98077,7 +98034,7 @@
       ],
       "kind": "utility",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -98409,7 +98366,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -98473,7 +98430,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -98529,7 +98486,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -98581,7 +98538,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -98633,7 +98590,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -98682,7 +98639,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -98730,7 +98687,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -98769,7 +98726,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -98807,7 +98764,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -98845,7 +98802,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -98899,7 +98856,7 @@
       "files": [],
       "kind": "utility",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -98940,7 +98897,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -98987,7 +98944,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -99033,7 +98990,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -99071,7 +99028,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -99109,7 +99066,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -99190,7 +99147,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -99225,7 +99182,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -99324,7 +99281,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -99518,7 +99475,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -99646,7 +99603,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -99731,7 +99688,7 @@
       ],
       "kind": "utility",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -99771,7 +99728,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -99802,7 +99759,7 @@
       "files": [],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -99840,7 +99797,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -99878,7 +99835,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -99916,7 +99873,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -99954,7 +99911,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -99992,7 +99949,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -100032,7 +99989,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -100070,7 +100027,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -100110,7 +100067,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -100150,7 +100107,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -100269,7 +100226,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -100307,7 +100264,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -100345,7 +100302,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -100383,7 +100340,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -100421,7 +100378,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -100499,7 +100456,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -100537,7 +100494,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -100576,7 +100533,7 @@
       ],
       "kind": "adapter",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -100903,7 +100860,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -100929,7 +100886,7 @@
       "files": [],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -100985,7 +100942,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -101158,7 +101115,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -101280,7 +101237,7 @@
       "files": [],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -101320,7 +101277,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -101360,7 +101317,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -101400,7 +101357,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -101480,7 +101437,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -101520,7 +101477,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -101560,7 +101517,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -101664,7 +101621,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -101701,7 +101658,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -102969,7 +102926,7 @@
       "files": [],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -103082,7 +103039,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -103142,7 +103099,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -103182,7 +103139,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -103877,7 +103834,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -103955,7 +103912,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -103995,7 +103952,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -104042,7 +103999,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -104087,7 +104044,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -104526,7 +104483,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -104590,7 +104547,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -104630,7 +104587,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -104817,7 +104774,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -105046,7 +105003,7 @@
       "files": [],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -105091,7 +105048,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -105126,7 +105083,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -105187,7 +105144,7 @@
       ],
       "kind": "utility",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -105224,7 +105181,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -105285,7 +105242,7 @@
       ],
       "kind": "utility",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -105320,7 +105277,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -105360,7 +105317,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -105400,7 +105357,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -105440,7 +105397,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -105583,7 +105540,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -105745,7 +105702,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -105771,7 +105728,7 @@
       "files": [],
       "kind": "utility",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -105812,7 +105769,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -105853,7 +105810,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -105894,7 +105851,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -105938,7 +105895,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -105969,7 +105926,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -106395,7 +106352,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -106469,7 +106426,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -106547,7 +106504,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -106587,7 +106544,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -106627,7 +106584,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -106667,7 +106624,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -106708,7 +106665,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -106749,7 +106706,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -106787,7 +106744,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -106930,7 +106887,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -106956,7 +106913,7 @@
       "files": [],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -107049,7 +107006,7 @@
       ],
       "kind": "utility",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -107094,7 +107051,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -107120,7 +107077,7 @@
       "files": [],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -107175,7 +107132,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -107240,7 +107197,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -107305,7 +107262,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -107370,7 +107327,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -107435,7 +107392,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -107500,7 +107457,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -107565,7 +107522,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -107630,7 +107587,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -107695,7 +107652,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -107760,7 +107717,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -108162,7 +108119,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -108404,7 +108361,7 @@
       "files": [],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -108439,7 +108396,7 @@
       "files": [],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -108484,7 +108441,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -108585,7 +108542,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -108616,7 +108573,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -108796,7 +108753,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -108827,7 +108784,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -108910,7 +108867,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -109090,7 +109047,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -109134,7 +109091,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -109166,7 +109123,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -109197,7 +109154,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -109369,7 +109326,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -109681,7 +109638,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -109731,7 +109688,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -110156,7 +110113,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -110581,7 +110538,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -110635,7 +110592,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -110666,7 +110623,7 @@
       "files": [],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -110692,7 +110649,7 @@
       "files": [],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -110732,7 +110689,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -111141,7 +111098,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -111531,7 +111488,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -111917,7 +111874,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -112307,7 +112264,7 @@
       ],
       "kind": "base-model",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -112351,7 +112308,7 @@
       ],
       "kind": "LoRA",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
@@ -113187,7 +113144,7 @@
       ],
       "kind": "quantization",
       "first_seen_at": "2026-08-19T18:06:00.471598+00:00",
-      "last_seen_at": "2026-09-17T20:29:52.794810+00:00",
+      "last_seen_at": "2026-09-17T23:37:30.823740+00:00",
       "activity_history": [
         {
           "detected_at": "2026-08-19T18:06:00.471598+00:00",
