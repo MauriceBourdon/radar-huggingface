@@ -1,15 +1,19 @@
 # Radar Hugging Face
 
-Généré : 2026-09-17T14:24:44.654519+00:00
+Généré : 2026-09-17T20:29:52.794810+00:00
 
 ## Delta du run
 
-- [UPDATE] Gonzaluigi/minimax-h3-refmods — base-model — https://huggingface.co/Gonzaluigi/minimax-h3-refmods
-- [NEW] xxx1311/minimax-h3 — base-model — https://huggingface.co/xxx1311/minimax-h3
-- [UPDATE] LBH-123-AI/Minimax_h3_latent_Upscaler — utility — https://huggingface.co/LBH-123-AI/Minimax_h3_latent_Upscaler
-- [UPDATE] jinksa77/Minimax_H3 — base-model — https://huggingface.co/jinksa77/Minimax_H3
-- [UPDATE] ComfyCloudModel/MinimaxH3-Loras — LoRA — https://huggingface.co/ComfyCloudModel/MinimaxH3-Loras
-- [UPDATE] CQdesign/LTX-2.5-CQ-Video-and-Image-Enhancer-LoRAs — LoRA — https://huggingface.co/CQdesign/LTX-2.5-CQ-Video-and-Image-Enhancer-LoRAs
-- [NEW] baki0115/gaze-controlnet-qwen-image-edit — quantization — https://huggingface.co/baki0115/gaze-controlnet-qwen-image-edit
-- [NEW] 77Pete77/minimax_Video_Reasoning_lora_VBVR — LoRA — https://huggingface.co/77Pete77/minimax_Video_Reasoning_lora_VBVR
-- [NEW] Comfy-Org/MoGe — base-model — https://huggingface.co/Comfy-Org/MoGe
+- [UPDATE] silveroxides/MiniMax-H3_tests — base-model — https://huggingface.co/silveroxides/MiniMax-H3_tests
+- [NEW] Asirus/MiniMax-H3-TaoMate-3Step-INT8-ConvRot256-AdaLN-BF16 — quantization — https://huggingface.co/Asirus/MiniMax-H3-TaoMate-3Step-INT8-ConvRot256-AdaLN-BF16
+- [NEW] WarmBloodAban/Minimax_H3_LoRAs — LoRA — https://huggingface.co/WarmBloodAban/Minimax_H3_LoRAs
+- [NEW] carrot124/minimaxh3-r2v — base-model — https://huggingface.co/carrot124/minimaxh3-r2v
+- [NEW] carrot124/minimaxh3-i2v — base-model — https://huggingface.co/carrot124/minimaxh3-i2v
+- [UPDATE] Asirus/Minimax-H3-Latent-Upscaler-BF16-MAXQUALITY — quantization — https://huggingface.co/Asirus/Minimax-H3-Latent-Upscaler-BF16-MAXQUALITY
+- [NEW] KennethFal/16bit-pixel-lora-minimax-h3 — LoRA — https://huggingface.co/KennethFal/16bit-pixel-lora-minimax-h3
+- [UPDATE] WarmBloodAban/Minimax-h3_Singularity — LoRA — https://huggingface.co/WarmBloodAban/Minimax-h3_Singularity
+- [UPDATE] ChrisColeTech/minimax-h3-turbo-GGUF — LoRA — https://huggingface.co/ChrisColeTech/minimax-h3-turbo-GGUF
+- [NEW] smith1302/Minimaxh3 — base-model — https://huggingface.co/smith1302/Minimaxh3
+- [UPDATE] xxx1311/minimax-h3 — base-model — https://huggingface.co/xxx1311/minimax-h3
+- [UPDATE] Zabin/Qwen_Image_2512_LoRAs — LoRA — https://huggingface.co/Zabin/Qwen_Image_2512_LoRAs
+- [NEW] Ddng061280/Qwen-Image-Edit-2511 — LoRA — https://huggingface.co/Ddng061280/Qwen-Image-Edit-2511
