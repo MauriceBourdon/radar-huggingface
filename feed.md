@@ -1,14 +1,13 @@
 # Radar Hugging Face
 
-Généré : 2026-09-16T23:45:24.078015+00:00
+Généré : 2026-09-17T06:32:14.734106+00:00
 
 ## Delta du run
 
-- [NEW] KennethFal/low-poly-lora-minimax-h3 — LoRA — https://huggingface.co/KennethFal/low-poly-lora-minimax-h3
+- [NEW] cicalooo/MiniMax-H3-hybrid-b45-49-rtx3090-w4a8-int8 — quantization — https://huggingface.co/cicalooo/MiniMax-H3-hybrid-b45-49-rtx3090-w4a8-int8
 - [UPDATE] OpenVDN/vdn-minimax-h3 — LoRA — https://huggingface.co/OpenVDN/vdn-minimax-h3
-- [UPDATE] Abiray/MiniMax-H3-Pruned-Ref-Delta-Fused-GGUF — LoRA — https://huggingface.co/Abiray/MiniMax-H3-Pruned-Ref-Delta-Fused-GGUF
-- [UPDATE] Rkss/Minimax_h3_fl2v_lightx2v_turbo_4to8step_768p_v4_step600_dareties_native — LoRA — https://huggingface.co/Rkss/Minimax_h3_fl2v_lightx2v_turbo_4to8step_768p_v4_step600_dareties_native
-- [NEW] KennethFal/retro-toon-70s-lora-minimax-h3 — LoRA — https://huggingface.co/KennethFal/retro-toon-70s-lora-minimax-h3
-- [NEW] comatto/LTX-2.5-Distilled-GGUF — quantization — https://huggingface.co/comatto/LTX-2.5-Distilled-GGUF
-- [UPDATE] glory-hyeok/wam-dit4dit-robocasa-kitchen-wan22-4knobA-modaug-videorepa-vmae-l18-pc05-fmalign-effgb64-g4 — base-model — https://huggingface.co/glory-hyeok/wam-dit4dit-robocasa-kitchen-wan22-4knobA-modaug-videorepa-vmae-l18-pc05-fmalign-effgb64-g4
-- [NEW] Diggy84002/qwen-image-edit-plus-nsfw-lora — LoRA — https://huggingface.co/Diggy84002/qwen-image-edit-plus-nsfw-lora
+- [NEW] bumasura/minimax-h3 — base-model — https://huggingface.co/bumasura/minimax-h3
+- [UPDATE] Smite79/MiniMax-H3-Longvideos — LoRA — https://huggingface.co/Smite79/MiniMax-H3-Longvideos
+- [NEW] yang1975/MinimaxH3_Actions — LoRA — https://huggingface.co/yang1975/MinimaxH3_Actions
+- [NEW] carrot124/minimaxh3 — base-model — https://huggingface.co/carrot124/minimaxh3
+- [UPDATE] LiconStudio/LTX-2.5-Multiple-Subject-Reference — LoRA — https://huggingface.co/LiconStudio/LTX-2.5-Multiple-Subject-Reference
