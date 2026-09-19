@@ -1,12 +1,16 @@
 # Radar Hugging Face
 
-Généré : 2026-09-19T06:25:52.469016+00:00
+Généré : 2026-09-19T13:18:48.975818+00:00
 
 ## Delta du run
 
-- [UPDATE] xxx1311/minimax-h3 — base-model — https://huggingface.co/xxx1311/minimax-h3
-- [UPDATE] drbaph/MiniMax-H3-Turbo-Lora-ComfyUI — LoRA — https://huggingface.co/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI
-- [NEW] EllipsesMark/minimaxh3_characters — base-model — https://huggingface.co/EllipsesMark/minimaxh3_characters
-- [UPDATE] Smite79/MiniMax-H3-Longvideos — LoRA — https://huggingface.co/Smite79/MiniMax-H3-Longvideos
+- [NEW] KazumaSensei/MiniMax-H3 — base-model — https://huggingface.co/KazumaSensei/MiniMax-H3
 - [UPDATE] Hoaschen06135/MINIMAXH3V3_Yz_tar — base-model — https://huggingface.co/Hoaschen06135/MINIMAXH3V3_Yz_tar
-- [NEW] Scorpio1111/AfterMidnight-MiniMax-H3-NSFW — LoRA — https://huggingface.co/Scorpio1111/AfterMidnight-MiniMax-H3-NSFW
+- [UPDATE] DeepBeepMeep/MiniMax-H3 — LoRA — https://huggingface.co/DeepBeepMeep/MiniMax-H3
+- [NEW] Buattensorart2/ostris_minimaxh3_loras_yy — LoRA — https://huggingface.co/Buattensorart2/ostris_minimaxh3_loras_yy
+- [UPDATE] Smite79/MiniMax-H3-Longvideos — LoRA — https://huggingface.co/Smite79/MiniMax-H3-Longvideos
+- [NEW] Nadun29/MiniMax-H3 — base-model — https://huggingface.co/Nadun29/MiniMax-H3
+- [NEW] ygugyg/Minimax-H3-Latent-Upscaler-BF16-MAXQUALITY — quantization — https://huggingface.co/ygugyg/Minimax-H3-Latent-Upscaler-BF16-MAXQUALITY
+- [UPDATE] SOLRICKS/LTX-2.5-BTS-Movie-Set — LoRA — https://huggingface.co/SOLRICKS/LTX-2.5-BTS-Movie-Set
+- [UPDATE] huiwon/isaac_libero_wan22_videorepa_vmae_L18_pc05_ah16_effgb64_g4gc — base-model — https://huggingface.co/huiwon/isaac_libero_wan22_videorepa_vmae_L18_pc05_ah16_effgb64_g4gc
+- [NEW] ns2agi/notion-avatar-qwen-image-edit-2509-lora — LoRA — https://huggingface.co/ns2agi/notion-avatar-qwen-image-edit-2509-lora
