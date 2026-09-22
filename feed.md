@@ -1,34 +1,36 @@
 # Radar Hugging Face
 
-Généré : 2026-09-22T14:07:50.040393+00:00
+Généré : 2026-09-22T20:25:54.606234+00:00
 
 ## Delta du run
 
+- [NEW] Felldude/QWEN_32B_Comfy_MinimaxH3_Pruned_FP32 — base-model — https://huggingface.co/Felldude/QWEN_32B_Comfy_MinimaxH3_Pruned_FP32
+- [UPDATE] Alissonerdx/Minimax-H3-ComfyUI — LoRA — https://huggingface.co/Alissonerdx/Minimax-H3-ComfyUI
+- [UPDATE] WanApp/MinimaxH3 — base-model — https://huggingface.co/WanApp/MinimaxH3
+- [UPDATE] Plaguekind/Minimax-H3 — LoRA — https://huggingface.co/Plaguekind/Minimax-H3
 - [UPDATE] Kijai/MiniMax-H3-experimental — LoRA — https://huggingface.co/Kijai/MiniMax-H3-experimental
-- [UPDATE] Gonzaluigi/minimax-h3-refmods — base-model — https://huggingface.co/Gonzaluigi/minimax-h3-refmods
-- [UPDATE] alibaba-pai/MiniMax-H3-Fun-Controlnet-Union — adapter — https://huggingface.co/alibaba-pai/MiniMax-H3-Fun-Controlnet-Union
-- [NEW] alibaba-pai/MiniMax-H3-Fun-Controlnet-Union-2.0 — adapter — https://huggingface.co/alibaba-pai/MiniMax-H3-Fun-Controlnet-Union-2.0
-- [NEW] zhanglangdawang/MiniMax-H3 — base-model — https://huggingface.co/zhanglangdawang/MiniMax-H3
-- [UPDATE] Beidouqixing/minimax-h3-4step-lora-flashgen — LoRA — https://huggingface.co/Beidouqixing/minimax-h3-4step-lora-flashgen
-- [UPDATE] JoyFusionAI/dt-minimax-h3 — LoRA — https://huggingface.co/JoyFusionAI/dt-minimax-h3
-- [UPDATE] Comfy-Org/Qwen-Image-2.1 — quantization — https://huggingface.co/Comfy-Org/Qwen-Image-2.1
-- [NEW] Supbatomic/Qwen-Image-2.1-GGUF — quantization — https://huggingface.co/Supbatomic/Qwen-Image-2.1-GGUF
-- [NEW] Supbatomic/Qwen-Image-2.1 — base-model — https://huggingface.co/Supbatomic/Qwen-Image-2.1
-- [NEW] chfm/Qwen-Image-2.1-INT4ConvRot-ComfyUI — quantization — https://huggingface.co/chfm/Qwen-Image-2.1-INT4ConvRot-ComfyUI
-- [UPDATE] vantagewithai/Qwen-Image-2.1-ComfyUI-GGUF — quantization — https://huggingface.co/vantagewithai/Qwen-Image-2.1-ComfyUI-GGUF
-- [UPDATE] changh95/qwen-image-2.1-p150 — quantization — https://huggingface.co/changh95/qwen-image-2.1-p150
-- [NEW] iPOiZN/Qwen-Image-2.1-GGUF — quantization — https://huggingface.co/iPOiZN/Qwen-Image-2.1-GGUF
-- [NEW] unsloth/Qwen-Image-2.1-FP8 — quantization — https://huggingface.co/unsloth/Qwen-Image-2.1-FP8
-- [NEW] unsloth/Qwen-Image-2.1-GGUF — quantization — https://huggingface.co/unsloth/Qwen-Image-2.1-GGUF
-- [NEW] Qweassdzxc/Qwen-Image-2.1-GGUF — quantization — https://huggingface.co/Qweassdzxc/Qwen-Image-2.1-GGUF
-- [NEW] hooria-laiba/TI_Qwen-Image — base-model — https://huggingface.co/hooria-laiba/TI_Qwen-Image
-- [NEW] diffnamehard/Qwen-Image-2.1-PE-T2I-Heretic-int8-tensorwise-convrot — quantization — https://huggingface.co/diffnamehard/Qwen-Image-2.1-PE-T2I-Heretic-int8-tensorwise-convrot
-- [UPDATE] gguf-org/qwen-image-2.1-gguf — quantization — https://huggingface.co/gguf-org/qwen-image-2.1-gguf
-- [UPDATE] evankuo/Qwen-Image-2.1-MNN — quantization — https://huggingface.co/evankuo/Qwen-Image-2.1-MNN
-- [NEW] darrellbest/Qwen-Image-2.1-PE-T2I-Heretic — quantization — https://huggingface.co/darrellbest/Qwen-Image-2.1-PE-T2I-Heretic
-- [NEW] darrellbest/Qwen-Image-2.1-PE-T2I-Heretic-NVFP4 — quantization — https://huggingface.co/darrellbest/Qwen-Image-2.1-PE-T2I-Heretic-NVFP4
-- [UPDATE] darrellbest/Qwen-Image-2.1-PE-I2I-Heretic — quantization — https://huggingface.co/darrellbest/Qwen-Image-2.1-PE-I2I-Heretic
-- [NEW] EliovpAI/Qwen_Image-2.1-MXFP4 — quantization — https://huggingface.co/EliovpAI/Qwen_Image-2.1-MXFP4
-- [NEW] EliovpAI/Qwen_Image-2.1-MXFP4-Paiton-RDNA4 — quantization — https://huggingface.co/EliovpAI/Qwen_Image-2.1-MXFP4-Paiton-RDNA4
-- [NEW] KasugaiSakura/Qwen-Image-2.1-Original — base-model — https://huggingface.co/KasugaiSakura/Qwen-Image-2.1-Original
-- [NEW] darrellbest/Qwen-Image-2.1-PE-I2I-Heretic-NVFP4 — quantization — https://huggingface.co/darrellbest/Qwen-Image-2.1-PE-I2I-Heretic-NVFP4
+- [NEW] e-n-v-y/Qwen-Image-2.1-Fix — LoRA — https://huggingface.co/e-n-v-y/Qwen-Image-2.1-Fix
+- [NEW] groxaxo/Qwen-Image-2.1-PE-I2I-Heretic-MLX-oQ3-G64 — base-model — https://huggingface.co/groxaxo/Qwen-Image-2.1-PE-I2I-Heretic-MLX-oQ3-G64
+- [NEW] groxaxo/Qwen-Image-2.1-PE-I2I-Heretic-MLX-oQ4-G64 — base-model — https://huggingface.co/groxaxo/Qwen-Image-2.1-PE-I2I-Heretic-MLX-oQ4-G64
+- [NEW] groxaxo/Qwen-Image-2.1-PE-I2I-Heretic-MLX-oQ5-G64 — base-model — https://huggingface.co/groxaxo/Qwen-Image-2.1-PE-I2I-Heretic-MLX-oQ5-G64
+- [NEW] chatpig/qwen-image-2.1-gguf — quantization — https://huggingface.co/chatpig/qwen-image-2.1-gguf
+- [NEW] groxaxo/Qwen-Image-2.1-PE-I2I-Heretic-MLX-oQ6-G64 — base-model — https://huggingface.co/groxaxo/Qwen-Image-2.1-PE-I2I-Heretic-MLX-oQ6-G64
+- [NEW] groxaxo/Qwen-Image-2.1-PE-I2I-Heretic-MLX-oQ8-G64 — base-model — https://huggingface.co/groxaxo/Qwen-Image-2.1-PE-I2I-Heretic-MLX-oQ8-G64
+- [UPDATE] Rin247/Qwen-Image-2.1-INT8 — quantization — https://huggingface.co/Rin247/Qwen-Image-2.1-INT8
+- [UPDATE] Rin247/Qwen-Image-2.1-INT4 — quantization — https://huggingface.co/Rin247/Qwen-Image-2.1-INT4
+- [UPDATE] Rin247/Qwen-Image-2.1-FP8 — quantization — https://huggingface.co/Rin247/Qwen-Image-2.1-FP8
+- [UPDATE] Rin247/Qwen-Image-2.1-FP4 — quantization — https://huggingface.co/Rin247/Qwen-Image-2.1-FP4
+- [UPDATE] abenzerps/Qwen-Image-2.1-Uncensored-GGUF — quantization — https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF
+- [NEW] shriwastav/Qwen-Image-2.1-Uncensored-GGUF — quantization — https://huggingface.co/shriwastav/Qwen-Image-2.1-Uncensored-GGUF
+- [UPDATE] DeepBeepMeep/Qwen_image_2 — LoRA — https://huggingface.co/DeepBeepMeep/Qwen_image_2
+- [NEW] ewgenni/Qwen-Image-2.1 — base-model — https://huggingface.co/ewgenni/Qwen-Image-2.1
+- [NEW] Wososo/Qwen-Image-2.1 — base-model — https://huggingface.co/Wososo/Qwen-Image-2.1
+- [NEW] Viggle/Qwen-Image-2.1-viggle-turbo — LoRA — https://huggingface.co/Viggle/Qwen-Image-2.1-viggle-turbo
+- [NEW] GreasyGoose/qwen-image-ncnn — base-model — https://huggingface.co/GreasyGoose/qwen-image-ncnn
+- [NEW] pottokao/Qwen-Image-2.1-PE-I2I-Heretic-GGUF — quantization — https://huggingface.co/pottokao/Qwen-Image-2.1-PE-I2I-Heretic-GGUF
+- [NEW] Aero-Ex/Qwen-Image2.1_Normal2RGB — LoRA — https://huggingface.co/Aero-Ex/Qwen-Image2.1_Normal2RGB
+- [UPDATE] unsloth/Qwen-Image-2.1-GGUF — quantization — https://huggingface.co/unsloth/Qwen-Image-2.1-GGUF
+- [UPDATE] unsloth/Qwen-Image-2.1-FP8 — quantization — https://huggingface.co/unsloth/Qwen-Image-2.1-FP8
+- [NEW] ML-Intern-lab/Qwen-Image-2.1-PE-T2I-Pocket-2B — base-model — https://huggingface.co/ML-Intern-lab/Qwen-Image-2.1-PE-T2I-Pocket-2B
+- [NEW] ML-Intern-lab/Qwen-Image-2.1-PE-T2I-Pocket-0.8B — quantization — https://huggingface.co/ML-Intern-lab/Qwen-Image-2.1-PE-T2I-Pocket-0.8B
+- [NEW] iamvts/Qwen-Image-2.1-Skills — base-model — https://huggingface.co/iamvts/Qwen-Image-2.1-Skills
