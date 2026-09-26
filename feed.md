@@ -1,20 +1,67 @@
 # Radar Hugging Face
 
-Généré : 2026-09-26T06:31:16.957759+00:00
+Généré : 2026-09-26T13:49:10.303061+00:00
 
 ## Delta du run
 
-- [UPDATE] dci05049/h3-minimax — base-model — https://huggingface.co/dci05049/h3-minimax
-- [UPDATE] RunningHubAI/rh-minimax-h3-fl2v-turbo-8step-v1.0-10erosmax-beta1-pruned-compat-v001-t8-lora — LoRA — https://huggingface.co/RunningHubAI/rh-minimax-h3-fl2v-turbo-8step-v1.0-10erosmax-beta1-pruned-compat-v001-t8-lora
-- [NEW] elliotcareydev/minimax-h3-loras — LoRA — https://huggingface.co/elliotcareydev/minimax-h3-loras
-- [UPDATE] Smite79/MiniMax-H3-Longvideos — LoRA — https://huggingface.co/Smite79/MiniMax-H3-Longvideos
-- [NEW] RunningHubAI/rh-minimaxh3-turbo-shenanigans-lora — LoRA — https://huggingface.co/RunningHubAI/rh-minimaxh3-turbo-shenanigans-lora
-- [NEW] LanguaMan/Qwen-Image-2.1-FP8 — quantization — https://huggingface.co/LanguaMan/Qwen-Image-2.1-FP8
-- [NEW] RunningHubAI/rh-qwen-image-2.1-viggle-turbo-v0.2.1-r256-comfy-t8-lora — LoRA — https://huggingface.co/RunningHubAI/rh-qwen-image-2.1-viggle-turbo-v0.2.1-r256-comfy-t8-lora
-- [UPDATE] Zabin/Qwen_Image_2.1_8_Step — LoRA — https://huggingface.co/Zabin/Qwen_Image_2.1_8_Step
-- [NEW] RunningHubAI/rh-qwen-image-edit-2511-fp8-e4m3fn-fix-byfeihou-unet — quantization — https://huggingface.co/RunningHubAI/rh-qwen-image-edit-2511-fp8-e4m3fn-fix-byfeihou-unet
-- [UPDATE] netdur/Qwen-Image-2.1-QIPACK — LoRA — https://huggingface.co/netdur/Qwen-Image-2.1-QIPACK
-- [NEW] burhaniyeen/Qwen-Image-2.1 — base-model — https://huggingface.co/burhaniyeen/Qwen-Image-2.1
-- [UPDATE] YoAiKimia/Qwen-Image — base-model — https://huggingface.co/YoAiKimia/Qwen-Image
-- [NEW] ausboss/Qwen-Image-2.1-Outpaint-LoRA — LoRA — https://huggingface.co/ausboss/Qwen-Image-2.1-Outpaint-LoRA
-- [NEW] mlx-community/Qwen-Image-2.1-mflux-q4 — quantization — https://huggingface.co/mlx-community/Qwen-Image-2.1-mflux-q4
+- [NEW] SicariusSicariiStuff/Minimax_H3_LoRAs — LoRA — https://huggingface.co/SicariusSicariiStuff/Minimax_H3_LoRAs
+- [UPDATE] Gonzaluigi/minimax-h3-refmods — base-model — https://huggingface.co/Gonzaluigi/minimax-h3-refmods
+- [NEW] RunningHubAI/rh-minimax-h3-turbo-4step-ckpt850-t8-comfyui-lora — LoRA — https://huggingface.co/RunningHubAI/rh-minimax-h3-turbo-4step-ckpt850-t8-comfyui-lora
+- [NEW] RunningHubAI/rh-minimax-h3-turbo-4step-ckpt500-comfyui-t8-lora — LoRA — https://huggingface.co/RunningHubAI/rh-minimax-h3-turbo-4step-ckpt500-comfyui-t8-lora
+- [NEW] RunningHubAI/rh-minimax-h3-fl2v-8step-motion-enhancer-lora — LoRA — https://huggingface.co/RunningHubAI/rh-minimax-h3-fl2v-8step-motion-enhancer-lora
+- [NEW] RunningHubAI/rh-minimax-h3-ref2va-turbo-int8-convrot-unet — quantization — https://huggingface.co/RunningHubAI/rh-minimax-h3-ref2va-turbo-int8-convrot-unet
+- [NEW] neph1/minimax_h3_handheld_shaky_camera — LoRA — https://huggingface.co/neph1/minimax_h3_handheld_shaky_camera
+- [NEW] neph1/1920s_horror_movies_minimax_h3 — LoRA — https://huggingface.co/neph1/1920s_horror_movies_minimax_h3
+- [UPDATE] Veda-Sparse/Minimax-H3-T2VA-Veda-8NFE-600Step-Preview — quantization — https://huggingface.co/Veda-Sparse/Minimax-H3-T2VA-Veda-8NFE-600Step-Preview
+- [UPDATE] malcolmrey/minimaxh3 — base-model — https://huggingface.co/malcolmrey/minimaxh3
+- [NEW] PowerProducer/unica-ltx-2.5-components — quantization — https://huggingface.co/PowerProducer/unica-ltx-2.5-components
+- [NEW] Hcris214/qwen-image-edit-plus-nsfw-lora — LoRA — https://huggingface.co/Hcris214/qwen-image-edit-plus-nsfw-lora
+- [NEW] RunningHubAI/rh-qwen-image-edit-remix-unet — base-model — https://huggingface.co/RunningHubAI/rh-qwen-image-edit-remix-unet
+- [NEW] Supbatomic/Qwen-Image-2.1-Uncensored-Abenzerps-GGUF — quantization — https://huggingface.co/Supbatomic/Qwen-Image-2.1-Uncensored-Abenzerps-GGUF
+- [NEW] Supbatomic/Qwen-Image-2.1-Uncensored-GGUF — quantization — https://huggingface.co/Supbatomic/Qwen-Image-2.1-Uncensored-GGUF
+- [UPDATE] Zabin/Qwen_Image_2512_LoRAs — LoRA — https://huggingface.co/Zabin/Qwen_Image_2512_LoRAs
+- [NEW] darrellbest/Qwen-Image-2.1-Text-Encoder-GGUF — quantization — https://huggingface.co/darrellbest/Qwen-Image-2.1-Text-Encoder-GGUF
+- [NEW] darrellbest/Qwen-Image-2.1-Text-Encoder-FP8 — quantization — https://huggingface.co/darrellbest/Qwen-Image-2.1-Text-Encoder-FP8
+- [UPDATE] toxicdog/Qwen-Image-2.1-MLX — quantization — https://huggingface.co/toxicdog/Qwen-Image-2.1-MLX
+- [NEW] cokeadrink/qwen-image-2.1 — base-model — https://huggingface.co/cokeadrink/qwen-image-2.1
+- [UPDATE] abenzerps/Qwen-Image-2.1-Uncensored-GGUF — quantization — https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF
+- [NEW] SamuelTallet/Pruna-Qwen-Image-2.1-8steps-SDNQ-4bit-dynamic-hadamard256 — LoRA — https://huggingface.co/SamuelTallet/Pruna-Qwen-Image-2.1-8steps-SDNQ-4bit-dynamic-hadamard256
+- [NEW] wazimondo/Qwen-Image-2.1-viggle-turbo — LoRA — https://huggingface.co/wazimondo/Qwen-Image-2.1-viggle-turbo
+- [NEW] RunningHubAI/rh-qwen-image2.1-lora — LoRA — https://huggingface.co/RunningHubAI/rh-qwen-image2.1-lora
+- [NEW] mflux-community/qwen-image-edit-2511-mflux-bf16 — quantization — https://huggingface.co/mflux-community/qwen-image-edit-2511-mflux-bf16
+- [NEW] mflux-community/qwen-image-edit-2511-mflux-q8 — quantization — https://huggingface.co/mflux-community/qwen-image-edit-2511-mflux-q8
+- [NEW] mflux-community/qwen-image-edit-2511-mflux-q6 — quantization — https://huggingface.co/mflux-community/qwen-image-edit-2511-mflux-q6
+- [NEW] mflux-community/qwen-image-edit-2511-mflux-q5 — quantization — https://huggingface.co/mflux-community/qwen-image-edit-2511-mflux-q5
+- [NEW] mflux-community/qwen-image-edit-2511-mflux-q4 — quantization — https://huggingface.co/mflux-community/qwen-image-edit-2511-mflux-q4
+- [NEW] mflux-community/qwen-image-edit-2511-mflux-q3 — quantization — https://huggingface.co/mflux-community/qwen-image-edit-2511-mflux-q3
+- [NEW] mflux-community/qwen-image-edit-2509-mflux-bf16 — quantization — https://huggingface.co/mflux-community/qwen-image-edit-2509-mflux-bf16
+- [NEW] mflux-community/qwen-image-edit-2509-mflux-q8 — quantization — https://huggingface.co/mflux-community/qwen-image-edit-2509-mflux-q8
+- [NEW] mflux-community/qwen-image-edit-2509-mflux-q6 — quantization — https://huggingface.co/mflux-community/qwen-image-edit-2509-mflux-q6
+- [NEW] mflux-community/qwen-image-edit-2509-mflux-q5 — quantization — https://huggingface.co/mflux-community/qwen-image-edit-2509-mflux-q5
+- [NEW] mflux-community/qwen-image-edit-2509-mflux-q4 — quantization — https://huggingface.co/mflux-community/qwen-image-edit-2509-mflux-q4
+- [NEW] mflux-community/qwen-image-edit-2509-mflux-q3 — quantization — https://huggingface.co/mflux-community/qwen-image-edit-2509-mflux-q3
+- [UPDATE] mflux-community/qwen-image-edit-mflux-bf16 — quantization — https://huggingface.co/mflux-community/qwen-image-edit-mflux-bf16
+- [UPDATE] mflux-community/qwen-image-edit-mflux-q8 — quantization — https://huggingface.co/mflux-community/qwen-image-edit-mflux-q8
+- [UPDATE] mflux-community/qwen-image-edit-mflux-q6 — quantization — https://huggingface.co/mflux-community/qwen-image-edit-mflux-q6
+- [UPDATE] mflux-community/qwen-image-edit-mflux-q5 — quantization — https://huggingface.co/mflux-community/qwen-image-edit-mflux-q5
+- [UPDATE] mflux-community/qwen-image-edit-mflux-q4 — quantization — https://huggingface.co/mflux-community/qwen-image-edit-mflux-q4
+- [UPDATE] mflux-community/qwen-image-edit-mflux-q3 — quantization — https://huggingface.co/mflux-community/qwen-image-edit-mflux-q3
+- [NEW] mflux-community/qwen-image-2512-mflux-bf16 — quantization — https://huggingface.co/mflux-community/qwen-image-2512-mflux-bf16
+- [NEW] mflux-community/qwen-image-2512-mflux-q8 — quantization — https://huggingface.co/mflux-community/qwen-image-2512-mflux-q8
+- [NEW] mflux-community/qwen-image-2512-mflux-q6 — quantization — https://huggingface.co/mflux-community/qwen-image-2512-mflux-q6
+- [NEW] mflux-community/qwen-image-2512-mflux-q5 — quantization — https://huggingface.co/mflux-community/qwen-image-2512-mflux-q5
+- [NEW] mflux-community/qwen-image-2512-mflux-q4 — quantization — https://huggingface.co/mflux-community/qwen-image-2512-mflux-q4
+- [NEW] mflux-community/qwen-image-2512-mflux-q3 — quantization — https://huggingface.co/mflux-community/qwen-image-2512-mflux-q3
+- [UPDATE] mflux-community/qwen-image-2-1-mflux-bf16 — quantization — https://huggingface.co/mflux-community/qwen-image-2-1-mflux-bf16
+- [UPDATE] mflux-community/qwen-image-2-1-mflux-q8 — quantization — https://huggingface.co/mflux-community/qwen-image-2-1-mflux-q8
+- [UPDATE] mflux-community/qwen-image-2-1-mflux-q6 — quantization — https://huggingface.co/mflux-community/qwen-image-2-1-mflux-q6
+- [UPDATE] mflux-community/qwen-image-2-1-mflux-q5 — quantization — https://huggingface.co/mflux-community/qwen-image-2-1-mflux-q5
+- [UPDATE] mflux-community/qwen-image-2-1-mflux-q4 — quantization — https://huggingface.co/mflux-community/qwen-image-2-1-mflux-q4
+- [UPDATE] mflux-community/qwen-image-2-1-mflux-q3 — quantization — https://huggingface.co/mflux-community/qwen-image-2-1-mflux-q3
+- [NEW] mflux-community/qwen-image-mflux-bf16 — quantization — https://huggingface.co/mflux-community/qwen-image-mflux-bf16
+- [NEW] mflux-community/qwen-image-mflux-q8 — quantization — https://huggingface.co/mflux-community/qwen-image-mflux-q8
+- [NEW] mflux-community/qwen-image-mflux-q6 — quantization — https://huggingface.co/mflux-community/qwen-image-mflux-q6
+- [UPDATE] mflux-community/qwen-image-mflux-q5 — quantization — https://huggingface.co/mflux-community/qwen-image-mflux-q5
+- [NEW] mflux-community/qwen-image-mflux-q4 — quantization — https://huggingface.co/mflux-community/qwen-image-mflux-q4
+- [NEW] mflux-community/qwen-image-mflux-q3 — quantization — https://huggingface.co/mflux-community/qwen-image-mflux-q3
+- [NEW] fusoul/Qwen-Image-Edit-2511 — LoRA — https://huggingface.co/fusoul/Qwen-Image-Edit-2511
