@@ -1,25 +1,21 @@
 # Radar Hugging Face
 
-Généré : 2026-10-01T16:39:17.651898+00:00
+Généré : 2026-10-01T21:57:07.009363+00:00
 
 ## Delta du run
 
-- [UPDATE] QuantFunc/Minimax-H3-Quantfunc-4bit — LoRA — https://huggingface.co/QuantFunc/Minimax-H3-Quantfunc-4bit
-- [UPDATE] Gonzaluigi/minimax-h3-refmods — base-model — https://huggingface.co/Gonzaluigi/minimax-h3-refmods
-- [NEW] AcademiaSD/MiniMax-H3-NF4 — LoRA — https://huggingface.co/AcademiaSD/MiniMax-H3-NF4
-- [NEW] Lightricks/LTX-2.5-22b-IC-LoRA-Layout-To-Render — LoRA — https://huggingface.co/Lightricks/LTX-2.5-22b-IC-LoRA-Layout-To-Render
-- [UPDATE] NanoMathias/ltx-2.5-gametwirl — LoRA — https://huggingface.co/NanoMathias/ltx-2.5-gametwirl
-- [UPDATE] CQdesign/LTX-2.5-CQ-Video-and-Image-Enhancer-LoRAs — LoRA — https://huggingface.co/CQdesign/LTX-2.5-CQ-Video-and-Image-Enhancer-LoRAs
-- [NEW] iCincaiPlay/Qwen-Image-2.1-Uncensored-HF — quantization — https://huggingface.co/iCincaiPlay/Qwen-Image-2.1-Uncensored-HF
-- [UPDATE] QuantFunc/Qwen-Image-2.1-4bit — LoRA — https://huggingface.co/QuantFunc/Qwen-Image-2.1-4bit
-- [NEW] NovaeonStudio/qwen-image-2.1-mflux-q8 — quantization — https://huggingface.co/NovaeonStudio/qwen-image-2.1-mflux-q8
-- [NEW] jiuyi111/Qwen-Image-2.1 — base-model — https://huggingface.co/jiuyi111/Qwen-Image-2.1
-- [UPDATE] napalm/qwen_image21 — base-model — https://huggingface.co/napalm/qwen_image21
-- [NEW] AdwolfCzar/qwen-image-21-nextscene-edit — LoRA — https://huggingface.co/AdwolfCzar/qwen-image-21-nextscene-edit
+- [NEW] addlabsviral/minimax-h3-combined — base-model — https://huggingface.co/addlabsviral/minimax-h3-combined
+- [NEW] Shishir1996/Minimax-H3-T2VA-Veda-8NFE-600Step-Preview — LoRA — https://huggingface.co/Shishir1996/Minimax-H3-T2VA-Veda-8NFE-600Step-Preview
+- [NEW] EllaPriest45/QwenImage2.1_styles — base-model — https://huggingface.co/EllaPriest45/QwenImage2.1_styles
+- [NEW] EllaPriest45/QwenImage2.1_characters — base-model — https://huggingface.co/EllaPriest45/QwenImage2.1_characters
+- [NEW] EllaPriest45/QwenImage2.1_Actions — base-model — https://huggingface.co/EllaPriest45/QwenImage2.1_Actions
+- [UPDATE] Sentinel7/qwen-image-2.1 — base-model — https://huggingface.co/Sentinel7/qwen-image-2.1
+- [UPDATE] cokeadrink/qwen-image-2.1 — base-model — https://huggingface.co/cokeadrink/qwen-image-2.1
+- [UPDATE] ausboss/Qwen-Image-2.1-Consistency-LoRA — LoRA — https://huggingface.co/ausboss/Qwen-Image-2.1-Consistency-LoRA
 - [UPDATE] evankuo/Qwen-Image-2.1-MNN — LoRA — https://huggingface.co/evankuo/Qwen-Image-2.1-MNN
-- [UPDATE] YoAiKimia/Qwen-Image — base-model — https://huggingface.co/YoAiKimia/Qwen-Image
-- [UPDATE] wesjos/Qwen-Image2.1-ZenlessZoneZero-Lora — LoRA — https://huggingface.co/wesjos/Qwen-Image2.1-ZenlessZoneZero-Lora
-- [UPDATE] Sutoonq/Qwen-Image-2.1-6NFE-Distill — LoRA — https://huggingface.co/Sutoonq/Qwen-Image-2.1-6NFE-Distill
-- [NEW] Gogodr/qwen-image-2.1-edit-pano360-lora — LoRA — https://huggingface.co/Gogodr/qwen-image-2.1-edit-pano360-lora
-- [NEW] dreamdifferent/vam-cross-level4-panda-widowx-widowx-texture-teleopaligned-videolora200-action-decoder-iter1800 — LoRA — https://huggingface.co/dreamdifferent/vam-cross-level4-panda-widowx-widowx-texture-teleopaligned-videolora200-action-decoder-iter1800
-- [NEW] dreamdifferent/vam-cross-level4-panda-widowx-widowx-texture-teleopaligned-videolora200-action-decoder-iter900 — LoRA — https://huggingface.co/dreamdifferent/vam-cross-level4-panda-widowx-widowx-texture-teleopaligned-videolora200-action-decoder-iter900
+- [NEW] Solstice-AI/Qwen-Image-2.1-Uncensored-GGUF-Ultraoptimised-Curated — quantization — https://huggingface.co/Solstice-AI/Qwen-Image-2.1-Uncensored-GGUF-Ultraoptimised-Curated
+- [UPDATE] jiuyi111/Qwen-Image-2.1 — base-model — https://huggingface.co/jiuyi111/Qwen-Image-2.1
+- [UPDATE] EllaPriest45/Krea2_Styles — base-model — https://huggingface.co/EllaPriest45/Krea2_Styles
+- [UPDATE] EllaPriest45/Krea2_base — LoRA — https://huggingface.co/EllaPriest45/Krea2_base
+- [UPDATE] EllaPriest45/Krea2_actions — LoRA — https://huggingface.co/EllaPriest45/Krea2_actions
+- [UPDATE] EllaPriest45/Krea2_Characters — LoRA — https://huggingface.co/EllaPriest45/Krea2_Characters
