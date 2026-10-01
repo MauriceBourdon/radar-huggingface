@@ -1,23 +1,25 @@
 # Radar Hugging Face
 
-Généré : 2026-10-01T07:37:47.172150+00:00
+Généré : 2026-10-01T16:39:17.651898+00:00
 
 ## Delta du run
 
-- [UPDATE] Jojocodex/wushu-action-v7-minimax-h3-fl2va-ref2va-lora — LoRA — https://huggingface.co/Jojocodex/wushu-action-v7-minimax-h3-fl2va-ref2va-lora
-- [UPDATE] mhnakif/minimax_h3 — base-model — https://huggingface.co/mhnakif/minimax_h3
-- [NEW] corechan/MiniMax-H3-LightVAE — quantization — https://huggingface.co/corechan/MiniMax-H3-LightVAE
-- [UPDATE] Kijai/MiniMax-H3-experimental — LoRA — https://huggingface.co/Kijai/MiniMax-H3-experimental
-- [NEW] speach1sdef178/MiniMax-H3-X2-Detail-VAE — utility — https://huggingface.co/speach1sdef178/MiniMax-H3-X2-Detail-VAE
-- [NEW] Iwannapose/minimax_h3_pdmd_2nfe_comfyui — LoRA — https://huggingface.co/Iwannapose/minimax_h3_pdmd_2nfe_comfyui
+- [UPDATE] QuantFunc/Minimax-H3-Quantfunc-4bit — LoRA — https://huggingface.co/QuantFunc/Minimax-H3-Quantfunc-4bit
+- [UPDATE] Gonzaluigi/minimax-h3-refmods — base-model — https://huggingface.co/Gonzaluigi/minimax-h3-refmods
+- [NEW] AcademiaSD/MiniMax-H3-NF4 — LoRA — https://huggingface.co/AcademiaSD/MiniMax-H3-NF4
+- [NEW] Lightricks/LTX-2.5-22b-IC-LoRA-Layout-To-Render — LoRA — https://huggingface.co/Lightricks/LTX-2.5-22b-IC-LoRA-Layout-To-Render
+- [UPDATE] NanoMathias/ltx-2.5-gametwirl — LoRA — https://huggingface.co/NanoMathias/ltx-2.5-gametwirl
 - [UPDATE] CQdesign/LTX-2.5-CQ-Video-and-Image-Enhancer-LoRAs — LoRA — https://huggingface.co/CQdesign/LTX-2.5-CQ-Video-and-Image-Enhancer-LoRAs
-- [NEW] Moseyanling/Qwen-Image-2.1-PE-T2I-GGUF — quantization — https://huggingface.co/Moseyanling/Qwen-Image-2.1-PE-T2I-GGUF
-- [NEW] LLADIGA/Qwen3.5-4B-seed895-imagegame-player2 — base-model — https://huggingface.co/LLADIGA/Qwen3.5-4B-seed895-imagegame-player2
-- [NEW] LLADIGA/Qwen3.5-4B-seed895-imagegame-player1 — base-model — https://huggingface.co/LLADIGA/Qwen3.5-4B-seed895-imagegame-player1
-- [NEW] LLADIGA/Qwen3.5-4B-seed6828-imagegame-player2 — base-model — https://huggingface.co/LLADIGA/Qwen3.5-4B-seed6828-imagegame-player2
-- [NEW] LLADIGA/Qwen3.5-4B-seed6828-imagegame-player1 — base-model — https://huggingface.co/LLADIGA/Qwen3.5-4B-seed6828-imagegame-player1
-- [NEW] fishpasters/qwen-image-edit-uncensored-GGUF — LoRA — https://huggingface.co/fishpasters/qwen-image-edit-uncensored-GGUF
-- [UPDATE] Viggle/Qwen-Image-2.1-viggle-turbo — LoRA — https://huggingface.co/Viggle/Qwen-Image-2.1-viggle-turbo
-- [NEW] FAISALFAZALHUSSAIN/Qwen-Image-2.1-Uncensored-GGUF — quantization — https://huggingface.co/FAISALFAZALHUSSAIN/Qwen-Image-2.1-Uncensored-GGUF
-- [NEW] FAISALFAZALHUSSAIN/Qwen-Image-2.1 — base-model — https://huggingface.co/FAISALFAZALHUSSAIN/Qwen-Image-2.1
-- [UPDATE] Sentinel7/qwen-image-2.1 — base-model — https://huggingface.co/Sentinel7/qwen-image-2.1
+- [NEW] iCincaiPlay/Qwen-Image-2.1-Uncensored-HF — quantization — https://huggingface.co/iCincaiPlay/Qwen-Image-2.1-Uncensored-HF
+- [UPDATE] QuantFunc/Qwen-Image-2.1-4bit — LoRA — https://huggingface.co/QuantFunc/Qwen-Image-2.1-4bit
+- [NEW] NovaeonStudio/qwen-image-2.1-mflux-q8 — quantization — https://huggingface.co/NovaeonStudio/qwen-image-2.1-mflux-q8
+- [NEW] jiuyi111/Qwen-Image-2.1 — base-model — https://huggingface.co/jiuyi111/Qwen-Image-2.1
+- [UPDATE] napalm/qwen_image21 — base-model — https://huggingface.co/napalm/qwen_image21
+- [NEW] AdwolfCzar/qwen-image-21-nextscene-edit — LoRA — https://huggingface.co/AdwolfCzar/qwen-image-21-nextscene-edit
+- [UPDATE] evankuo/Qwen-Image-2.1-MNN — LoRA — https://huggingface.co/evankuo/Qwen-Image-2.1-MNN
+- [UPDATE] YoAiKimia/Qwen-Image — base-model — https://huggingface.co/YoAiKimia/Qwen-Image
+- [UPDATE] wesjos/Qwen-Image2.1-ZenlessZoneZero-Lora — LoRA — https://huggingface.co/wesjos/Qwen-Image2.1-ZenlessZoneZero-Lora
+- [UPDATE] Sutoonq/Qwen-Image-2.1-6NFE-Distill — LoRA — https://huggingface.co/Sutoonq/Qwen-Image-2.1-6NFE-Distill
+- [NEW] Gogodr/qwen-image-2.1-edit-pano360-lora — LoRA — https://huggingface.co/Gogodr/qwen-image-2.1-edit-pano360-lora
+- [NEW] dreamdifferent/vam-cross-level4-panda-widowx-widowx-texture-teleopaligned-videolora200-action-decoder-iter1800 — LoRA — https://huggingface.co/dreamdifferent/vam-cross-level4-panda-widowx-widowx-texture-teleopaligned-videolora200-action-decoder-iter1800
+- [NEW] dreamdifferent/vam-cross-level4-panda-widowx-widowx-texture-teleopaligned-videolora200-action-decoder-iter900 — LoRA — https://huggingface.co/dreamdifferent/vam-cross-level4-panda-widowx-widowx-texture-teleopaligned-videolora200-action-decoder-iter900
