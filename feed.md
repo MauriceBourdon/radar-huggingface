@@ -1,23 +1,23 @@
 # Radar Hugging Face
 
-Généré : 2026-09-30T21:30:42.282698+00:00
+Généré : 2026-10-01T07:37:47.172150+00:00
 
 ## Delta du run
 
-- [UPDATE] SOLRICKS/3D-Animation-Style-MiniMax-H3 — LoRA — https://huggingface.co/SOLRICKS/3D-Animation-Style-MiniMax-H3
-- [NEW] vidGen654/minimax-h3-r2v-comfyui — base-model — https://huggingface.co/vidGen654/minimax-h3-r2v-comfyui
-- [NEW] Iwannapose/minimax_h3_pdmd_4nfe_comfyui — LoRA — https://huggingface.co/Iwannapose/minimax_h3_pdmd_4nfe_comfyui
-- [NEW] RunningHubAI/rh-minimax-h3-4step-turbo-v4-pass2-lora — LoRA — https://huggingface.co/RunningHubAI/rh-minimax-h3-4step-turbo-v4-pass2-lora
-- [NEW] RunningHubAI/rh-minimax-h3-fl2v-turbo-4step-v0.1-comfyui-alpha8-t8-convert-lora — LoRA — https://huggingface.co/RunningHubAI/rh-minimax-h3-fl2v-turbo-4step-v0.1-comfyui-alpha8-t8-convert-lora
-- [NEW] Work-Fisher/MiniMax-H3-Wuxia-Fight-Workflow — LoRA — https://huggingface.co/Work-Fisher/MiniMax-H3-Wuxia-Fight-Workflow
-- [NEW] RunningHubAI/rh-minimax-h3-lora — LoRA — https://huggingface.co/RunningHubAI/rh-minimax-h3-lora
-- [UPDATE] Veda-Sparse/Minimax-H3-T2VA-Veda-8NFE-600Step-Preview — LoRA — https://huggingface.co/Veda-Sparse/Minimax-H3-T2VA-Veda-8NFE-600Step-Preview
-- [UPDATE] optimum-intel-internal-testing/tiny-random-ltx2.5 — base-model — https://huggingface.co/optimum-intel-internal-testing/tiny-random-ltx2.5
-- [NEW] Lightricks/LTX-2.5-22b-IC-LoRA-SDR-To-HDR — LoRA — https://huggingface.co/Lightricks/LTX-2.5-22b-IC-LoRA-SDR-To-HDR
-- [UPDATE] SamuelTallet/Pruna-Qwen-Image-2.1-8steps-SDNQ-4bit-dynamic-hadamard256 — LoRA — https://huggingface.co/SamuelTallet/Pruna-Qwen-Image-2.1-8steps-SDNQ-4bit-dynamic-hadamard256
-- [UPDATE] SamuelTallet/Qwen-Image-2.1-SDNQ-4bit-dynamic-hadamard256 — quantization — https://huggingface.co/SamuelTallet/Qwen-Image-2.1-SDNQ-4bit-dynamic-hadamard256
-- [UPDATE] SimpleTuner/Qwen-Image-2.1-LoRA-experiments — LoRA — https://huggingface.co/SimpleTuner/Qwen-Image-2.1-LoRA-experiments
-- [NEW] SimpleTuner/Qwen-Image-2.1-LoRA-photo-aesthetics-v3 — LoRA — https://huggingface.co/SimpleTuner/Qwen-Image-2.1-LoRA-photo-aesthetics-v3
-- [NEW] mozophe/Qwen-Image-2.1-PE-MTP-GGUF — quantization — https://huggingface.co/mozophe/Qwen-Image-2.1-PE-MTP-GGUF
-- [UPDATE] evankuo/Qwen-Image-2.1-MNN — LoRA — https://huggingface.co/evankuo/Qwen-Image-2.1-MNN
-- [NEW] karljsamuel/Qwen-Image-2.1-Uncensored-GGUF — quantization — https://huggingface.co/karljsamuel/Qwen-Image-2.1-Uncensored-GGUF
+- [UPDATE] Jojocodex/wushu-action-v7-minimax-h3-fl2va-ref2va-lora — LoRA — https://huggingface.co/Jojocodex/wushu-action-v7-minimax-h3-fl2va-ref2va-lora
+- [UPDATE] mhnakif/minimax_h3 — base-model — https://huggingface.co/mhnakif/minimax_h3
+- [NEW] corechan/MiniMax-H3-LightVAE — quantization — https://huggingface.co/corechan/MiniMax-H3-LightVAE
+- [UPDATE] Kijai/MiniMax-H3-experimental — LoRA — https://huggingface.co/Kijai/MiniMax-H3-experimental
+- [NEW] speach1sdef178/MiniMax-H3-X2-Detail-VAE — utility — https://huggingface.co/speach1sdef178/MiniMax-H3-X2-Detail-VAE
+- [NEW] Iwannapose/minimax_h3_pdmd_2nfe_comfyui — LoRA — https://huggingface.co/Iwannapose/minimax_h3_pdmd_2nfe_comfyui
+- [UPDATE] CQdesign/LTX-2.5-CQ-Video-and-Image-Enhancer-LoRAs — LoRA — https://huggingface.co/CQdesign/LTX-2.5-CQ-Video-and-Image-Enhancer-LoRAs
+- [NEW] Moseyanling/Qwen-Image-2.1-PE-T2I-GGUF — quantization — https://huggingface.co/Moseyanling/Qwen-Image-2.1-PE-T2I-GGUF
+- [NEW] LLADIGA/Qwen3.5-4B-seed895-imagegame-player2 — base-model — https://huggingface.co/LLADIGA/Qwen3.5-4B-seed895-imagegame-player2
+- [NEW] LLADIGA/Qwen3.5-4B-seed895-imagegame-player1 — base-model — https://huggingface.co/LLADIGA/Qwen3.5-4B-seed895-imagegame-player1
+- [NEW] LLADIGA/Qwen3.5-4B-seed6828-imagegame-player2 — base-model — https://huggingface.co/LLADIGA/Qwen3.5-4B-seed6828-imagegame-player2
+- [NEW] LLADIGA/Qwen3.5-4B-seed6828-imagegame-player1 — base-model — https://huggingface.co/LLADIGA/Qwen3.5-4B-seed6828-imagegame-player1
+- [NEW] fishpasters/qwen-image-edit-uncensored-GGUF — LoRA — https://huggingface.co/fishpasters/qwen-image-edit-uncensored-GGUF
+- [UPDATE] Viggle/Qwen-Image-2.1-viggle-turbo — LoRA — https://huggingface.co/Viggle/Qwen-Image-2.1-viggle-turbo
+- [NEW] FAISALFAZALHUSSAIN/Qwen-Image-2.1-Uncensored-GGUF — quantization — https://huggingface.co/FAISALFAZALHUSSAIN/Qwen-Image-2.1-Uncensored-GGUF
+- [NEW] FAISALFAZALHUSSAIN/Qwen-Image-2.1 — base-model — https://huggingface.co/FAISALFAZALHUSSAIN/Qwen-Image-2.1
+- [UPDATE] Sentinel7/qwen-image-2.1 — base-model — https://huggingface.co/Sentinel7/qwen-image-2.1
