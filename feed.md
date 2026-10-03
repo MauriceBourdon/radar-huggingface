@@ -1,20 +1,13 @@
 # Radar Hugging Face
 
-Généré : 2026-10-03T20:07:04.864615+00:00
+Généré : 2026-10-03T23:59:02.969990+00:00
 
 ## Delta du run
 
-- [UPDATE] SOLRICKS/3D-Animation-Style-MiniMax-H3 — LoRA — https://huggingface.co/SOLRICKS/3D-Animation-Style-MiniMax-H3
-- [NEW] MomilGugsu/MiniMaxH3 — base-model — https://huggingface.co/MomilGugsu/MiniMaxH3
-- [UPDATE] EllaPriest45/MinimaxH3_Checkpoints — LoRA — https://huggingface.co/EllaPriest45/MinimaxH3_Checkpoints
-- [NEW] RunningHubAI/rh-minimax-h3-turboref2v-turbo-8step-v1.0-768p-lora — LoRA — https://huggingface.co/RunningHubAI/rh-minimax-h3-turboref2v-turbo-8step-v1.0-768p-lora
-- [UPDATE] DarkRomeo88/MiniMax-H3-turbo-lora-comfyui — LoRA — https://huggingface.co/DarkRomeo88/MiniMax-H3-turbo-lora-comfyui
-- [NEW] NazGulation/comfyui_model_minimaxH3_dasiwa — base-model — https://huggingface.co/NazGulation/comfyui_model_minimaxH3_dasiwa
-- [UPDATE] StefanFalkok/Minimax_H3_Workflows — LoRA — https://huggingface.co/StefanFalkok/Minimax_H3_Workflows
-- [UPDATE] EllaPriest45/MinimaxH3_Styles — LoRA — https://huggingface.co/EllaPriest45/MinimaxH3_Styles
-- [NEW] sebfil/LTX-2.5-22b-IC-LoRA-Restore-mirror — LoRA — https://huggingface.co/sebfil/LTX-2.5-22b-IC-LoRA-Restore-mirror
-- [NEW] RunningHubAI/rh-qwen2512-z-image-flux2-klein-lora — LoRA — https://huggingface.co/RunningHubAI/rh-qwen2512-z-image-flux2-klein-lora
-- [UPDATE] changh95/qwen-image-2.1-p150 — quantization — https://huggingface.co/changh95/qwen-image-2.1-p150
-- [UPDATE] Sentinel7/qwen-image-2.1 — base-model — https://huggingface.co/Sentinel7/qwen-image-2.1
-- [NEW] isHeSatoshi/Qwen-Image-2.1-viggle-turbo-v0.2.1-6step-lora-r128 — LoRA — https://huggingface.co/isHeSatoshi/Qwen-Image-2.1-viggle-turbo-v0.2.1-6step-lora-r128
-- [NEW] RunningHubAI/rh-seedvr2-3b-fp16-aio-checkpoint — base-model — https://huggingface.co/RunningHubAI/rh-seedvr2-3b-fp16-aio-checkpoint
+- [NEW] Charlietooth/Animatediff_style_Minimax_H3 — LoRA — https://huggingface.co/Charlietooth/Animatediff_style_Minimax_H3
+- [UPDATE] Smite79/MiniMax-H3-Longvideos — utility — https://huggingface.co/Smite79/MiniMax-H3-Longvideos
+- [UPDATE] addlabsviral/minimax-h3-combined — LoRA — https://huggingface.co/addlabsviral/minimax-h3-combined
+- [NEW] jam2778/Qwen-Image-2.1-Uncensored-GGUF — quantization — https://huggingface.co/jam2778/Qwen-Image-2.1-Uncensored-GGUF
+- [NEW] addlabsviral/qwen-image2.1-turbo-int8 — quantization — https://huggingface.co/addlabsviral/qwen-image2.1-turbo-int8
+- [NEW] houseofboern/realism-qwen-image-2.1-edit-lora — LoRA — https://huggingface.co/houseofboern/realism-qwen-image-2.1-edit-lora
+- [NEW] matheus58457/Qwen-Image-2.1-PE-I2I-Heretic — quantization — https://huggingface.co/matheus58457/Qwen-Image-2.1-PE-I2I-Heretic
