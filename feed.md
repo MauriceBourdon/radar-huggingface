@@ -1,13 +1,15 @@
 # Radar Hugging Face
 
-Généré : 2026-10-03T23:59:02.969990+00:00
+Généré : 2026-10-04T07:18:31.956844+00:00
 
 ## Delta du run
 
-- [NEW] Charlietooth/Animatediff_style_Minimax_H3 — LoRA — https://huggingface.co/Charlietooth/Animatediff_style_Minimax_H3
 - [UPDATE] Smite79/MiniMax-H3-Longvideos — utility — https://huggingface.co/Smite79/MiniMax-H3-Longvideos
-- [UPDATE] addlabsviral/minimax-h3-combined — LoRA — https://huggingface.co/addlabsviral/minimax-h3-combined
-- [NEW] jam2778/Qwen-Image-2.1-Uncensored-GGUF — quantization — https://huggingface.co/jam2778/Qwen-Image-2.1-Uncensored-GGUF
-- [NEW] addlabsviral/qwen-image2.1-turbo-int8 — quantization — https://huggingface.co/addlabsviral/qwen-image2.1-turbo-int8
-- [NEW] houseofboern/realism-qwen-image-2.1-edit-lora — LoRA — https://huggingface.co/houseofboern/realism-qwen-image-2.1-edit-lora
-- [NEW] matheus58457/Qwen-Image-2.1-PE-I2I-Heretic — quantization — https://huggingface.co/matheus58457/Qwen-Image-2.1-PE-I2I-Heretic
+- [UPDATE] Veda-Sparse/Minimax-H3-T2VA-Veda-8NFE-600Step-Preview — LoRA — https://huggingface.co/Veda-Sparse/Minimax-H3-T2VA-Veda-8NFE-600Step-Preview
+- [NEW] manateelazycat/MiniMax-H3-Runtime — base-model — https://huggingface.co/manateelazycat/MiniMax-H3-Runtime
+- [UPDATE] DarkRomeo88/MiniMax-H3-turbo-lora-comfyui — LoRA — https://huggingface.co/DarkRomeo88/MiniMax-H3-turbo-lora-comfyui
+- [UPDATE] SexGod1979/PinkCherry-NSFW_MiniMax-H3 — base-model — https://huggingface.co/SexGod1979/PinkCherry-NSFW_MiniMax-H3
+- [UPDATE] NazGulation/comfyui_model_minimaxH3_dasiwa — base-model — https://huggingface.co/NazGulation/comfyui_model_minimaxH3_dasiwa
+- [UPDATE] malcolmrey/minimaxh3 — base-model — https://huggingface.co/malcolmrey/minimaxh3
+- [UPDATE] yniw/MiniMax-H3-mmh3 — LoRA — https://huggingface.co/yniw/MiniMax-H3-mmh3
+- [NEW] ausboss/Qwen-Image-2.1-Outfit-Swap-Consistency-LoRA — LoRA — https://huggingface.co/ausboss/Qwen-Image-2.1-Outfit-Swap-Consistency-LoRA
