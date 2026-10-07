@@ -1,16 +1,16 @@
 # Radar Hugging Face
 
-Généré : 2026-10-06T19:00:10.629341+00:00
+Généré : 2026-10-07T00:57:13.298304+00:00
 
 ## Delta du run
 
-- [NEW] digitalartdynamics/facadelab-minimax-h3-mirror — LoRA — https://huggingface.co/digitalartdynamics/facadelab-minimax-h3-mirror
-- [NEW] Asirus/minimax_h3_ref2va_pdd_baked_int8_convrot — LoRA — https://huggingface.co/Asirus/minimax_h3_ref2va_pdd_baked_int8_convrot
-- [NEW] vdaular/LTX-2.5-Workflows — LoRA — https://huggingface.co/vdaular/LTX-2.5-Workflows
-- [UPDATE] DigitalByte/LTX-2.5-Exploded-View-XPLDV — LoRA — https://huggingface.co/DigitalByte/LTX-2.5-Exploded-View-XPLDV
-- [NEW] JoaoZaokk/ConvRot-Mixed-INT8-for-Qwen-Image-2.1 — quantization — https://huggingface.co/JoaoZaokk/ConvRot-Mixed-INT8-for-Qwen-Image-2.1
-- [UPDATE] ysharma/Qwen-Image-2.1-image-translator-LoRA — LoRA — https://huggingface.co/ysharma/Qwen-Image-2.1-image-translator-LoRA
-- [NEW] kacakto/Qwen-Image-2.1-Uncensored-GGUF — quantization — https://huggingface.co/kacakto/Qwen-Image-2.1-Uncensored-GGUF
-- [NEW] QUBITABHAY/Qwen-Image-2.1-Uncensored-GGUF — quantization — https://huggingface.co/QUBITABHAY/Qwen-Image-2.1-Uncensored-GGUF
-- [NEW] RunningHubAI/rh-seedvr2-3b-fp8-e4m3fn-aio-checkpoint — quantization — https://huggingface.co/RunningHubAI/rh-seedvr2-3b-fp8-e4m3fn-aio-checkpoint
-- [NEW] sandpies/ComfyUI-H3-Video-Upsampler — LoRA — https://huggingface.co/sandpies/ComfyUI-H3-Video-Upsampler
+- [NEW] dware/MiniMax-H3 — base-model — https://huggingface.co/dware/MiniMax-H3
+- [UPDATE] silveroxides/MiniMax-H3_tests — base-model — https://huggingface.co/silveroxides/MiniMax-H3_tests
+- [NEW] diffusers-modular/minimax-h3-inpainting — quantization — https://huggingface.co/diffusers-modular/minimax-h3-inpainting
+- [NEW] ApolloRaines/LTX-2.5-22b-OmniGen-v12 — LoRA — https://huggingface.co/ApolloRaines/LTX-2.5-22b-OmniGen-v12
+- [NEW] akhaliq/Qwen-Image-2.1-Multiple-Angles-LoRA — LoRA — https://huggingface.co/akhaliq/Qwen-Image-2.1-Multiple-Angles-LoRA
+- [UPDATE] trmz/plate-extract-qwen-image-2.1 — LoRA — https://huggingface.co/trmz/plate-extract-qwen-image-2.1
+- [NEW] RunningHubAI/rh-pipi-qwen-image-2.1-int8-01-unet — LoRA — https://huggingface.co/RunningHubAI/rh-pipi-qwen-image-2.1-int8-01-unet
+- [NEW] iamasifnawaz/comfyui-qwen-image-2.1-fast — quantization — https://huggingface.co/iamasifnawaz/comfyui-qwen-image-2.1-fast
+- [NEW] RunningHubAI/rh-qwen-image-2.1-2500-lora — LoRA — https://huggingface.co/RunningHubAI/rh-qwen-image-2.1-2500-lora
+- [NEW] infosave/Qwen-Image-2.1-Uncensored-CMF — quantization — https://huggingface.co/infosave/Qwen-Image-2.1-Uncensored-CMF
