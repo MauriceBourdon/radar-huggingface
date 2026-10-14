@@ -1,40 +1,33 @@
 # Radar Hugging Face
 
-Généré : 2026-10-14T14:37:44.089059+00:00
+Généré : 2026-10-14T20:53:50.709327+00:00
 
 ## Delta du run
 
-- [UPDATE] Gonzaluigi/minimax-h3-refmods — base-model — https://huggingface.co/Gonzaluigi/minimax-h3-refmods
-- [NEW] arthur-y/MiniMax-H3-Character-Swap-LoRA — LoRA — https://huggingface.co/arthur-y/MiniMax-H3-Character-Swap-LoRA
-- [UPDATE] Bolt-367/minimax-h3-serverless — base-model — https://huggingface.co/Bolt-367/minimax-h3-serverless
-- [NEW] ibuildproducts/MiniMax-H3 — base-model — https://huggingface.co/ibuildproducts/MiniMax-H3
-- [NEW] xiaosuanweilai/MiniMax-H3 — base-model — https://huggingface.co/xiaosuanweilai/MiniMax-H3
-- [NEW] KENIC-1/minimax_h3_latent_upscaler_3d_fp16_V2 — utility — https://huggingface.co/KENIC-1/minimax_h3_latent_upscaler_3d_fp16_V2
-- [NEW] KENIC-1/Minimax-H3-Latent-Upscaler-BF16-MAXQUALITY — quantization — https://huggingface.co/KENIC-1/Minimax-H3-Latent-Upscaler-BF16-MAXQUALITY
-- [UPDATE] maxsssssss/MiniMax-H3-PDD-LoRA — LoRA — https://huggingface.co/maxsssssss/MiniMax-H3-PDD-LoRA
-- [NEW] robertbschuette/MiniMax-H3-Turbo-Lora — LoRA — https://huggingface.co/robertbschuette/MiniMax-H3-Turbo-Lora
-- [NEW] zjwfufu/SMD-MiniMax-H3-Ref2VA-8step — LoRA — https://huggingface.co/zjwfufu/SMD-MiniMax-H3-Ref2VA-8step
-- [NEW] zjwfufu/SMD-MiniMax-H3-Ref2VA-4step — LoRA — https://huggingface.co/zjwfufu/SMD-MiniMax-H3-Ref2VA-4step
-- [NEW] zjwfufu/SMD-MiniMax-H3-T2VA-8step — LoRA — https://huggingface.co/zjwfufu/SMD-MiniMax-H3-T2VA-8step
-- [NEW] zjwfufu/SMD-MiniMax-H3-T2VA-4step — LoRA — https://huggingface.co/zjwfufu/SMD-MiniMax-H3-T2VA-4step
-- [NEW] zjwfufu/SMD-MiniMax-H3-T2VA-8step-ComfyUI — LoRA — https://huggingface.co/zjwfufu/SMD-MiniMax-H3-T2VA-8step-ComfyUI
-- [NEW] zjwfufu/SMD-MiniMax-H3-T2VA-4step-ComfyUI — LoRA — https://huggingface.co/zjwfufu/SMD-MiniMax-H3-T2VA-4step-ComfyUI
-- [NEW] zjwfufu/SMD-MiniMax-H3-Ref2VA-8step-ComfyUI — LoRA — https://huggingface.co/zjwfufu/SMD-MiniMax-H3-Ref2VA-8step-ComfyUI
-- [NEW] zjwfufu/SMD-MiniMax-H3-Ref2VA-4step-ComfyUI — LoRA — https://huggingface.co/zjwfufu/SMD-MiniMax-H3-Ref2VA-4step-ComfyUI
-- [NEW] darioooooo0o/Lightning-4step-Qwen-Image-2.1-ComfyUI — LoRA — https://huggingface.co/darioooooo0o/Lightning-4step-Qwen-Image-2.1-ComfyUI
-- [NEW] darioooooo0o/Lightning-4step-Qwen-Image-2.1-GGUF — LoRA — https://huggingface.co/darioooooo0o/Lightning-4step-Qwen-Image-2.1-GGUF
-- [NEW] Keyboardfingerpress/Qwen-Image-2.1-Uncensored-Quantized — quantization — https://huggingface.co/Keyboardfingerpress/Qwen-Image-2.1-Uncensored-Quantized
-- [NEW] darioooooo0o/Lightning-4step-Qwen-Image-2.1-Diffusers — LoRA — https://huggingface.co/darioooooo0o/Lightning-4step-Qwen-Image-2.1-Diffusers
-- [NEW] StillDeadcode/radiance-qwen-image-2.1-turbo-uncensored-fp8 — quantization — https://huggingface.co/StillDeadcode/radiance-qwen-image-2.1-turbo-uncensored-fp8
-- [NEW] mark07310/radiance-qwen-image-2.1-turbo-uncensored-fp8 — quantization — https://huggingface.co/mark07310/radiance-qwen-image-2.1-turbo-uncensored-fp8
-- [NEW] StillDeadcode/radiance-qwen-image-2.1-fp8 — quantization — https://huggingface.co/StillDeadcode/radiance-qwen-image-2.1-fp8
-- [UPDATE] EliovpAI/Qwen-Image-2.1-Turbo-FP8-NearBF16 — quantization — https://huggingface.co/EliovpAI/Qwen-Image-2.1-Turbo-FP8-NearBF16
-- [NEW] StillDeadcode/radiance-qwen-image-2.1-turbo-fp8 — quantization — https://huggingface.co/StillDeadcode/radiance-qwen-image-2.1-turbo-fp8
-- [NEW] tensorkelechi/magpie-qwen-image-2.1-turbo-hybrid-nvfp4-mxfp8-bf16 — quantization — https://huggingface.co/tensorkelechi/magpie-qwen-image-2.1-turbo-hybrid-nvfp4-mxfp8-bf16
-- [UPDATE] matheus58457/Qwen-Image-2.1-LoRas — LoRA — https://huggingface.co/matheus58457/Qwen-Image-2.1-LoRas
-- [UPDATE] lenML/Qwen-Image-2.1-Turbo-LoRA — LoRA — https://huggingface.co/lenML/Qwen-Image-2.1-Turbo-LoRA
-- [UPDATE] PrunaAI/Pruna-Qwen-Image-2.1 — LoRA — https://huggingface.co/PrunaAI/Pruna-Qwen-Image-2.1
-- [UPDATE] zimageapp/qwen-image-2.1-loras — LoRA — https://huggingface.co/zimageapp/qwen-image-2.1-loras
-- [NEW] robertbschuette/Qwen-Image-2.1-Uncensored-Quantized — quantization — https://huggingface.co/robertbschuette/Qwen-Image-2.1-Uncensored-Quantized
-- [UPDATE] lightx2v/Qwen-Image-2.1-Lightning — LoRA — https://huggingface.co/lightx2v/Qwen-Image-2.1-Lightning
-- [UPDATE] lightx2v/LightVAE — utility — https://huggingface.co/lightx2v/LightVAE
+- [NEW] akhaliq/Minimax-H3-ref2v_Real_2_Anime — base-model — https://huggingface.co/akhaliq/Minimax-H3-ref2v_Real_2_Anime
+- [NEW] rzgar/minimax_h3_fl2v_lightx2v_4step_int8-convrot_comfy — LoRA — https://huggingface.co/rzgar/minimax_h3_fl2v_lightx2v_4step_int8-convrot_comfy
+- [NEW] yama-kiyo/MiniMax-H3-ORB360-Vertical-LoRA — LoRA — https://huggingface.co/yama-kiyo/MiniMax-H3-ORB360-Vertical-LoRA
+- [UPDATE] intel-ai/MiniMax-H3-MXFP8-CT-AutoRound — quantization — https://huggingface.co/intel-ai/MiniMax-H3-MXFP8-CT-AutoRound
+- [UPDATE] EllaPriest45/MinimaxH3_Actions — LoRA — https://huggingface.co/EllaPriest45/MinimaxH3_Actions
+- [UPDATE] EllaPriest45/MinimaxH3_Styles — LoRA — https://huggingface.co/EllaPriest45/MinimaxH3_Styles
+- [NEW] intel-ai/MiniMax-H3-MXFP8-CT-AutoRound-tmp — quantization — https://huggingface.co/intel-ai/MiniMax-H3-MXFP8-CT-AutoRound-tmp
+- [UPDATE] riselab/wan_video — base-model — https://huggingface.co/riselab/wan_video
+- [UPDATE] Trilogix1/Qwen-Image-2.1-Turbo-GGUF — quantization — https://huggingface.co/Trilogix1/Qwen-Image-2.1-Turbo-GGUF
+- [NEW] ibyteohdear/Qwen-Image-2.1-Uncensored — base-model — https://huggingface.co/ibyteohdear/Qwen-Image-2.1-Uncensored
+- [UPDATE] darioooooo0o/Lightning-4step-Qwen-Image-2.1-GGUF — LoRA — https://huggingface.co/darioooooo0o/Lightning-4step-Qwen-Image-2.1-GGUF
+- [UPDATE] darioooooo0o/Lightning-4step-Qwen-Image-2.1-Diffusers — LoRA — https://huggingface.co/darioooooo0o/Lightning-4step-Qwen-Image-2.1-Diffusers
+- [UPDATE] darioooooo0o/Lightning-4step-Qwen-Image-2.1-ComfyUI — LoRA — https://huggingface.co/darioooooo0o/Lightning-4step-Qwen-Image-2.1-ComfyUI
+- [NEW] longlenai-team/Qwen-Image-2.1-Turbo — base-model — https://huggingface.co/longlenai-team/Qwen-Image-2.1-Turbo
+- [UPDATE] ausboss/Qwen-Image-2.1-Consistency-LoRA — LoRA — https://huggingface.co/ausboss/Qwen-Image-2.1-Consistency-LoRA
+- [UPDATE] ausboss/Qwen-Image-2.1-Outpaint-LoRA — LoRA — https://huggingface.co/ausboss/Qwen-Image-2.1-Outpaint-LoRA
+- [NEW] ibyteohdear/Qwen-Image-2.1-Turbo-Uncensored — base-model — https://huggingface.co/ibyteohdear/Qwen-Image-2.1-Turbo-Uncensored
+- [NEW] TechnoBaptist/qwen-image-2.1-qma-camera-angles — LoRA — https://huggingface.co/TechnoBaptist/qwen-image-2.1-qma-camera-angles
+- [UPDATE] vladlen-beilik/qwen-image-2.1-runpod — base-model — https://huggingface.co/vladlen-beilik/qwen-image-2.1-runpod
+- [UPDATE] YoAiKimia/Qwen-Image — base-model — https://huggingface.co/YoAiKimia/Qwen-Image
+- [UPDATE] lightx2v/LightVAE — LoRA — https://huggingface.co/lightx2v/LightVAE
+- [UPDATE] EllaPriest45/Krea2_actions — LoRA — https://huggingface.co/EllaPriest45/Krea2_actions
+- [UPDATE] EllaPriest45/Krea2_Styles — base-model — https://huggingface.co/EllaPriest45/Krea2_Styles
+- [NEW] EllaPriest45/Illustrious_checkpoints — base-model — https://huggingface.co/EllaPriest45/Illustrious_checkpoints
+- [NEW] EllaPriest45/Illustrious_Styles — base-model — https://huggingface.co/EllaPriest45/Illustrious_Styles
+- [UPDATE] EllaPriest45/HunyuanV_base — base-model — https://huggingface.co/EllaPriest45/HunyuanV_base
+- [UPDATE] EllaPriest45/Flux1D_Checkpoints — quantization — https://huggingface.co/EllaPriest45/Flux1D_Checkpoints
