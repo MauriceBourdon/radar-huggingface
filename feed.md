@@ -1,38 +1,32 @@
 # Radar Hugging Face
 
-Généré : 2026-10-17T13:07:20.896644+00:00
+Généré : 2026-10-17T16:36:38.815519+00:00
 
 ## Delta du run
 
 - [UPDATE] SOLRICKS/3D-Animation-Style-MiniMax-H3 — LoRA — https://huggingface.co/SOLRICKS/3D-Animation-Style-MiniMax-H3
-- [UPDATE] Alissonerdx/Minimax-H3-ComfyUI — LoRA — https://huggingface.co/Alissonerdx/Minimax-H3-ComfyUI
-- [UPDATE] EllaPriest45/MinimaxH3_Styles — LoRA — https://huggingface.co/EllaPriest45/MinimaxH3_Styles
-- [UPDATE] EllaPriest45/MinimaxH3_Actions — LoRA — https://huggingface.co/EllaPriest45/MinimaxH3_Actions
-- [NEW] T0ddy/frame-room-minimax-h3-prompt-mastery-exact — base-model — https://huggingface.co/T0ddy/frame-room-minimax-h3-prompt-mastery-exact
-- [UPDATE] webmp3/Sakura-MiniMax-H3-Uncensored-GGUF — quantization — https://huggingface.co/webmp3/Sakura-MiniMax-H3-Uncensored-GGUF
-- [NEW] Asirus/MiniMax-H3-Ref2VA-PDMD-4NFE-1p0 — LoRA — https://huggingface.co/Asirus/MiniMax-H3-Ref2VA-PDMD-4NFE-1p0
-- [NEW] RunningHubAI/rh-minimax-h3-tests-lora — LoRA — https://huggingface.co/RunningHubAI/rh-minimax-h3-tests-lora
-- [UPDATE] Ziyaad30/MiniMax-H3-Pruned — LoRA — https://huggingface.co/Ziyaad30/MiniMax-H3-Pruned
-- [NEW] RunningHubAI/rh-minimax-h3-facial-realism-closeup-lora — LoRA — https://huggingface.co/RunningHubAI/rh-minimax-h3-facial-realism-closeup-lora
+- [NEW] hakandinar/MiniMax-H3-LoRA-LineartAnime — LoRA — https://huggingface.co/hakandinar/MiniMax-H3-LoRA-LineartAnime
+- [UPDATE] AIxFuneStudio/Bombshell_Bliss_MiniMax_H3 — base-model — https://huggingface.co/AIxFuneStudio/Bombshell_Bliss_MiniMax_H3
+- [NEW] RunningHubAI/rh-larryvrh-minimax-h3-turbo-lora-4ema-lora — LoRA — https://huggingface.co/RunningHubAI/rh-larryvrh-minimax-h3-turbo-lora-4ema-lora
 - [UPDATE] malcolmrey/minimaxh3 — base-model — https://huggingface.co/malcolmrey/minimaxh3
+- [NEW] ai-server-mgr/LTX-2.5-Distilled-SDNQ-INT8-Transformer — LoRA — https://huggingface.co/ai-server-mgr/LTX-2.5-Distilled-SDNQ-INT8-Transformer
 - [UPDATE] George-Costanza/wan22-video-files — LoRA — https://huggingface.co/George-Costanza/wan22-video-files
+- [NEW] NeverWantedJr/Qwen-Image-2.1-Uncensored-HF — quantization — https://huggingface.co/NeverWantedJr/Qwen-Image-2.1-Uncensored-HF
+- [UPDATE] tonera/Qwen-Image-2.1-Turbo-Nunchaku — base-model — https://huggingface.co/tonera/Qwen-Image-2.1-Turbo-Nunchaku
+- [NEW] dx8152/Qwen-Image-2.1-Font — LoRA — https://huggingface.co/dx8152/Qwen-Image-2.1-Font
 - [UPDATE] Bolt-367/qwen-image-2.1-serverless — base-model — https://huggingface.co/Bolt-367/qwen-image-2.1-serverless
-- [UPDATE] webmp3/Sakura-Qwen-Image-2.1-Turbo-Uncensored-GGUF — quantization — https://huggingface.co/webmp3/Sakura-Qwen-Image-2.1-Turbo-Uncensored-GGUF
-- [UPDATE] webmp3/Sakura-Qwen-Image-2.1-PE-T2I-Uncensored-GGUF — quantization — https://huggingface.co/webmp3/Sakura-Qwen-Image-2.1-PE-T2I-Uncensored-GGUF
-- [UPDATE] webmp3/Sakura-Qwen-Image-2.1-PE-I2I-Uncensored-GGUF — quantization — https://huggingface.co/webmp3/Sakura-Qwen-Image-2.1-PE-I2I-Uncensored-GGUF
-- [NEW] khazic/ovb-qwen_image_21_shared_sqrt — base-model — https://huggingface.co/khazic/ovb-qwen_image_21_shared_sqrt
-- [UPDATE] gguf-org/qwen-image-2.1-gguf — quantization — https://huggingface.co/gguf-org/qwen-image-2.1-gguf
-- [UPDATE] makisekurisu-jp/Qwen-Image-2.1-Heretic — base-model — https://huggingface.co/makisekurisu-jp/Qwen-Image-2.1-Heretic
-- [NEW] off-grid-ai/Qwen-Image-2.1-Turbo-GGUF — quantization — https://huggingface.co/off-grid-ai/Qwen-Image-2.1-Turbo-GGUF
-- [NEW] off-grid-ai/Qwen-Image-2.1-GGUF — quantization — https://huggingface.co/off-grid-ai/Qwen-Image-2.1-GGUF
-- [NEW] chatpig/flux3-image-klein-gguf — quantization — https://huggingface.co/chatpig/flux3-image-klein-gguf
-- [UPDATE] Abiray/flux-3-image-klein-sd-GGUF — quantization — https://huggingface.co/Abiray/flux-3-image-klein-sd-GGUF
-- [NEW] theokiGuyOKI/flux-3-image-klein-GGUF — quantization — https://huggingface.co/theokiGuyOKI/flux-3-image-klein-GGUF
-- [UPDATE] webmp3/Sakura-FLUX.3-Image-Klein-TextEncoder-Uncensored-GGUF — quantization — https://huggingface.co/webmp3/Sakura-FLUX.3-Image-Klein-TextEncoder-Uncensored-GGUF
-- [UPDATE] webmp3/Sakura-FLUX.3-Image-Klein-PromptUpsampler-Uncensored-GGUF — quantization — https://huggingface.co/webmp3/Sakura-FLUX.3-Image-Klein-PromptUpsampler-Uncensored-GGUF
-- [NEW] webmp3/Sakura-FLUX.3-Image-Klein-Comfy-GGUF — quantization — https://huggingface.co/webmp3/Sakura-FLUX.3-Image-Klein-Comfy-GGUF
+- [UPDATE] SimpleTuner/flux-3-klein-image-training-assistant — LoRA — https://huggingface.co/SimpleTuner/flux-3-klein-image-training-assistant
+- [UPDATE] SimpleTuner/flux-3-klein-image-LoRA-experiments — LoRA — https://huggingface.co/SimpleTuner/flux-3-klein-image-LoRA-experiments
+- [UPDATE] SimpleTuner/flux-3-klein-image-photo-aesthetics-distilled-assisted-512-v2-kohaku-fa — LoRA — https://huggingface.co/SimpleTuner/flux-3-klein-image-photo-aesthetics-distilled-assisted-512-v2-kohaku-fa
+- [UPDATE] SimpleTuner/flux-3-klein-image-photo-aesthetics-distilled-assisted-512 — LoRA — https://huggingface.co/SimpleTuner/flux-3-klein-image-photo-aesthetics-distilled-assisted-512
 - [UPDATE] SimpleTuner/flux-3-klein-image-photo-aesthetics-distilled-assisted-1024-v2-kohaku-fa — LoRA — https://huggingface.co/SimpleTuner/flux-3-klein-image-photo-aesthetics-distilled-assisted-1024-v2-kohaku-fa
-- [UPDATE] ml-resources/flux-3-image-klein-comfy — LoRA — https://huggingface.co/ml-resources/flux-3-image-klein-comfy
-- [UPDATE] black-forest-labs/flux-3-image-klein-comfy — LoRA — https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy
-- [UPDATE] EllaPriest45/Krea2_Styles — base-model — https://huggingface.co/EllaPriest45/Krea2_Styles
-- [UPDATE] EllaPriest45/Krea2_actions — LoRA — https://huggingface.co/EllaPriest45/Krea2_actions
+- [UPDATE] SimpleTuner/flux-3-klein-image-photo-aesthetics-distilled-assisted-1024 — LoRA — https://huggingface.co/SimpleTuner/flux-3-klein-image-photo-aesthetics-distilled-assisted-1024
+- [UPDATE] SimpleTuner/flux-3-klein-image-domokun-512-1024 — LoRA — https://huggingface.co/SimpleTuner/flux-3-klein-image-domokun-512-1024
+- [UPDATE] SimpleTuner/flux-3-klein-image-domokun-512 — LoRA — https://huggingface.co/SimpleTuner/flux-3-klein-image-domokun-512
+- [UPDATE] SimpleTuner/flux-3-klein-image-domokun-1024 — LoRA — https://huggingface.co/SimpleTuner/flux-3-klein-image-domokun-1024
+- [NEW] gguf-org/flux3-image-klein-gguf — quantization — https://huggingface.co/gguf-org/flux3-image-klein-gguf
+- [NEW] Gabinhoo/llama3.1-8b-lora-video-modo-bestia-v1 — LoRA — https://huggingface.co/Gabinhoo/llama3.1-8b-lora-video-modo-bestia-v1
+- [NEW] Gabinhoo/llama3.1-8b-lora-video-ugc-creadores — LoRA — https://huggingface.co/Gabinhoo/llama3.1-8b-lora-video-ugc-creadores
+- [NEW] Gabinhoo/llama3.1-8b-lora-video-podcast-3-4 — LoRA — https://huggingface.co/Gabinhoo/llama3.1-8b-lora-video-podcast-3-4
+- [NEW] Gabinhoo/llama3.1-8b-lora-video-maestro-5formatos — LoRA — https://huggingface.co/Gabinhoo/llama3.1-8b-lora-video-maestro-5formatos
+- [UPDATE] sandpies/ComfyUI-H3-Video-Upsampler — LoRA — https://huggingface.co/sandpies/ComfyUI-H3-Video-Upsampler
