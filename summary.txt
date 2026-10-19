@@ -1,3 +1,3 @@
 Radar Hugging Face mis à jour
-Models suivis : 1938
-Événements du run : 6
+Models suivis : 1940
+Événements du run : 15
