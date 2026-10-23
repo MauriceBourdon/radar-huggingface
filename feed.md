@@ -1,24 +1,40 @@
 # Radar Hugging Face
 
-Généré : 2026-10-23T06:23:44.209932+00:00
+Généré : 2026-10-23T14:21:20.640923+00:00
 
 ## Delta du run
 
+- [UPDATE] EllaPriest45/MinimaxH3_base — LoRA — https://huggingface.co/EllaPriest45/MinimaxH3_base
+- [UPDATE] EllaPriest45/MinimaxH3_Styles — LoRA — https://huggingface.co/EllaPriest45/MinimaxH3_Styles
+- [UPDATE] EllaPriest45/MinimaxH3_Actions — LoRA — https://huggingface.co/EllaPriest45/MinimaxH3_Actions
+- [NEW] LiconStudio/Minimax-H3-VBVR — LoRA — https://huggingface.co/LiconStudio/Minimax-H3-VBVR
+- [UPDATE] az420/MiniMax-H3-Pruned-INT8-Image-Training-Fused — LoRA — https://huggingface.co/az420/MiniMax-H3-Pruned-INT8-Image-Training-Fused
+- [UPDATE] WarmBloodAban/Minimax-h3_Singularity — quantization — https://huggingface.co/WarmBloodAban/Minimax-h3_Singularity
+- [UPDATE] ms13d/Minimax-h3-Singularity-TURBO — quantization — https://huggingface.co/ms13d/Minimax-h3-Singularity-TURBO
+- [UPDATE] witcherderivia/minimax-h3-image-restyle — base-model — https://huggingface.co/witcherderivia/minimax-h3-image-restyle
+- [UPDATE] Kijai/MiniMax-H3-experimental — LoRA — https://huggingface.co/Kijai/MiniMax-H3-experimental
 - [UPDATE] Wuli-art/MiniMax-H3-Turbo — LoRA — https://huggingface.co/Wuli-art/MiniMax-H3-Turbo
-- [NEW] vftfnn/MiniMax-H3-TE-bf16 — LoRA — https://huggingface.co/vftfnn/MiniMax-H3-TE-bf16
-- [NEW] vftfnn/MiniMax-H3-ComfyOrg — LoRA — https://huggingface.co/vftfnn/MiniMax-H3-ComfyOrg
-- [NEW] Gogotogya/MiniMax-H3 — base-model — https://huggingface.co/Gogotogya/MiniMax-H3
-- [NEW] stuff123456/minimaxh3gay — LoRA — https://huggingface.co/stuff123456/minimaxh3gay
-- [NEW] vftfnn/Minimax-h3-Turbo-new — LoRA — https://huggingface.co/vftfnn/Minimax-h3-Turbo-new
-- [UPDATE] kanye9118/MiniMax-H3-FL2VA — base-model — https://huggingface.co/kanye9118/MiniMax-H3-FL2VA
-- [NEW] 002CyberTiger/Qwen-Image-2.1-Uncensored-Quantized — quantization — https://huggingface.co/002CyberTiger/Qwen-Image-2.1-Uncensored-Quantized
-- [NEW] AmmarByFar/qwen-image-edit-2511-lightning-peft — LoRA — https://huggingface.co/AmmarByFar/qwen-image-edit-2511-lightning-peft
-- [UPDATE] makisekurisu-jp/Qwen-Image-2.1-Heretic — base-model — https://huggingface.co/makisekurisu-jp/Qwen-Image-2.1-Heretic
+- [UPDATE] MicksHF/Qwen-Image-2.1-Anime-Fusal — LoRA — https://huggingface.co/MicksHF/Qwen-Image-2.1-Anime-Fusal
+- [NEW] RunningHubAI/rh-sexgod-nsfw-female-nudes-qwen-image-edit-2511-lora — LoRA — https://huggingface.co/RunningHubAI/rh-sexgod-nsfw-female-nudes-qwen-image-edit-2511-lora
+- [UPDATE] Reizxn/Qwen-Image-2.1-Uncensored-MIXED-4.39G-GGUF — quantization — https://huggingface.co/Reizxn/Qwen-Image-2.1-Uncensored-MIXED-4.39G-GGUF
+- [NEW] Rin247/Qwen-Image-2.1 — quantization — https://huggingface.co/Rin247/Qwen-Image-2.1
+- [NEW] lite-infer/qwen-image-2.1-turbo-nunchaku-lite-nvfp4-r32 — quantization — https://huggingface.co/lite-infer/qwen-image-2.1-turbo-nunchaku-lite-nvfp4-r32
+- [NEW] lite-infer/qwen-image-2.1-turbo-nunchaku-lite-int4-r32 — quantization — https://huggingface.co/lite-infer/qwen-image-2.1-turbo-nunchaku-lite-int4-r32
+- [NEW] Riyan200324200324/Qwen-Image-2.1-Uncensored-Quantized — quantization — https://huggingface.co/Riyan200324200324/Qwen-Image-2.1-Uncensored-Quantized
+- [NEW] RunningHubAI/rh-qwen-image-2512-3000-lora — LoRA — https://huggingface.co/RunningHubAI/rh-qwen-image-2512-3000-lora
+- [NEW] lite-infer/qwen-image-edit-2509-nunchaku-lite-nvfp4-r32 — quantization — https://huggingface.co/lite-infer/qwen-image-edit-2509-nunchaku-lite-nvfp4-r32
+- [NEW] lite-infer/qwen-image-edit-2509-nunchaku-lite-int4-r32 — quantization — https://huggingface.co/lite-infer/qwen-image-edit-2509-nunchaku-lite-int4-r32
+- [NEW] lite-infer/qwen-image-edit-2509-lightning-8steps-nunchaku-lite-nvfp4-r32 — LoRA — https://huggingface.co/lite-infer/qwen-image-edit-2509-lightning-8steps-nunchaku-lite-nvfp4-r32
+- [NEW] lite-infer/qwen-image-edit-2509-lightning-8steps-nunchaku-lite-int4-r32 — LoRA — https://huggingface.co/lite-infer/qwen-image-edit-2509-lightning-8steps-nunchaku-lite-int4-r32
+- [NEW] lite-infer/qwen-image-edit-2509-lightning-4steps-nunchaku-lite-nvfp4-r32 — LoRA — https://huggingface.co/lite-infer/qwen-image-edit-2509-lightning-4steps-nunchaku-lite-nvfp4-r32
+- [NEW] lite-infer/qwen-image-edit-2509-lightning-4steps-nunchaku-lite-int4-r32 — LoRA — https://huggingface.co/lite-infer/qwen-image-edit-2509-lightning-4steps-nunchaku-lite-int4-r32
+- [NEW] lite-infer/Qwen-Image-nunchaku-lite-nvfp4-r32 — quantization — https://huggingface.co/lite-infer/Qwen-Image-nunchaku-lite-nvfp4-r32
+- [NEW] lite-infer/Qwen-Image-nunchaku-lite-nvfp4-r128 — quantization — https://huggingface.co/lite-infer/Qwen-Image-nunchaku-lite-nvfp4-r128
+- [NEW] lite-infer/Qwen-Image-nunchaku-lite-int4-r32 — quantization — https://huggingface.co/lite-infer/Qwen-Image-nunchaku-lite-int4-r32
+- [NEW] lite-infer/Qwen-Image-nunchaku-lite-int4-r128 — quantization — https://huggingface.co/lite-infer/Qwen-Image-nunchaku-lite-int4-r128
 - [UPDATE] GregoryV/nunchaku-qwen-image-2512 — base-model — https://huggingface.co/GregoryV/nunchaku-qwen-image-2512
-- [NEW] vftfnn/Qwen-Image-2.1-turbo-comfy — LoRA — https://huggingface.co/vftfnn/Qwen-Image-2.1-turbo-comfy
-- [NEW] dsaasaiaos/Qwen-Image-2.1-Multiple-Angles-LoRA — LoRA — https://huggingface.co/dsaasaiaos/Qwen-Image-2.1-Multiple-Angles-LoRA
-- [NEW] newHashMap/PokemonFoilMask-LoRA-Qwen-Image-2.1 — LoRA — https://huggingface.co/newHashMap/PokemonFoilMask-LoRA-Qwen-Image-2.1
-- [NEW] RunningHubAI/rh-qwen-image-2.1-5step-v0.1-lora — LoRA — https://huggingface.co/RunningHubAI/rh-qwen-image-2.1-5step-v0.1-lora
-- [UPDATE] RunningHubAI/rh-qwen-image-2.1-aio-unet — base-model — https://huggingface.co/RunningHubAI/rh-qwen-image-2.1-aio-unet
-- [UPDATE] gguf-org/flux3-image-klein-gguf — quantization — https://huggingface.co/gguf-org/flux3-image-klein-gguf
-- [NEW] Comfy-Org/Ming-tts — base-model — https://huggingface.co/Comfy-Org/Ming-tts
+- [NEW] G21998/r1019-6173a45f-qwen-image-ctrl-s43-94f21b9c — base-model — https://huggingface.co/G21998/r1019-6173a45f-qwen-image-ctrl-s43-94f21b9c
+- [UPDATE] Rin247/flux-3-image-klein — quantization — https://huggingface.co/Rin247/flux-3-image-klein
+- [UPDATE] EllaPriest45/Krea2_actions — LoRA — https://huggingface.co/EllaPriest45/Krea2_actions
+- [UPDATE] EllaPriest45/Krea2_Styles — base-model — https://huggingface.co/EllaPriest45/Krea2_Styles
+- [NEW] Comfy-Org/Ming-3.0-TTS — quantization — https://huggingface.co/Comfy-Org/Ming-3.0-TTS
