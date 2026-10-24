@@ -1,22 +1,18 @@
 # Radar Hugging Face
 
-Généré : 2026-10-24T06:19:15.733195+00:00
+Généré : 2026-10-24T13:31:08.500901+00:00
 
 ## Delta du run
 
-- [NEW] czb2010/Qwen3-VL-32B-Heretic-MiniMax-H3-NVFP4 — quantization — https://huggingface.co/czb2010/Qwen3-VL-32B-Heretic-MiniMax-H3-NVFP4
-- [NEW] zouchangcheng/MiniMax-H3 — base-model — https://huggingface.co/zouchangcheng/MiniMax-H3
-- [UPDATE] LiconStudio/Minimax-H3-VBVR — LoRA — https://huggingface.co/LiconStudio/Minimax-H3-VBVR
-- [UPDATE] AIxFuneStudio/Retro_Futuristic_MiniMax_H3 — base-model — https://huggingface.co/AIxFuneStudio/Retro_Futuristic_MiniMax_H3
-- [UPDATE] lite-infer/qwen-image-2.1-turbo-nunchaku-lite-int4-r32 — quantization — https://huggingface.co/lite-infer/qwen-image-2.1-turbo-nunchaku-lite-int4-r32
-- [UPDATE] lite-infer/qwen-image-2.1-turbo-nunchaku-lite-nvfp4-r32 — quantization — https://huggingface.co/lite-infer/qwen-image-2.1-turbo-nunchaku-lite-nvfp4-r32
-- [NEW] lite-infer/qwen-image-2.1-nunchaku-lite-int4-r32 — quantization — https://huggingface.co/lite-infer/qwen-image-2.1-nunchaku-lite-int4-r32
-- [NEW] lite-infer/qwen-image-2.1-nunchaku-lite-nvfp4-r32 — quantization — https://huggingface.co/lite-infer/qwen-image-2.1-nunchaku-lite-nvfp4-r32
-- [NEW] raveas/Qwen3.5-0.8B-fashion-product-images-classification — base-model — https://huggingface.co/raveas/Qwen3.5-0.8B-fashion-product-images-classification
-- [NEW] OrbitOpus/Qwen-Image-Edit-Rapid-AIO-V4 — base-model — https://huggingface.co/OrbitOpus/Qwen-Image-Edit-Rapid-AIO-V4
-- [NEW] OrbitOpus/Qwen-Image-Edit-Rapid-AIO-V22 — base-model — https://huggingface.co/OrbitOpus/Qwen-Image-Edit-Rapid-AIO-V22
-- [NEW] OrbitOpus/Qwen-Image-Edit-Rapid-AIO-V20 — base-model — https://huggingface.co/OrbitOpus/Qwen-Image-Edit-Rapid-AIO-V20
-- [NEW] OrbitOpus/Qwen-Image-Edit-Rapid-AIO-V21 — base-model — https://huggingface.co/OrbitOpus/Qwen-Image-Edit-Rapid-AIO-V21
-- [NEW] OrbitOpus/Qwen-Image-Edit-Rapid-AIO-V19 — base-model — https://huggingface.co/OrbitOpus/Qwen-Image-Edit-Rapid-AIO-V19
-- [NEW] OrbitOpus/Qwen-Image-Edit-Rapid-AIO-V23 — base-model — https://huggingface.co/OrbitOpus/Qwen-Image-Edit-Rapid-AIO-V23
-- [NEW] vfbender/flux-3-image-klein-comfy1 — base-model — https://huggingface.co/vfbender/flux-3-image-klein-comfy1
+- [UPDATE] yujiepan/minimax-h3-tiny-random — utility — https://huggingface.co/yujiepan/minimax-h3-tiny-random
+- [UPDATE] tiny-random/minimax-h3 — utility — https://huggingface.co/tiny-random/minimax-h3
+- [UPDATE] DeepBeepMeep/MiniMax-H3 — LoRA — https://huggingface.co/DeepBeepMeep/MiniMax-H3
+- [NEW] Ydudjsb/LTX-2.5-CQ-Freeform-Motion-Transfer-LoRAs — LoRA — https://huggingface.co/Ydudjsb/LTX-2.5-CQ-Freeform-Motion-Transfer-LoRAs
+- [NEW] Rin247/LTX-2.5-Diffusers — quantization — https://huggingface.co/Rin247/LTX-2.5-Diffusers
+- [UPDATE] G21998/r1019-6173a45f-qwen-image-ctrl-s43-94f21b9c — base-model — https://huggingface.co/G21998/r1019-6173a45f-qwen-image-ctrl-s43-94f21b9c
+- [UPDATE] G21998/r1019-6173a45f-qwen-image-ctrl-s44-94f21b9c — base-model — https://huggingface.co/G21998/r1019-6173a45f-qwen-image-ctrl-s44-94f21b9c
+- [NEW] Jamer69/Qwen-Image-2.1-Uncensored-Quantized — quantization — https://huggingface.co/Jamer69/Qwen-Image-2.1-Uncensored-Quantized
+- [UPDATE] Rin247/Qwen-Image-2.1 — quantization — https://huggingface.co/Rin247/Qwen-Image-2.1
+- [NEW] Woovee/qwen-image-2.1-turbo-runpod — quantization — https://huggingface.co/Woovee/qwen-image-2.1-turbo-runpod
+- [UPDATE] vfbender/flux-3-image-klein-comfy1 — base-model — https://huggingface.co/vfbender/flux-3-image-klein-comfy1
+- [UPDATE] Rin247/flux-3-image-klein — quantization — https://huggingface.co/Rin247/flux-3-image-klein
