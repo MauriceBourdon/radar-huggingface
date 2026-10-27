@@ -1,14 +1,13 @@
 # Radar Hugging Face
 
-Généré : 2026-10-26T21:47:12.509156+00:00
+Généré : 2026-10-27T06:42:06.981418+00:00
 
 ## Delta du run
 
-- [UPDATE] Asirus/MiniMax-H3-Ref2VA-NEXORA — quantization — https://huggingface.co/Asirus/MiniMax-H3-Ref2VA-NEXORA
-- [NEW] phenmoziken/LTX-2.5-uncensored-v1.1-FP8 — LoRA — https://huggingface.co/phenmoziken/LTX-2.5-uncensored-v1.1-FP8
+- [NEW] gitbigbang/MiniMax-H3 — base-model — https://huggingface.co/gitbigbang/MiniMax-H3
+- [NEW] taurusduan/Cobijada_Minimax-H3_Hybrid_Pruned_ComfyUI — quantization — https://huggingface.co/taurusduan/Cobijada_Minimax-H3_Hybrid_Pruned_ComfyUI
+- [NEW] yuanhaiguang/MiniMax-H3-Ref2VA-RunPod-4files — LoRA — https://huggingface.co/yuanhaiguang/MiniMax-H3-Ref2VA-RunPod-4files
+- [NEW] Microguy1/MiniMax-H3-DUPLI — base-model — https://huggingface.co/Microguy1/MiniMax-H3-DUPLI
 - [UPDATE] riselab/wan_video — base-model — https://huggingface.co/riselab/wan_video
-- [NEW] thomasdaniel87/Qwen-Image-2.1-Uncensored-Quantized — quantization — https://huggingface.co/thomasdaniel87/Qwen-Image-2.1-Uncensored-Quantized
-- [UPDATE] gguf-org/flux3-image-klein-gguf — quantization — https://huggingface.co/gguf-org/flux3-image-klein-gguf
-- [NEW] yujiepan/flux-3-image-klein-comfy-tiny-random — utility — https://huggingface.co/yujiepan/flux-3-image-klein-comfy-tiny-random
-- [UPDATE] tiny-random/flux-3-image-klein-comfy — utility — https://huggingface.co/tiny-random/flux-3-image-klein-comfy
-- [UPDATE] sandpies/ComfyUI-H3-Video-Upsampler — LoRA — https://huggingface.co/sandpies/ComfyUI-H3-Video-Upsampler
+- [NEW] sekkit/UltraTex-Qwen-Image-2.1 — LoRA — https://huggingface.co/sekkit/UltraTex-Qwen-Image-2.1
+- [UPDATE] Wuli-art/Qwen-Image-2.1-Turbo — quantization — https://huggingface.co/Wuli-art/Qwen-Image-2.1-Turbo
