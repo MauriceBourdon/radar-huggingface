@@ -1,12 +1,13 @@
 # Radar Hugging Face
 
-Généré : 2026-10-31T20:37:29.118852+00:00
+Généré : 2026-11-01T00:19:14.706306+00:00
 
 ## Delta du run
 
-- [UPDATE] silveroxides/MiniMax-H3_tests — LoRA — https://huggingface.co/silveroxides/MiniMax-H3_tests
+- [UPDATE] DeepBeepMeep/MiniMax-H3 — LoRA — https://huggingface.co/DeepBeepMeep/MiniMax-H3
+- [UPDATE] Alissonerdx/Minimax-H3-ComfyUI — LoRA — https://huggingface.co/Alissonerdx/Minimax-H3-ComfyUI
+- [NEW] yxmmhkd/minimax-h3-models — base-model — https://huggingface.co/yxmmhkd/minimax-h3-models
 - [UPDATE] AbstractPhil/qwen-symbolic-thinking-image-training — LoRA — https://huggingface.co/AbstractPhil/qwen-symbolic-thinking-image-training
-- [NEW] matrixportalx/Qwen-Image-2.1-Turbo-Uncensored-GGUF-npu — quantization — https://huggingface.co/matrixportalx/Qwen-Image-2.1-Turbo-Uncensored-GGUF-npu
-- [UPDATE] AbstractPhil/qwen3.5-9b-think-symbolic-image — LoRA — https://huggingface.co/AbstractPhil/qwen3.5-9b-think-symbolic-image
-- [NEW] RunningHubAI/rh-qwen-image-edit-lora — LoRA — https://huggingface.co/RunningHubAI/rh-qwen-image-edit-lora
-- [NEW] thornmaze/qwen-image-edit-rapid-aio-v23 — base-model — https://huggingface.co/thornmaze/qwen-image-edit-rapid-aio-v23
+- [UPDATE] matrixportalx/Qwen-Image-2.1-Turbo-Uncensored-GGUF-npu — quantization — https://huggingface.co/matrixportalx/Qwen-Image-2.1-Turbo-Uncensored-GGUF-npu
+- [UPDATE] matrixportalx/qwen-image-2.1-turbo-npu — quantization — https://huggingface.co/matrixportalx/qwen-image-2.1-turbo-npu
+- [NEW] emee-ai/qwen-image-2-1-turbo-mflux-q8 — quantization — https://huggingface.co/emee-ai/qwen-image-2-1-turbo-mflux-q8
