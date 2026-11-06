@@ -1,22 +1,20 @@
 # Radar Hugging Face
 
-Généré : 2026-11-06T13:09:48.212659+00:00
+Généré : 2026-11-06T20:01:56.938058+00:00
 
 ## Delta du run
 
-- [UPDATE] yeowon/MiniMax-H3-Rung-Omega — quantization — https://huggingface.co/yeowon/MiniMax-H3-Rung-Omega
-- [UPDATE] witcherderivia/minimax-h3-image-restyle — base-model — https://huggingface.co/witcherderivia/minimax-h3-image-restyle
-- [NEW] RunningHubAI/rh-minimax-h3-4step-lora-flashgen-v1.0-768p-fl2va-pruned-avg-rank-13-bf16.safetensors-lora — LoRA — https://huggingface.co/RunningHubAI/rh-minimax-h3-4step-lora-flashgen-v1.0-768p-fl2va-pruned-avg-rank-13-bf16.safetensors-lora
-- [NEW] embriotapir/LTX-2.5-Dance-Motion-Transfer-Pose-ComfyUI — LoRA — https://huggingface.co/embriotapir/LTX-2.5-Dance-Motion-Transfer-Pose-ComfyUI
-- [UPDATE] BennyDaBall/Hy-Nomas-x-LTX-2.5-Audio-Workflows — quantization — https://huggingface.co/BennyDaBall/Hy-Nomas-x-LTX-2.5-Audio-Workflows
+- [NEW] bp-5193/MiniMax-H3 — base-model — https://huggingface.co/bp-5193/MiniMax-H3
+- [UPDATE] AiNinja94/MiniMax-H3 — base-model — https://huggingface.co/AiNinja94/MiniMax-H3
+- [UPDATE] Gonzaluigi/minimax-h3-refmods — base-model — https://huggingface.co/Gonzaluigi/minimax-h3-refmods
+- [UPDATE] smile-forge/qwen-image-edit-2511-onnx — quantization — https://huggingface.co/smile-forge/qwen-image-edit-2511-onnx
+- [UPDATE] GiorgioV/Qwen-image-adv — base-model — https://huggingface.co/GiorgioV/Qwen-image-adv
+- [NEW] lvladikov/QwenImage2.1-PiD-Workaround-VAE-Encode-SuperFast-HighRes — LoRA — https://huggingface.co/lvladikov/QwenImage2.1-PiD-Workaround-VAE-Encode-SuperFast-HighRes
+- [NEW] kozak23/Qwen-Image-2.1-PE-I2I-T2I-Heretic-ARA-int8_convrot-ComfyUI — quantization — https://huggingface.co/kozak23/Qwen-Image-2.1-PE-I2I-T2I-Heretic-ARA-int8_convrot-ComfyUI
 - [UPDATE] AST-1320/Qwen-Image-Edit-2511 — quantization — https://huggingface.co/AST-1320/Qwen-Image-Edit-2511
-- [NEW] T86/Qwen-Image-2.1-Turbo-Quantized — quantization — https://huggingface.co/T86/Qwen-Image-2.1-Turbo-Quantized
-- [NEW] je-ung/Qwen3-VL-4B-Instruct-fashion-product-images-small-chekpoint-552 — base-model — https://huggingface.co/je-ung/Qwen3-VL-4B-Instruct-fashion-product-images-small-chekpoint-552
-- [NEW] buttsali69/qwen-image-edit-plus-nsfw-lorap — LoRA — https://huggingface.co/buttsali69/qwen-image-edit-plus-nsfw-lorap
-- [NEW] wardner/Qwen-Image-2.1 — base-model — https://huggingface.co/wardner/Qwen-Image-2.1
-- [UPDATE] MicksHF/Qwen-Image-2.1-Anime-Fusal — LoRA — https://huggingface.co/MicksHF/Qwen-Image-2.1-Anime-Fusal
-- [NEW] Lyricccco/Qwen-Image-2.1-TailSteer — adapter — https://huggingface.co/Lyricccco/Qwen-Image-2.1-TailSteer
-- [UPDATE] socialtrait/flux-3-image-klein-infendpoint — quantization — https://huggingface.co/socialtrait/flux-3-image-klein-infendpoint
-- [UPDATE] tonera/flux-3-image-klein-pup-nunchaku — quantization — https://huggingface.co/tonera/flux-3-image-klein-pup-nunchaku
-- [UPDATE] tonera/flux-3-image-klein-nunchaku — quantization — https://huggingface.co/tonera/flux-3-image-klein-nunchaku
-- [NEW] Bluebear7878/nunchaku-flux-3-image-klein — quantization — https://huggingface.co/Bluebear7878/nunchaku-flux-3-image-klein
+- [UPDATE] eval-apply/silvann_tq_D8_qwen_image_2.1 — quantization — https://huggingface.co/eval-apply/silvann_tq_D8_qwen_image_2.1
+- [NEW] ShintouHKG/Qwen-Image-Edit-2511 — quantization — https://huggingface.co/ShintouHKG/Qwen-Image-Edit-2511
+- [NEW] Uhvg856/Qwen-Image-Edit-2511 — LoRA — https://huggingface.co/Uhvg856/Qwen-Image-Edit-2511
+- [NEW] Uhvg856/Qwen-Image-Edit-2509 — adapter — https://huggingface.co/Uhvg856/Qwen-Image-Edit-2509
+- [NEW] Uhvg856/Qwen-Image-Edit-2511-Multiple-Angles-LoRA — LoRA — https://huggingface.co/Uhvg856/Qwen-Image-Edit-2511-Multiple-Angles-LoRA
+- [NEW] XYETHER/SeedVR2-3B-Snapdragon-NPU — quantization — https://huggingface.co/XYETHER/SeedVR2-3B-Snapdragon-NPU
