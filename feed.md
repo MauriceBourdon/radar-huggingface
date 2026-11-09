@@ -1,16 +1,11 @@
 # Radar Hugging Face
 
-Généré : 2026-11-08T21:19:09.079232+00:00
+Généré : 2026-11-09T01:08:35.136312+00:00
 
 ## Delta du run
 
-- [UPDATE] Asirus/MiniMax-H3-Ref2VA-NEXORA — quantization — https://huggingface.co/Asirus/MiniMax-H3-Ref2VA-NEXORA
+- [NEW] siraxe/lightx2v_MiniMax-H3-Prompt-Rewriter_loras — LoRA — https://huggingface.co/siraxe/lightx2v_MiniMax-H3-Prompt-Rewriter_loras
 - [UPDATE] SOLRICKS/MiniMax-H3-Upscaler — LoRA — https://huggingface.co/SOLRICKS/MiniMax-H3-Upscaler
-- [UPDATE] Kijai/MiniMax-H3-experimental — LoRA — https://huggingface.co/Kijai/MiniMax-H3-experimental
-- [NEW] RunningHubAI/rh-minimax-h3-lora-2097938247459631105 — LoRA — https://huggingface.co/RunningHubAI/rh-minimax-h3-lora-2097938247459631105
-- [UPDATE] StefanFalkok/Minimax_H3_Workflows — LoRA — https://huggingface.co/StefanFalkok/Minimax_H3_Workflows
-- [NEW] halfmoon-mind/still-seedvr2 — quantization — https://huggingface.co/halfmoon-mind/still-seedvr2
-- [NEW] AI-KSK/ksk-video-276-comfyui-workflows — quantization — https://huggingface.co/AI-KSK/ksk-video-276-comfyui-workflows
-- [NEW] AI-KSK/ksk-video-274-comfyui-workflows — base-model — https://huggingface.co/AI-KSK/ksk-video-274-comfyui-workflows
-- [NEW] AI-KSK/ksk-video-275-comfyui-workflows — LoRA — https://huggingface.co/AI-KSK/ksk-video-275-comfyui-workflows
-- [NEW] AI-KSK/ksk-video-278-comfyui-workflows — quantization — https://huggingface.co/AI-KSK/ksk-video-278-comfyui-workflows
+- [NEW] xavierchan282/Qwen-Image-2.1 — LoRA — https://huggingface.co/xavierchan282/Qwen-Image-2.1
+- [UPDATE] Comfy-Org/RelayVSR — quantization — https://huggingface.co/Comfy-Org/RelayVSR
+- [UPDATE] Comfy-Org/Idol — utility — https://huggingface.co/Comfy-Org/Idol
