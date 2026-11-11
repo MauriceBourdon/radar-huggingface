@@ -1,34 +1,18 @@
 # Radar Hugging Face
 
-Généré : 2026-11-11T17:22:52.276900+00:00
+Généré : 2026-11-11T23:37:55.607306+00:00
 
 ## Delta du run
 
-- [NEW] gguf-org/minimax-h3-image-gguf — quantization — https://huggingface.co/gguf-org/minimax-h3-image-gguf
-- [UPDATE] Smite79/MiniMax-H3-Longvideos — utility — https://huggingface.co/Smite79/MiniMax-H3-Longvideos
-- [NEW] EllaPriest45/MinimaxH3Image_base — base-model — https://huggingface.co/EllaPriest45/MinimaxH3Image_base
-- [UPDATE] ShootTheSound/Fizgig-MiniMax-H3-Image-Training-Adapter — LoRA — https://huggingface.co/ShootTheSound/Fizgig-MiniMax-H3-Image-Training-Adapter
-- [UPDATE] Abiray/MiniMax-H3-Image-GGUF — quantization — https://huggingface.co/Abiray/MiniMax-H3-Image-GGUF
-- [NEW] AtomicChat/MiniMax-H3-Image-GGUF — quantization — https://huggingface.co/AtomicChat/MiniMax-H3-Image-GGUF
-- [UPDATE] manateelazycat/MiniMax-H3-Image-AIPod — utility — https://huggingface.co/manateelazycat/MiniMax-H3-Image-AIPod
-- [UPDATE] prithivMLmods/MiniMax-H3-Image-PE-NVFP4-GGUF — quantization — https://huggingface.co/prithivMLmods/MiniMax-H3-Image-PE-NVFP4-GGUF
-- [NEW] Sawfwair/MiniMax-H3-Image-MLX-8bit — utility — https://huggingface.co/Sawfwair/MiniMax-H3-Image-MLX-8bit
-- [UPDATE] manateelazycat/MiniMax-H3-Runtime — base-model — https://huggingface.co/manateelazycat/MiniMax-H3-Runtime
-- [UPDATE] Comfy-Org/MiniMax-H3-Image — quantization — https://huggingface.co/Comfy-Org/MiniMax-H3-Image
-- [NEW] jt6jgy/minimaxh3image — base-model — https://huggingface.co/jt6jgy/minimaxh3image
-- [NEW] OzzyGT/minimax_h3_image_sdnq_dynamic_8bit — quantization — https://huggingface.co/OzzyGT/minimax_h3_image_sdnq_dynamic_8bit
-- [NEW] OzzyGT/minimax_h3_image_sdnq_dynamic_4bit — quantization — https://huggingface.co/OzzyGT/minimax_h3_image_sdnq_dynamic_4bit
-- [UPDATE] Gonzaluigi/minimax-h3-refmods — base-model — https://huggingface.co/Gonzaluigi/minimax-h3-refmods
-- [NEW] Mrbizarro/MiniMax-H3-Image-MLX-8bit — base-model — https://huggingface.co/Mrbizarro/MiniMax-H3-Image-MLX-8bit
-- [UPDATE] cguldogan/MiniMax-H3-Image-MLX-4bit — quantization — https://huggingface.co/cguldogan/MiniMax-H3-Image-MLX-4bit
-- [UPDATE] cguldogan/MiniMax-H3-Image-MLX-8bit — quantization — https://huggingface.co/cguldogan/MiniMax-H3-Image-MLX-8bit
-- [UPDATE] Wuli-art/MiniMax-H3-Turbo — LoRA — https://huggingface.co/Wuli-art/MiniMax-H3-Turbo
-- [UPDATE] funnygeeker/MiniMax-H3-Prompt-Rewriter-Qwen3.8-27B-Ref2VA-heretic-oQ4e-mtp — quantization — https://huggingface.co/funnygeeker/MiniMax-H3-Prompt-Rewriter-Qwen3.8-27B-Ref2VA-heretic-oQ4e-mtp
-- [NEW] speedyrulz/minimax-h3-image-int8-w4a8-hybrid — quantization — https://huggingface.co/speedyrulz/minimax-h3-image-int8-w4a8-hybrid
-- [UPDATE] eval-apply/silvann_tq_D8_qwen_image_2.1 — quantization — https://huggingface.co/eval-apply/silvann_tq_D8_qwen_image_2.1
-- [NEW] FlagRelease/Qwen-Image-2.1-BF16-metax-FlagOS — quantization — https://huggingface.co/FlagRelease/Qwen-Image-2.1-BF16-metax-FlagOS
-- [UPDATE] bschooled/Qwen-Image-2.1-text-encoder-quantized — quantization — https://huggingface.co/bschooled/Qwen-Image-2.1-text-encoder-quantized
-- [UPDATE] halfmoon-mind/still-seedvr2 — quantization — https://huggingface.co/halfmoon-mind/still-seedvr2
-- [UPDATE] cenobitic/video-loras — LoRA — https://huggingface.co/cenobitic/video-loras
-- [UPDATE] sandpies/ComfyUI-H3-Video-Upsampler — LoRA — https://huggingface.co/sandpies/ComfyUI-H3-Video-Upsampler
-- [UPDATE] Comfy-Org/RelayVSR — quantization — https://huggingface.co/Comfy-Org/RelayVSR
+- [NEW] online2311/MiniMax-H3-Image-PE-ComfyUI-NVFP4 — quantization — https://huggingface.co/online2311/MiniMax-H3-Image-PE-ComfyUI-NVFP4
+- [NEW] EliovpAI/MiniMax-H3-Image-FP8-Paiton-RDNA4 — quantization — https://huggingface.co/EliovpAI/MiniMax-H3-Image-FP8-Paiton-RDNA4
+- [UPDATE] pmczip/MiniMaxH3_RefMod — LoRA — https://huggingface.co/pmczip/MiniMaxH3_RefMod
+- [NEW] RunningHubAI/rh-anime-to-realistic-transformation-minimax-h3-lora — LoRA — https://huggingface.co/RunningHubAI/rh-anime-to-realistic-transformation-minimax-h3-lora
+- [UPDATE] kozak23/MiniMax-H3-Prompt-Rewriter-Qwen3.5-9B-FL2VA-REF2VA-Heretic-ARA_int8_convrot-ComfyUI — quantization — https://huggingface.co/kozak23/MiniMax-H3-Prompt-Rewriter-Qwen3.5-9B-FL2VA-REF2VA-Heretic-ARA_int8_convrot-ComfyUI
+- [UPDATE] realrebelai/Minimax-H3-Image_GGUFs — quantization — https://huggingface.co/realrebelai/Minimax-H3-Image_GGUFs
+- [NEW] AI-KSK/MiniMax-H3-Image-Full-BF16-ComfyUI — quantization — https://huggingface.co/AI-KSK/MiniMax-H3-Image-Full-BF16-ComfyUI
+- [UPDATE] gguf-org/minimax-h3-image-gguf — quantization — https://huggingface.co/gguf-org/minimax-h3-image-gguf
+- [NEW] gguf-org/minimax-h3-gguf — quantization — https://huggingface.co/gguf-org/minimax-h3-gguf
+- [UPDATE] kozak23/Qwen-Image-2.1-PE-I2I-T2I-Heretic-ARA-int8_convrot-ComfyUI — quantization — https://huggingface.co/kozak23/Qwen-Image-2.1-PE-I2I-T2I-Heretic-ARA-int8_convrot-ComfyUI
+- [NEW] sab96/Qwen-Image-Edit-2511-LowRankMod — LoRA — https://huggingface.co/sab96/Qwen-Image-Edit-2511-LowRankMod
+- [NEW] starrysproutkids/Qwen-Image-2512 — base-model — https://huggingface.co/starrysproutkids/Qwen-Image-2512
