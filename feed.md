@@ -1,18 +1,22 @@
 # Radar Hugging Face
 
-Généré : 2026-11-11T23:37:55.607306+00:00
+Généré : 2026-11-12T08:45:11.977188+00:00
 
 ## Delta du run
 
-- [NEW] online2311/MiniMax-H3-Image-PE-ComfyUI-NVFP4 — quantization — https://huggingface.co/online2311/MiniMax-H3-Image-PE-ComfyUI-NVFP4
-- [NEW] EliovpAI/MiniMax-H3-Image-FP8-Paiton-RDNA4 — quantization — https://huggingface.co/EliovpAI/MiniMax-H3-Image-FP8-Paiton-RDNA4
-- [UPDATE] pmczip/MiniMaxH3_RefMod — LoRA — https://huggingface.co/pmczip/MiniMaxH3_RefMod
-- [NEW] RunningHubAI/rh-anime-to-realistic-transformation-minimax-h3-lora — LoRA — https://huggingface.co/RunningHubAI/rh-anime-to-realistic-transformation-minimax-h3-lora
-- [UPDATE] kozak23/MiniMax-H3-Prompt-Rewriter-Qwen3.5-9B-FL2VA-REF2VA-Heretic-ARA_int8_convrot-ComfyUI — quantization — https://huggingface.co/kozak23/MiniMax-H3-Prompt-Rewriter-Qwen3.5-9B-FL2VA-REF2VA-Heretic-ARA_int8_convrot-ComfyUI
+- [NEW] alkyum/neverseen-minimax-h3-image — quantization — https://huggingface.co/alkyum/neverseen-minimax-h3-image
+- [UPDATE] yxmmhkd/minimax-h3-models — base-model — https://huggingface.co/yxmmhkd/minimax-h3-models
+- [NEW] Jay-33/MiniMax-H3 — base-model — https://huggingface.co/Jay-33/MiniMax-H3
+- [NEW] mradermacher/MiniMax-H3-Image-PE-GGUF — quantization — https://huggingface.co/mradermacher/MiniMax-H3-Image-PE-GGUF
+- [NEW] neonforestmist/Minimax_H3_Monet_Style_LoRA — LoRA — https://huggingface.co/neonforestmist/Minimax_H3_Monet_Style_LoRA
+- [NEW] DeepNeuralNerd/Minimax_H3_Image_Prompt_Upsampler_Uncensored_Heretic — quantization — https://huggingface.co/DeepNeuralNerd/Minimax_H3_Image_Prompt_Upsampler_Uncensored_Heretic
+- [UPDATE] silveroxides/MiniMax-H3_tests — LoRA — https://huggingface.co/silveroxides/MiniMax-H3_tests
+- [UPDATE] MiniMaxAI/MiniMax-H3-Image — utility — https://huggingface.co/MiniMaxAI/MiniMax-H3-Image
+- [NEW] hhq88001/MiniMax-H3-Image — quantization — https://huggingface.co/hhq88001/MiniMax-H3-Image
 - [UPDATE] realrebelai/Minimax-H3-Image_GGUFs — quantization — https://huggingface.co/realrebelai/Minimax-H3-Image_GGUFs
-- [NEW] AI-KSK/MiniMax-H3-Image-Full-BF16-ComfyUI — quantization — https://huggingface.co/AI-KSK/MiniMax-H3-Image-Full-BF16-ComfyUI
-- [UPDATE] gguf-org/minimax-h3-image-gguf — quantization — https://huggingface.co/gguf-org/minimax-h3-image-gguf
-- [NEW] gguf-org/minimax-h3-gguf — quantization — https://huggingface.co/gguf-org/minimax-h3-gguf
-- [UPDATE] kozak23/Qwen-Image-2.1-PE-I2I-T2I-Heretic-ARA-int8_convrot-ComfyUI — quantization — https://huggingface.co/kozak23/Qwen-Image-2.1-PE-I2I-T2I-Heretic-ARA-int8_convrot-ComfyUI
-- [NEW] sab96/Qwen-Image-Edit-2511-LowRankMod — LoRA — https://huggingface.co/sab96/Qwen-Image-Edit-2511-LowRankMod
-- [NEW] starrysproutkids/Qwen-Image-2512 — base-model — https://huggingface.co/starrysproutkids/Qwen-Image-2512
+- [UPDATE] online2311/MiniMax-H3-Image-PE-ComfyUI-NVFP4 — quantization — https://huggingface.co/online2311/MiniMax-H3-Image-PE-ComfyUI-NVFP4
+- [NEW] convertor/minimax-h3-gguf — quantization — https://huggingface.co/convertor/minimax-h3-gguf
+- [NEW] SadikNawazAI/sadik-ai-video-wan2.2-fast — LoRA — https://huggingface.co/SadikNawazAI/sadik-ai-video-wan2.2-fast
+- [NEW] moonbox-ai/Qwen-Image-2.1-Turbo-GGUF — quantization — https://huggingface.co/moonbox-ai/Qwen-Image-2.1-Turbo-GGUF
+- [NEW] RunningHubAI/rh-qwen-imageqwen-image-2512-lora — LoRA — https://huggingface.co/RunningHubAI/rh-qwen-imageqwen-image-2512-lora
+- [NEW] moonbox-ai/flux-3-image-klein-GGUF — LoRA — https://huggingface.co/moonbox-ai/flux-3-image-klein-GGUF
