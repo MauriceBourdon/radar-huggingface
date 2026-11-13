@@ -1,22 +1,20 @@
 # Radar Hugging Face
 
-Généré : 2026-11-13T13:21:19.018442+00:00
+Généré : 2026-11-13T20:36:59.520443+00:00
 
 ## Delta du run
 
-- [UPDATE] convertor/minimax-h3-image-gguf — quantization — https://huggingface.co/convertor/minimax-h3-image-gguf
-- [NEW] Merserk/MiniMax-H3-Image-Text-Encoder-INT4-ConvRot — quantization — https://huggingface.co/Merserk/MiniMax-H3-Image-Text-Encoder-INT4-ConvRot
-- [NEW] devin-lai/MiniMax-H3-Image-ARA1-GGUF — quantization — https://huggingface.co/devin-lai/MiniMax-H3-Image-ARA1-GGUF
-- [NEW] pinvou/minimax-h3-image-comfyui — base-model — https://huggingface.co/pinvou/minimax-h3-image-comfyui
-- [UPDATE] johndpope/MiniMax-H3-MPEG-Diffusion — LoRA — https://huggingface.co/johndpope/MiniMax-H3-MPEG-Diffusion
-- [NEW] zzb1420/MiniMax-H3-ref2va-V5xs-INT8 — quantization — https://huggingface.co/zzb1420/MiniMax-H3-ref2va-V5xs-INT8
-- [NEW] RunningHubAI/rh-kook-minimax-h3-image-lora — LoRA — https://huggingface.co/RunningHubAI/rh-kook-minimax-h3-image-lora
-- [UPDATE] mhnakif/minimax_h3 — base-model — https://huggingface.co/mhnakif/minimax_h3
+- [UPDATE] gguf-org/minimax-h3-image-gguf — quantization — https://huggingface.co/gguf-org/minimax-h3-image-gguf
 - [UPDATE] manateelazycat/MiniMax-H3-Runtime — base-model — https://huggingface.co/manateelazycat/MiniMax-H3-Runtime
-- [UPDATE] manateelazycat/MiniMax-H3-Image-AIPod — utility — https://huggingface.co/manateelazycat/MiniMax-H3-Image-AIPod
+- [UPDATE] johndpope/MiniMax-H3-MPEG-Diffusion — LoRA — https://huggingface.co/johndpope/MiniMax-H3-MPEG-Diffusion
+- [NEW] linoyts/MiniMax-H3-Image-pDMD-2steps — LoRA — https://huggingface.co/linoyts/MiniMax-H3-Image-pDMD-2steps
+- [NEW] BennyDaBall/MiniMax-H3-Image-ComfyUI-NVFP4 — quantization — https://huggingface.co/BennyDaBall/MiniMax-H3-Image-ComfyUI-NVFP4
 - [UPDATE] AcademiaSD/MiniMax-H3-Image-NF4-for-LoRA-Training — LoRA — https://huggingface.co/AcademiaSD/MiniMax-H3-Image-NF4-for-LoRA-Training
-- [NEW] changh95/qwen-image-2.1-p150 — quantization — https://huggingface.co/changh95/qwen-image-2.1-p150
-- [NEW] botp/Qwen-Image-2.1-Uncensored-Omni-Quantized — LoRA — https://huggingface.co/botp/Qwen-Image-2.1-Uncensored-Omni-Quantized
-- [NEW] eraeden1000/Qwen-Image-Edit-2511 — LoRA — https://huggingface.co/eraeden1000/Qwen-Image-Edit-2511
-- [UPDATE] moonbox-dev/Qwen-Image-2.1-Turbo-GGUF — quantization — https://huggingface.co/moonbox-dev/Qwen-Image-2.1-Turbo-GGUF
-- [NEW] reverie-studio/Qwen-Image-Edit-2511-GGUF — quantization — https://huggingface.co/reverie-studio/Qwen-Image-Edit-2511-GGUF
+- [UPDATE] javawock7618/comfy-MiniMax-H3-workflows — LoRA — https://huggingface.co/javawock7618/comfy-MiniMax-H3-workflows
+- [NEW] ZOET1219/MiniMax-H3-Image-GGUF — quantization — https://huggingface.co/ZOET1219/MiniMax-H3-Image-GGUF
+- [NEW] unsloth/MiniMax-H3-Image-GGUF — quantization — https://huggingface.co/unsloth/MiniMax-H3-Image-GGUF
+- [UPDATE] manateelazycat/MiniMax-H3-Duo-AIPod — LoRA — https://huggingface.co/manateelazycat/MiniMax-H3-Duo-AIPod
+- [NEW] Xylolabs/LTX-2.5-Text-Encoder-Tensix-BFP8 — quantization — https://huggingface.co/Xylolabs/LTX-2.5-Text-Encoder-Tensix-BFP8
+- [NEW] Xylolabs/LTX-2.5-Block0-Tensix-BFP4 — quantization — https://huggingface.co/Xylolabs/LTX-2.5-Block0-Tensix-BFP4
+- [UPDATE] GiorgioV/Qwen-image-adv — base-model — https://huggingface.co/GiorgioV/Qwen-image-adv
+- [NEW] 20195468j1/dms-qwen-image-edit-2511-fp8mixed — quantization — https://huggingface.co/20195468j1/dms-qwen-image-edit-2511-fp8mixed
