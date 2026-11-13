@@ -1,41 +1,47 @@
 # Radar Hugging Face
 
-Généré : 2026-11-12T17:42:17.894783+00:00
+Généré : 2026-11-13T02:03:16.798337+00:00
 
 ## Delta du run
 
-- [NEW] AcademiaSD/MiniMax-H3-Image-NF4-for-LoRA-Training — LoRA — https://huggingface.co/AcademiaSD/MiniMax-H3-Image-NF4-for-LoRA-Training
-- [NEW] yujiepan/minimax-h3-image-tiny-random — utility — https://huggingface.co/yujiepan/minimax-h3-image-tiny-random
-- [NEW] tiny-random/minimax-h3-image — utility — https://huggingface.co/tiny-random/minimax-h3-image
-- [NEW] MidFR-CAI/MiniMax-H3-Prompt-Rewriter-Qwen3.5-9B-Ref2VA_w4a8_convrot — quantization — https://huggingface.co/MidFR-CAI/MiniMax-H3-Prompt-Rewriter-Qwen3.5-9B-Ref2VA_w4a8_convrot
+- [UPDATE] EllaPriest45/MinimaxH3_Checkpoints — LoRA — https://huggingface.co/EllaPriest45/MinimaxH3_Checkpoints
+- [NEW] devin-lai/MiniMax-H3-Image-mlx — quantization — https://huggingface.co/devin-lai/MiniMax-H3-Image-mlx
+- [UPDATE] devin-lai/MiniMax-H3-Image-mlx-shared — utility — https://huggingface.co/devin-lai/MiniMax-H3-Image-mlx-shared
+- [UPDATE] devin-lai/MiniMax-H3-Image-mlx-q4 — quantization — https://huggingface.co/devin-lai/MiniMax-H3-Image-mlx-q4
+- [NEW] devin-lai/MiniMax-H3-Image-mlx-q8 — quantization — https://huggingface.co/devin-lai/MiniMax-H3-Image-mlx-q8
+- [NEW] devin-lai/MiniMax-H3-Image-mlx-packed12 — quantization — https://huggingface.co/devin-lai/MiniMax-H3-Image-mlx-packed12
+- [UPDATE] devin-lai/MiniMax-H3-Image-mlx-bf16 — utility — https://huggingface.co/devin-lai/MiniMax-H3-Image-mlx-bf16
+- [UPDATE] EllaPriest45/MinimaxH3_Actions — LoRA — https://huggingface.co/EllaPriest45/MinimaxH3_Actions
+- [NEW] yasutoshi-lab/MiniMax-H3-Image-GGUF — quantization — https://huggingface.co/yasutoshi-lab/MiniMax-H3-Image-GGUF
+- [UPDATE] EllaPriest45/MinimaxH3_base — LoRA — https://huggingface.co/EllaPriest45/MinimaxH3_base
+- [NEW] devin-lai/MiniMax-H3-Image-mlx-examples — base-model — https://huggingface.co/devin-lai/MiniMax-H3-Image-mlx-examples
+- [NEW] johndpope/MiniMax-H3-MPEG-Diffusion — LoRA — https://huggingface.co/johndpope/MiniMax-H3-MPEG-Diffusion
+- [UPDATE] manateelazycat/MiniMax-H3-Duo-AIPod — LoRA — https://huggingface.co/manateelazycat/MiniMax-H3-Duo-AIPod
+- [UPDATE] iamgroot1212/minimax-h3-loras — LoRA — https://huggingface.co/iamgroot1212/minimax-h3-loras
+- [NEW] Harsha001/MiniMax-H3-Image-ROCmFPX — quantization — https://huggingface.co/Harsha001/MiniMax-H3-Image-ROCmFPX
+- [NEW] moonbox-dev/MiniMax-H3-Image-GGUF — quantization — https://huggingface.co/moonbox-dev/MiniMax-H3-Image-GGUF
+- [NEW] AI-KSK/minimax-h3-digital-human-329 — base-model — https://huggingface.co/AI-KSK/minimax-h3-digital-human-329
+- [UPDATE] releaseworthy/dasiwa-minimax-h3-turbo-int8 — quantization — https://huggingface.co/releaseworthy/dasiwa-minimax-h3-turbo-int8
 - [UPDATE] AiNinja94/MiniMax-H3 — base-model — https://huggingface.co/AiNinja94/MiniMax-H3
-- [UPDATE] infosave/MiniMax-H3-Turbo-cmf — LoRA — https://huggingface.co/infosave/MiniMax-H3-Turbo-cmf
-- [NEW] devin-lai/MiniMax-H3-Image-mlx-bf16 — utility — https://huggingface.co/devin-lai/MiniMax-H3-Image-mlx-bf16
-- [NEW] infosave/MiniMax-H3-Image-cmf — quantization — https://huggingface.co/infosave/MiniMax-H3-Image-cmf
-- [NEW] zimageapp/MiniMax-H3-Image-MLX-Q4 — LoRA — https://huggingface.co/zimageapp/MiniMax-H3-Image-MLX-Q4
-- [UPDATE] saejon/MinimaxH3 — LoRA — https://huggingface.co/saejon/MinimaxH3
-- [NEW] namcut18/MiniMax-H3 — base-model — https://huggingface.co/namcut18/MiniMax-H3
-- [NEW] devin-lai/MiniMax-H3-Image-mlx-shared — utility — https://huggingface.co/devin-lai/MiniMax-H3-Image-mlx-shared
-- [NEW] devin-lai/MiniMax-H3-Image-mlx-q4 — quantization — https://huggingface.co/devin-lai/MiniMax-H3-Image-mlx-q4
-- [NEW] manateelazycat/MiniMax-H3-Duo-AIPod — LoRA — https://huggingface.co/manateelazycat/MiniMax-H3-Duo-AIPod
-- [UPDATE] Mrbizarro/MiniMax-H3-Image-MLX-8bit — quantization — https://huggingface.co/Mrbizarro/MiniMax-H3-Image-MLX-8bit
-- [NEW] pytraveler/MiniMax-H3-Prompt-Rewriter-Qwen3.8-27B-Ref2VA-GGUF — quantization — https://huggingface.co/pytraveler/MiniMax-H3-Prompt-Rewriter-Qwen3.8-27B-Ref2VA-GGUF
-- [NEW] pytraveler/MiniMax-H3-Prompt-Rewriter-Qwen3.8-27B-FL2VA-GGUF — quantization — https://huggingface.co/pytraveler/MiniMax-H3-Prompt-Rewriter-Qwen3.8-27B-FL2VA-GGUF
-- [NEW] pytraveler/MiniMax-H3-Prompt-Rewriter-Qwen3.5-9B-Ref2VA-GGUF — LoRA — https://huggingface.co/pytraveler/MiniMax-H3-Prompt-Rewriter-Qwen3.5-9B-Ref2VA-GGUF
-- [NEW] pytraveler/MiniMax-H3-Prompt-Rewriter-Qwen3.5-9B-FL2VA-GGUF — LoRA — https://huggingface.co/pytraveler/MiniMax-H3-Prompt-Rewriter-Qwen3.5-9B-FL2VA-GGUF
-- [UPDATE] lightx2v/Minimax-h3-Turbo — LoRA — https://huggingface.co/lightx2v/Minimax-h3-Turbo
-- [NEW] Microguy1/MiniMax-H3-Image-DUPLI — utility — https://huggingface.co/Microguy1/MiniMax-H3-Image-DUPLI
-- [NEW] vml12/MiniMax-H3-Ext — base-model — https://huggingface.co/vml12/MiniMax-H3-Ext
-- [NEW] vantagewithai/MiniMax-H3-Image-ComfyUI-GGUF — quantization — https://huggingface.co/vantagewithai/MiniMax-H3-Image-ComfyUI-GGUF
-- [NEW] fesvhtr/PGH-minimax-h3-v3b-point-tokens-sanity — LoRA — https://huggingface.co/fesvhtr/PGH-minimax-h3-v3b-point-tokens-sanity
-- [NEW] fesvhtr/PGH-minimax-h3-hot3d-controlnet — LoRA — https://huggingface.co/fesvhtr/PGH-minimax-h3-hot3d-controlnet
-- [NEW] MistyViolet/MiniMax_H3 — base-model — https://huggingface.co/MistyViolet/MiniMax_H3
-- [NEW] Mrbizarro/ltx-2.5-mlx-q8 — quantization — https://huggingface.co/Mrbizarro/ltx-2.5-mlx-q8
-- [NEW] Mrbizarro/ltx-2.5-mlx-hq — LoRA — https://huggingface.co/Mrbizarro/ltx-2.5-mlx-hq
-- [NEW] Mrbizarro/ltx-2.5-mlx-q4 — quantization — https://huggingface.co/Mrbizarro/ltx-2.5-mlx-q4
-- [NEW] yasutoshi-lab/Qwen-Image-2.1-Turbo-GGUF — quantization — https://huggingface.co/yasutoshi-lab/Qwen-Image-2.1-Turbo-GGUF
-- [NEW] linoyts/acedit-qwen-image-2.1 — base-model — https://huggingface.co/linoyts/acedit-qwen-image-2.1
-- [NEW] moonbox-ai/Qwen-Image-2.1-Turbo-MLX — quantization — https://huggingface.co/moonbox-ai/Qwen-Image-2.1-Turbo-MLX
+- [UPDATE] SOLRICKS/MiniMax-H3-Upscaler — LoRA — https://huggingface.co/SOLRICKS/MiniMax-H3-Upscaler
+- [UPDATE] infosave/LTX-2.5-cmf — quantization — https://huggingface.co/infosave/LTX-2.5-cmf
+- [NEW] reverie-studio/ltx-2.5-mlx-q4-distilled — LoRA — https://huggingface.co/reverie-studio/ltx-2.5-mlx-q4-distilled
+- [NEW] reverie-studio/ltx-2.5-mlx-q8-distilled — LoRA — https://huggingface.co/reverie-studio/ltx-2.5-mlx-q8-distilled
+- [UPDATE] chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized — LoRA — https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized
+- [UPDATE] chatrlabs/Qwen-Image-2.1-Uncensored-Omni-LoRA-v0.1 — LoRA — https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-LoRA-v0.1
+- [NEW] sebekblessing/qwen-image-2.1-qnn-8elite — LoRA — https://huggingface.co/sebekblessing/qwen-image-2.1-qnn-8elite
+- [NEW] infosave/Qwen-Image-2.1-Uncensored-CMF — quantization — https://huggingface.co/infosave/Qwen-Image-2.1-Uncensored-CMF
+- [UPDATE] infosave/Qwen-Image-2.1-cmf — quantization — https://huggingface.co/infosave/Qwen-Image-2.1-cmf
 - [UPDATE] AbstractPhil/qwen3.5-4b-think-symbolic-image — LoRA — https://huggingface.co/AbstractPhil/qwen3.5-4b-think-symbolic-image
-- [NEW] moonbox-ai/flux-3-image-klein-MLX — quantization — https://huggingface.co/moonbox-ai/flux-3-image-klein-MLX
-- [UPDATE] sandpies/ComfyUI-H3-Video-Upsampler — LoRA — https://huggingface.co/sandpies/ComfyUI-H3-Video-Upsampler
+- [UPDATE] AbstractPhil/qwen3.5-9b-think-symbolic-image — LoRA — https://huggingface.co/AbstractPhil/qwen3.5-9b-think-symbolic-image
+- [NEW] infosave/Qwen-Image-Edit-2509-cmf — quantization — https://huggingface.co/infosave/Qwen-Image-Edit-2509-cmf
+- [UPDATE] BennyDaBall/Qwen-Image-2.1-Turbo-NVFP4 — quantization — https://huggingface.co/BennyDaBall/Qwen-Image-2.1-Turbo-NVFP4
+- [UPDATE] linoyts/acedit-qwen-image-2.1 — LoRA — https://huggingface.co/linoyts/acedit-qwen-image-2.1
+- [NEW] AbstractPhil/qwen3.5-4b-think-symbolic-image-nc — LoRA — https://huggingface.co/AbstractPhil/qwen3.5-4b-think-symbolic-image-nc
+- [UPDATE] Lyricccco/Qwen-Image-2.1-TailSteer — LoRA — https://huggingface.co/Lyricccco/Qwen-Image-2.1-TailSteer
+- [NEW] moonbox-dev/Qwen-Image-2.1-Turbo-MLX — quantization — https://huggingface.co/moonbox-dev/Qwen-Image-2.1-Turbo-MLX
+- [NEW] moonbox-dev/Qwen-Image-2.1-Turbo-GGUF — quantization — https://huggingface.co/moonbox-dev/Qwen-Image-2.1-Turbo-GGUF
+- [NEW] moonbox-dev/flux-3-image-klein-MLX — quantization — https://huggingface.co/moonbox-dev/flux-3-image-klein-MLX
+- [NEW] moonbox-dev/flux-3-image-klein-GGUF — LoRA — https://huggingface.co/moonbox-dev/flux-3-image-klein-GGUF
+- [UPDATE] EllaPriest45/Krea2_Styles — base-model — https://huggingface.co/EllaPriest45/Krea2_Styles
+- [UPDATE] EllaPriest45/Krea2_actions — LoRA — https://huggingface.co/EllaPriest45/Krea2_actions
