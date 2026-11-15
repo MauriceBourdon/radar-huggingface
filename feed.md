@@ -1,16 +1,72 @@
 # Radar Hugging Face
 
-Généré : 2026-11-15T08:18:14.292641+00:00
+Généré : 2026-11-15T16:30:31.710562+00:00
 
 ## Delta du run
 
 - [UPDATE] SimpleTuner/minimax-h3-image-LoRA-experiments — LoRA — https://huggingface.co/SimpleTuner/minimax-h3-image-LoRA-experiments
-- [UPDATE] Gonzaluigi/minimax-h3-refmods — base-model — https://huggingface.co/Gonzaluigi/minimax-h3-refmods
-- [UPDATE] SceneWorks/minimax-h3-image-pe — base-model — https://huggingface.co/SceneWorks/minimax-h3-image-pe
-- [UPDATE] saejon/MinimaxH3 — LoRA — https://huggingface.co/saejon/MinimaxH3
-- [UPDATE] javawock7618/comfy-MiniMax-H3-workflows — LoRA — https://huggingface.co/javawock7618/comfy-MiniMax-H3-workflows
-- [UPDATE] vyrekai/minimax-h3-image-comfyui-workflows — quantization — https://huggingface.co/vyrekai/minimax-h3-image-comfyui-workflows
-- [UPDATE] SceneWorks/minimax-h3-image-mlx — base-model — https://huggingface.co/SceneWorks/minimax-h3-image-mlx
-- [UPDATE] DeepBeepMeep/MiniMax-H3 — LoRA — https://huggingface.co/DeepBeepMeep/MiniMax-H3
-- [UPDATE] abenzerps/Qwen-Image-2.1-Turbo-Quantized — quantization — https://huggingface.co/abenzerps/Qwen-Image-2.1-Turbo-Quantized
-- [NEW] kaitemoreau/Qwen-Image-2.1 — base-model — https://huggingface.co/kaitemoreau/Qwen-Image-2.1
+- [UPDATE] manateelazycat/MiniMax-H3-Image-AIPod — utility — https://huggingface.co/manateelazycat/MiniMax-H3-Image-AIPod
+- [UPDATE] Alissonerdx/Minimax-H3-ComfyUI — LoRA — https://huggingface.co/Alissonerdx/Minimax-H3-ComfyUI
+- [NEW] yasutoshi-lab/MiniMax-H3-GGUF — quantization — https://huggingface.co/yasutoshi-lab/MiniMax-H3-GGUF
+- [NEW] liumouren1314/MiniMax-H3-Image — utility — https://huggingface.co/liumouren1314/MiniMax-H3-Image
+- [NEW] RunningHubAI/rh-minimax-h3-cum-lora — LoRA — https://huggingface.co/RunningHubAI/rh-minimax-h3-cum-lora
+- [UPDATE] S3ckn11g0r/CROWN-MiniMax-H3-HyperPDMD-HD-3-4Step-LoRA — LoRA — https://huggingface.co/S3ckn11g0r/CROWN-MiniMax-H3-HyperPDMD-HD-3-4Step-LoRA
+- [NEW] EliovpAI/MiniMax-H3-FP8-Paiton-RDNA4 — quantization — https://huggingface.co/EliovpAI/MiniMax-H3-FP8-Paiton-RDNA4
+- [NEW] Kijai/MiniMax-H3-TAE — utility — https://huggingface.co/Kijai/MiniMax-H3-TAE
+- [UPDATE] manateelazycat/MiniMax-H3-Runtime — base-model — https://huggingface.co/manateelazycat/MiniMax-H3-Runtime
+- [UPDATE] Comfy-Org/MiniMax-H3 — LoRA — https://huggingface.co/Comfy-Org/MiniMax-H3
+- [NEW] jialidddh/MiniMax-H3-People-Vehicle-Removal-LoRA — LoRA — https://huggingface.co/jialidddh/MiniMax-H3-People-Vehicle-Removal-LoRA
+- [UPDATE] lvladikov/LTX-2.5-Stage1-Distill-2step-LoRA — LoRA — https://huggingface.co/lvladikov/LTX-2.5-Stage1-Distill-2step-LoRA
+- [NEW] EliovpAI/LTX-2.5-FP8-Paiton-RDNA4 — quantization — https://huggingface.co/EliovpAI/LTX-2.5-FP8-Paiton-RDNA4
+- [UPDATE] Ouinche/moss-image-qwen3.5-te-mlx-q8g64 — LoRA — https://huggingface.co/Ouinche/moss-image-qwen3.5-te-mlx-q8g64
+- [UPDATE] Ouinche/qwen-image-edit-lightning-mflux-q4-full — LoRA — https://huggingface.co/Ouinche/qwen-image-edit-lightning-mflux-q4-full
+- [UPDATE] Ouinche/qwen-image-edit-mflux-q4-full — quantization — https://huggingface.co/Ouinche/qwen-image-edit-mflux-q4-full
+- [NEW] muyud/qwen-image-edit-2509-lightning-4steps-nunchaku-lite-nvfp4-r32 — LoRA — https://huggingface.co/muyud/qwen-image-edit-2509-lightning-4steps-nunchaku-lite-nvfp4-r32
+- [NEW] SEEDRAAI/Qwen-Image-2.1-LoRA-Polaroid — LoRA — https://huggingface.co/SEEDRAAI/Qwen-Image-2.1-LoRA-Polaroid
+- [NEW] cfgscale/Qwen-Image-2.1-LoRA-Polaroid — LoRA — https://huggingface.co/cfgscale/Qwen-Image-2.1-LoRA-Polaroid
+- [NEW] nchapman/Qwen-Image-2.1-W4A16-HGPTQ — quantization — https://huggingface.co/nchapman/Qwen-Image-2.1-W4A16-HGPTQ
+- [NEW] nchapman/Qwen-Image-2.1-Turbo-W4A16-HGPTQ — quantization — https://huggingface.co/nchapman/Qwen-Image-2.1-Turbo-W4A16-HGPTQ
+- [UPDATE] changh95/qwen-image-2.1-p150 — quantization — https://huggingface.co/changh95/qwen-image-2.1-p150
+- [UPDATE] halfmoon-mind/still-seedvr2 — quantization — https://huggingface.co/halfmoon-mind/still-seedvr2
+- [NEW] AI-KSK/vace-comfyui-native-workflows-image-reference-keyframes-controlnet-video — adapter — https://huggingface.co/AI-KSK/vace-comfyui-native-workflows-image-reference-keyframes-controlnet-video
+- [NEW] AI-KSK/ksk-video-152-comfyui-workflows — base-model — https://huggingface.co/AI-KSK/ksk-video-152-comfyui-workflows
+- [NEW] AI-KSK/ksk-video-154-comfyui-workflows — base-model — https://huggingface.co/AI-KSK/ksk-video-154-comfyui-workflows
+- [NEW] AI-KSK/ksk-video-155-comfyui-workflows — LoRA — https://huggingface.co/AI-KSK/ksk-video-155-comfyui-workflows
+- [NEW] AI-KSK/ksk-video-1-comfyui-workflows — adapter — https://huggingface.co/AI-KSK/ksk-video-1-comfyui-workflows
+- [NEW] AI-KSK/ksk-video-151-comfyui-workflows — base-model — https://huggingface.co/AI-KSK/ksk-video-151-comfyui-workflows
+- [NEW] AI-KSK/ksk-video-150-comfyui-workflows — base-model — https://huggingface.co/AI-KSK/ksk-video-150-comfyui-workflows
+- [NEW] AI-KSK/ksk-video-153-comfyui-workflows — base-model — https://huggingface.co/AI-KSK/ksk-video-153-comfyui-workflows
+- [NEW] AI-KSK/ksk-video-158-comfyui-workflows — base-model — https://huggingface.co/AI-KSK/ksk-video-158-comfyui-workflows
+- [NEW] AI-KSK/ksk-video-156-comfyui-workflows — base-model — https://huggingface.co/AI-KSK/ksk-video-156-comfyui-workflows
+- [NEW] AI-KSK/ksk-video-157-comfyui-workflows — LoRA — https://huggingface.co/AI-KSK/ksk-video-157-comfyui-workflows
+- [NEW] AI-KSK/ksk-video-159-comfyui-workflows — adapter — https://huggingface.co/AI-KSK/ksk-video-159-comfyui-workflows
+- [NEW] AI-KSK/ksk-video-160-comfyui-workflows — base-model — https://huggingface.co/AI-KSK/ksk-video-160-comfyui-workflows
+- [NEW] AI-KSK/ksk-video-161-comfyui-workflows — base-model — https://huggingface.co/AI-KSK/ksk-video-161-comfyui-workflows
+- [NEW] AI-KSK/ksk-video-162-comfyui-workflows — LoRA — https://huggingface.co/AI-KSK/ksk-video-162-comfyui-workflows
+- [NEW] AI-KSK/ksk-video-163-comfyui-workflows — base-model — https://huggingface.co/AI-KSK/ksk-video-163-comfyui-workflows
+- [NEW] AI-KSK/ksk-video-164-comfyui-workflows — base-model — https://huggingface.co/AI-KSK/ksk-video-164-comfyui-workflows
+- [NEW] AI-KSK/ksk-video-165-comfyui-workflows — base-model — https://huggingface.co/AI-KSK/ksk-video-165-comfyui-workflows
+- [NEW] AI-KSK/ksk-video-166-comfyui-workflows — base-model — https://huggingface.co/AI-KSK/ksk-video-166-comfyui-workflows
+- [NEW] AI-KSK/ksk-video-167-comfyui-workflows — base-model — https://huggingface.co/AI-KSK/ksk-video-167-comfyui-workflows
+- [NEW] AI-KSK/ksk-video-168-comfyui-workflows — base-model — https://huggingface.co/AI-KSK/ksk-video-168-comfyui-workflows
+- [NEW] AI-KSK/ksk-video-169-comfyui-workflows — base-model — https://huggingface.co/AI-KSK/ksk-video-169-comfyui-workflows
+- [NEW] AI-KSK/ksk-video-172-comfyui-workflows — base-model — https://huggingface.co/AI-KSK/ksk-video-172-comfyui-workflows
+- [NEW] AI-KSK/ksk-video-174-comfyui-workflows — LoRA — https://huggingface.co/AI-KSK/ksk-video-174-comfyui-workflows
+- [NEW] AI-KSK/ksk-video-180-comfyui-workflows — base-model — https://huggingface.co/AI-KSK/ksk-video-180-comfyui-workflows
+- [NEW] AI-KSK/ksk-video-183-comfyui-workflows — base-model — https://huggingface.co/AI-KSK/ksk-video-183-comfyui-workflows
+- [NEW] AI-KSK/ksk-video-186-comfyui-workflows — base-model — https://huggingface.co/AI-KSK/ksk-video-186-comfyui-workflows
+- [NEW] AI-KSK/ksk-video-191-comfyui-workflows — base-model — https://huggingface.co/AI-KSK/ksk-video-191-comfyui-workflows
+- [NEW] AI-KSK/ksk-video-192-comfyui-workflows — LoRA — https://huggingface.co/AI-KSK/ksk-video-192-comfyui-workflows
+- [NEW] AI-KSK/ksk-video-194-comfyui-workflows — LoRA — https://huggingface.co/AI-KSK/ksk-video-194-comfyui-workflows
+- [NEW] AI-KSK/ksk-video-196-comfyui-workflows — base-model — https://huggingface.co/AI-KSK/ksk-video-196-comfyui-workflows
+- [NEW] AI-KSK/ksk-video-197-comfyui-workflows — LoRA — https://huggingface.co/AI-KSK/ksk-video-197-comfyui-workflows
+- [NEW] AI-KSK/ksk-video-198-comfyui-workflows — base-model — https://huggingface.co/AI-KSK/ksk-video-198-comfyui-workflows
+- [NEW] AI-KSK/ksk-video-202-comfyui-workflows — base-model — https://huggingface.co/AI-KSK/ksk-video-202-comfyui-workflows
+- [NEW] AI-KSK/ksk-video-208-comfyui-workflows — LoRA — https://huggingface.co/AI-KSK/ksk-video-208-comfyui-workflows
+- [NEW] AI-KSK/ksk-video-209-comfyui-workflows — base-model — https://huggingface.co/AI-KSK/ksk-video-209-comfyui-workflows
+- [NEW] AI-KSK/ksk-video-210-comfyui-workflows — LoRA — https://huggingface.co/AI-KSK/ksk-video-210-comfyui-workflows
+- [NEW] AI-KSK/ksk-video-240-comfyui-workflows — base-model — https://huggingface.co/AI-KSK/ksk-video-240-comfyui-workflows
+- [NEW] AI-KSK/ksk-video-214-comfyui-workflows — LoRA — https://huggingface.co/AI-KSK/ksk-video-214-comfyui-workflows
+- [NEW] AI-KSK/ksk-video-332-comfyui-workflows — base-model — https://huggingface.co/AI-KSK/ksk-video-332-comfyui-workflows
+- [NEW] AI-KSK/ksk-video-195-comfyui-workflows — LoRA — https://huggingface.co/AI-KSK/ksk-video-195-comfyui-workflows
+- [NEW] Comfy-Org/PAN2 — quantization — https://huggingface.co/Comfy-Org/PAN2
