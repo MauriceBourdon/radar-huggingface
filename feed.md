@@ -1,28 +1,19 @@
 # Radar Hugging Face
 
-Généré : 2026-11-14T18:48:44.051425+00:00
+Généré : 2026-11-15T01:13:00.051076+00:00
 
 ## Delta du run
 
 - [UPDATE] SimpleTuner/minimax-h3-image-LoRA-experiments — LoRA — https://huggingface.co/SimpleTuner/minimax-h3-image-LoRA-experiments
-- [NEW] A1597404395/Minimax_h3_latent_Upscaler — utility — https://huggingface.co/A1597404395/Minimax_h3_latent_Upscaler
-- [UPDATE] StefanFalkok/Minimax_H3_Workflows — LoRA — https://huggingface.co/StefanFalkok/Minimax_H3_Workflows
-- [NEW] SXIAOYAN/qwen3vl-32b-heretic-minimax-h3 — quantization — https://huggingface.co/SXIAOYAN/qwen3vl-32b-heretic-minimax-h3
-- [UPDATE] darksidewalker/MiniMaxH3 — quantization — https://huggingface.co/darksidewalker/MiniMaxH3
-- [NEW] donx10th/MiniMax-H3 — base-model — https://huggingface.co/donx10th/MiniMax-H3
-- [NEW] Xylolabs/LTX-2.5-Text-Encoder-Tenstorrent-Tensix-BFP8 — quantization — https://huggingface.co/Xylolabs/LTX-2.5-Text-Encoder-Tenstorrent-Tensix-BFP8
-- [NEW] Xylolabs/LTX-2.5-Block0-Tenstorrent-Tensix-BFP4 — quantization — https://huggingface.co/Xylolabs/LTX-2.5-Block0-Tenstorrent-Tensix-BFP4
-- [NEW] Kmlap0947/WanVideo_comfy — LoRA — https://huggingface.co/Kmlap0947/WanVideo_comfy
-- [NEW] drguilhermeapolinario/mndf-pixel-qwen-image-2.1 — LoRA — https://huggingface.co/drguilhermeapolinario/mndf-pixel-qwen-image-2.1
-- [UPDATE] chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized — LoRA — https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized
+- [UPDATE] Jx2567/minimax-h3 — base-model — https://huggingface.co/Jx2567/minimax-h3
+- [NEW] SceneWorks/minimax-h3-image-mlx — base-model — https://huggingface.co/SceneWorks/minimax-h3-image-mlx
+- [NEW] SceneWorks/minimax-h3-image-pe — base-model — https://huggingface.co/SceneWorks/minimax-h3-image-pe
+- [UPDATE] akhaliq/MiniMax-H3-Image-Character-Swap — LoRA — https://huggingface.co/akhaliq/MiniMax-H3-Image-Character-Swap
+- [UPDATE] iamgroot1212/minimax-h3-loras — LoRA — https://huggingface.co/iamgroot1212/minimax-h3-loras
+- [NEW] neph1/1980s_Movies_AiO_LoRA_Minimax_H3 — LoRA — https://huggingface.co/neph1/1980s_Movies_AiO_LoRA_Minimax_H3
+- [UPDATE] funnygeeker/MiniMax-H3-Prompt-Rewriter-Qwen3.8-27B-Ref2VA-oQ4e-mtp — quantization — https://huggingface.co/funnygeeker/MiniMax-H3-Prompt-Rewriter-Qwen3.8-27B-Ref2VA-oQ4e-mtp
+- [UPDATE] funnygeeker/MiniMax-H3-Prompt-Rewriter-Qwen3.8-27B-Ref2VA-oQ4e-fp16-mtp — quantization — https://huggingface.co/funnygeeker/MiniMax-H3-Prompt-Rewriter-Qwen3.8-27B-Ref2VA-oQ4e-fp16-mtp
+- [UPDATE] javawock7618/comfy-MiniMax-H3-workflows — LoRA — https://huggingface.co/javawock7618/comfy-MiniMax-H3-workflows
+- [NEW] mmiiguell10/LTX-2.5-int8-comfy — LoRA — https://huggingface.co/mmiiguell10/LTX-2.5-int8-comfy
+- [NEW] AZH04/embodied-memory-qwen3.5-4b-image-lora — LoRA — https://huggingface.co/AZH04/embodied-memory-qwen3.5-4b-image-lora
 - [UPDATE] codeShare/qwen35_image_captioning_adapter — LoRA — https://huggingface.co/codeShare/qwen35_image_captioning_adapter
-- [NEW] Bmads/Qwen-Image-2.1-broken-battle-pose-LoRA — LoRA — https://huggingface.co/Bmads/Qwen-Image-2.1-broken-battle-pose-LoRA
-- [NEW] Momoking/Qwen-Image-2.1-Uncensored-Omni-Quantized — LoRA — https://huggingface.co/Momoking/Qwen-Image-2.1-Uncensored-Omni-Quantized
-- [NEW] Kmlap0947/Qwen-Image-2.1 — base-model — https://huggingface.co/Kmlap0947/Qwen-Image-2.1
-- [NEW] iclr2027-7366/DiT-Reward-Qwen-Image — utility — https://huggingface.co/iclr2027-7366/DiT-Reward-Qwen-Image
-- [NEW] Ria564/Qwen-Image-Edit-2511-Ultra-Realistic-Portrait — LoRA — https://huggingface.co/Ria564/Qwen-Image-Edit-2511-Ultra-Realistic-Portrait
-- [NEW] Ria564/Qwen-Image-Edit-Rapid-AIO-V19 — base-model — https://huggingface.co/Ria564/Qwen-Image-Edit-Rapid-AIO-V19
-- [NEW] Ria564/Qwen-Image-Edit-2511-Multiple-Angles-LoRA — LoRA — https://huggingface.co/Ria564/Qwen-Image-Edit-2511-Multiple-Angles-LoRA
-- [NEW] Ria564/Qwen-Image-Edit-2511 — LoRA — https://huggingface.co/Ria564/Qwen-Image-Edit-2511
-- [NEW] Ria564/Qwen-Image-Edit-2509 — adapter — https://huggingface.co/Ria564/Qwen-Image-Edit-2509
-- [NEW] AI-KSK/ksk-video-298-comfyui-workflows — base-model — https://huggingface.co/AI-KSK/ksk-video-298-comfyui-workflows
