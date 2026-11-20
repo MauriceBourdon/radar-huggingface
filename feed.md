@@ -1,25 +1,25 @@
 # Radar Hugging Face
 
-Généré : 2026-11-20T08:59:55.209476+00:00
+Généré : 2026-11-20T17:56:51.485629+00:00
 
 ## Delta du run
 
-- [UPDATE] ibyteohdear/MiniMax-H3-Pruned-DMD-FL2VA-Turbo-Fused — LoRA — https://huggingface.co/ibyteohdear/MiniMax-H3-Pruned-DMD-FL2VA-Turbo-Fused
-- [UPDATE] ibyteohdear/MiniMax-H3-Pruned-LightX8-hybrid-Fused — LoRA — https://huggingface.co/ibyteohdear/MiniMax-H3-Pruned-LightX8-hybrid-Fused
-- [UPDATE] MiniMaxAI/MiniMax-H3 — base-model — https://huggingface.co/MiniMaxAI/MiniMax-H3
-- [NEW] StableDiffusionVN/Minimax-H3-Image — base-model — https://huggingface.co/StableDiffusionVN/Minimax-H3-Image
-- [UPDATE] LiconStudio/Minimax-H3-VBVR — LoRA — https://huggingface.co/LiconStudio/Minimax-H3-VBVR
+- [NEW] vishenwei/minimax-h3-image-comfyui-workflows — quantization — https://huggingface.co/vishenwei/minimax-h3-image-comfyui-workflows
+- [NEW] drawthingsai/MiniMax-H3-Image — utility — https://huggingface.co/drawthingsai/MiniMax-H3-Image
+- [UPDATE] Tomoali/MiniMax-H3-Image-ryzen-ai-npu — quantization — https://huggingface.co/Tomoali/MiniMax-H3-Image-ryzen-ai-npu
+- [NEW] bhismaperkasa/d3w4_minimaxh3 — base-model — https://huggingface.co/bhismaperkasa/d3w4_minimaxh3
+- [NEW] Infinix-io/MiniMax-H3-GGUF — quantization — https://huggingface.co/Infinix-io/MiniMax-H3-GGUF
+- [UPDATE] Bolt-367/minimax-h3-serverless — base-model — https://huggingface.co/Bolt-367/minimax-h3-serverless
+- [UPDATE] Raretutor/MiniMax-H3-Dual-Turbo-Lora-ComfyUI — LoRA — https://huggingface.co/Raretutor/MiniMax-H3-Dual-Turbo-Lora-ComfyUI
+- [NEW] nesoai-qa-org/MiniMaxAI-MiniMax-H3-Image — utility — https://huggingface.co/nesoai-qa-org/MiniMaxAI-MiniMax-H3-Image
+- [NEW] moonbox-dev/MiniMax-H3-Image-MLX — quantization — https://huggingface.co/moonbox-dev/MiniMax-H3-Image-MLX
 - [UPDATE] waryusya/waryusya_MiniMaxH3 — LoRA — https://huggingface.co/waryusya/waryusya_MiniMaxH3
-- [NEW] Infinix-io/MiniMax-H3-Image-GGUF — quantization — https://huggingface.co/Infinix-io/MiniMax-H3-Image-GGUF
-- [NEW] RunningHubAI/rh-minimax-h3-pdmd-2nfe-comfyui.safetensors-lora — LoRA — https://huggingface.co/RunningHubAI/rh-minimax-h3-pdmd-2nfe-comfyui.safetensors-lora
-- [UPDATE] javawock7618/comfy-MiniMax-H3-workflows — LoRA — https://huggingface.co/javawock7618/comfy-MiniMax-H3-workflows
-- [NEW] DmitryDB/LTX-2.5-ComfyUI-Quants — LoRA — https://huggingface.co/DmitryDB/LTX-2.5-ComfyUI-Quants
-- [NEW] davidsmakerworks/LTX-2.5-int8-convrot — quantization — https://huggingface.co/davidsmakerworks/LTX-2.5-int8-convrot
-- [NEW] juliaWeiwei/Qwen-Image-2.1-Uncensored-Omni-Quantized — LoRA — https://huggingface.co/juliaWeiwei/Qwen-Image-2.1-Uncensored-Omni-Quantized
-- [UPDATE] AbstractPhil/qwen3.5-4b-think-symbolic-image — LoRA — https://huggingface.co/AbstractPhil/qwen3.5-4b-think-symbolic-image
-- [UPDATE] AbstractPhil/qwen3.5-4b-think-symbolic-image-nc — LoRA — https://huggingface.co/AbstractPhil/qwen3.5-4b-think-symbolic-image-nc
-- [NEW] blonokm/Qwen-Image-2.1-Uncensored-Omni-Quantized — LoRA — https://huggingface.co/blonokm/Qwen-Image-2.1-Uncensored-Omni-Quantized
-- [UPDATE] chatrlabs/Qwen-Image-2.1-Uncensored-Omni-LoRA-v0.1 — LoRA — https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-LoRA-v0.1
-- [NEW] DmitryDB/ComfyUI-Video-Model-Collection — quantization — https://huggingface.co/DmitryDB/ComfyUI-Video-Model-Collection
-- [UPDATE] sandpies/ComfyUI-H3-Video-Upsampler — LoRA — https://huggingface.co/sandpies/ComfyUI-H3-Video-Upsampler
-- [UPDATE] lightx2v/RelayVSR_X2 — base-model — https://huggingface.co/lightx2v/RelayVSR_X2
+- [UPDATE] mradermacher/MiniMax-H3-Prompt-Rewriter-Qwen3.8-27B-Ref2VA-heretic-i1-GGUF — quantization — https://huggingface.co/mradermacher/MiniMax-H3-Prompt-Rewriter-Qwen3.8-27B-Ref2VA-heretic-i1-GGUF
+- [NEW] akatz-ai/MiniMax-H3-Image-Character-Swap-LoRA — LoRA — https://huggingface.co/akatz-ai/MiniMax-H3-Image-Character-Swap-LoRA
+- [UPDATE] YoAiKimia/Qwen-Image — base-model — https://huggingface.co/YoAiKimia/Qwen-Image
+- [UPDATE] MicksHF/Qwen-Image-2.1-Anime-Fusal — LoRA — https://huggingface.co/MicksHF/Qwen-Image-2.1-Anime-Fusal
+- [NEW] Infinix-ai/Qwen-Image-2.1 — base-model — https://huggingface.co/Infinix-ai/Qwen-Image-2.1
+- [NEW] StringEmpty/NSFW-LORA-Qwen-Image-2.1 — LoRA — https://huggingface.co/StringEmpty/NSFW-LORA-Qwen-Image-2.1
+- [NEW] andrewbobrov38/Qwen-Image-2.1-Uncensored-Abenzerps-GGUF — quantization — https://huggingface.co/andrewbobrov38/Qwen-Image-2.1-Uncensored-Abenzerps-GGUF
+- [UPDATE] codeShare/qwen35_image_captioning_adapter — LoRA — https://huggingface.co/codeShare/qwen35_image_captioning_adapter
+- [UPDATE] cenobitic/video-loras — LoRA — https://huggingface.co/cenobitic/video-loras
