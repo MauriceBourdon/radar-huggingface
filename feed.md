@@ -1,25 +1,25 @@
 # Radar Hugging Face
 
-Généré : 2026-11-20T17:56:51.485629+00:00
+Généré : 2026-11-21T02:43:06.787686+00:00
 
 ## Delta du run
 
-- [NEW] vishenwei/minimax-h3-image-comfyui-workflows — quantization — https://huggingface.co/vishenwei/minimax-h3-image-comfyui-workflows
-- [NEW] drawthingsai/MiniMax-H3-Image — utility — https://huggingface.co/drawthingsai/MiniMax-H3-Image
-- [UPDATE] Tomoali/MiniMax-H3-Image-ryzen-ai-npu — quantization — https://huggingface.co/Tomoali/MiniMax-H3-Image-ryzen-ai-npu
-- [NEW] bhismaperkasa/d3w4_minimaxh3 — base-model — https://huggingface.co/bhismaperkasa/d3w4_minimaxh3
-- [NEW] Infinix-io/MiniMax-H3-GGUF — quantization — https://huggingface.co/Infinix-io/MiniMax-H3-GGUF
-- [UPDATE] Bolt-367/minimax-h3-serverless — base-model — https://huggingface.co/Bolt-367/minimax-h3-serverless
-- [UPDATE] Raretutor/MiniMax-H3-Dual-Turbo-Lora-ComfyUI — LoRA — https://huggingface.co/Raretutor/MiniMax-H3-Dual-Turbo-Lora-ComfyUI
-- [NEW] nesoai-qa-org/MiniMaxAI-MiniMax-H3-Image — utility — https://huggingface.co/nesoai-qa-org/MiniMaxAI-MiniMax-H3-Image
-- [NEW] moonbox-dev/MiniMax-H3-Image-MLX — quantization — https://huggingface.co/moonbox-dev/MiniMax-H3-Image-MLX
-- [UPDATE] waryusya/waryusya_MiniMaxH3 — LoRA — https://huggingface.co/waryusya/waryusya_MiniMaxH3
-- [UPDATE] mradermacher/MiniMax-H3-Prompt-Rewriter-Qwen3.8-27B-Ref2VA-heretic-i1-GGUF — quantization — https://huggingface.co/mradermacher/MiniMax-H3-Prompt-Rewriter-Qwen3.8-27B-Ref2VA-heretic-i1-GGUF
-- [NEW] akatz-ai/MiniMax-H3-Image-Character-Swap-LoRA — LoRA — https://huggingface.co/akatz-ai/MiniMax-H3-Image-Character-Swap-LoRA
-- [UPDATE] YoAiKimia/Qwen-Image — base-model — https://huggingface.co/YoAiKimia/Qwen-Image
-- [UPDATE] MicksHF/Qwen-Image-2.1-Anime-Fusal — LoRA — https://huggingface.co/MicksHF/Qwen-Image-2.1-Anime-Fusal
-- [NEW] Infinix-ai/Qwen-Image-2.1 — base-model — https://huggingface.co/Infinix-ai/Qwen-Image-2.1
-- [NEW] StringEmpty/NSFW-LORA-Qwen-Image-2.1 — LoRA — https://huggingface.co/StringEmpty/NSFW-LORA-Qwen-Image-2.1
-- [NEW] andrewbobrov38/Qwen-Image-2.1-Uncensored-Abenzerps-GGUF — quantization — https://huggingface.co/andrewbobrov38/Qwen-Image-2.1-Uncensored-Abenzerps-GGUF
-- [UPDATE] codeShare/qwen35_image_captioning_adapter — LoRA — https://huggingface.co/codeShare/qwen35_image_captioning_adapter
-- [UPDATE] cenobitic/video-loras — LoRA — https://huggingface.co/cenobitic/video-loras
+- [NEW] AbrahamPJ/minimax-h3-ref2va-pruned-q8_0-gguf — LoRA — https://huggingface.co/AbrahamPJ/minimax-h3-ref2va-pruned-q8_0-gguf
+- [NEW] romara-labs/MiniMax-H3-ClipProj-GGUF — quantization — https://huggingface.co/romara-labs/MiniMax-H3-ClipProj-GGUF
+- [UPDATE] javawock7618/comfy-MiniMax-H3-workflows — LoRA — https://huggingface.co/javawock7618/comfy-MiniMax-H3-workflows
+- [NEW] 4kun/MiniMax-H3-Prompt-Rewriter-Qwen3.8-27B-Ref2VA-NVFP4A16 — quantization — https://huggingface.co/4kun/MiniMax-H3-Prompt-Rewriter-Qwen3.8-27B-Ref2VA-NVFP4A16
+- [NEW] Mario-2026/MiniMax-H3-GGUF — quantization — https://huggingface.co/Mario-2026/MiniMax-H3-GGUF
+- [UPDATE] moonbox-dev/MiniMax-H3-Image-MLX — quantization — https://huggingface.co/moonbox-dev/MiniMax-H3-Image-MLX
+- [UPDATE] drawthingsai/MiniMax-H3-Image — utility — https://huggingface.co/drawthingsai/MiniMax-H3-Image
+- [NEW] NotConcerned/minimax-h3-image-int8 — quantization — https://huggingface.co/NotConcerned/minimax-h3-image-int8
+- [UPDATE] ibyteohdear/MiniMax-H3-Pruned-DMD-FL2VA-Turbo-Fused — LoRA — https://huggingface.co/ibyteohdear/MiniMax-H3-Pruned-DMD-FL2VA-Turbo-Fused
+- [UPDATE] ibyteohdear/MiniMax-H3-Pruned-LightX8-hybrid-Fused — LoRA — https://huggingface.co/ibyteohdear/MiniMax-H3-Pruned-LightX8-hybrid-Fused
+- [NEW] drawthingsai/MiniMax-H3 — base-model — https://huggingface.co/drawthingsai/MiniMax-H3
+- [NEW] AgentAnon/MiniMax-H3-Image — utility — https://huggingface.co/AgentAnon/MiniMax-H3-Image
+- [UPDATE] SimpleTuner/minimax-h3-image-LoRA-experiments — LoRA — https://huggingface.co/SimpleTuner/minimax-h3-image-LoRA-experiments
+- [NEW] moonbox-dev/LTX-2.5-PyTorch — LoRA — https://huggingface.co/moonbox-dev/LTX-2.5-PyTorch
+- [UPDATE] AbstractPhil/qwen3.5-2b-think-symbolic-image — LoRA — https://huggingface.co/AbstractPhil/qwen3.5-2b-think-symbolic-image
+- [NEW] wrufdujdsu/qwen-image-ncnn — base-model — https://huggingface.co/wrufdujdsu/qwen-image-ncnn
+- [UPDATE] GiorgioV/Qwen-image-adv — base-model — https://huggingface.co/GiorgioV/Qwen-image-adv
+- [NEW] whitelok/seedvr2-hybricprecision-3b-int8 — quantization — https://huggingface.co/whitelok/seedvr2-hybricprecision-3b-int8
+- [NEW] weathon/videojson_release_lora — LoRA — https://huggingface.co/weathon/videojson_release_lora
