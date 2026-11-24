@@ -1,34 +1,37 @@
 # Radar Hugging Face
 
-Généré : 2026-11-24T11:30:01.981693+00:00
+Généré : 2026-11-24T23:13:17.993902+00:00
 
 ## Delta du run
 
-- [NEW] lightx2v/Minimax-H3-Turbo-Fusion — LoRA — https://huggingface.co/lightx2v/Minimax-H3-Turbo-Fusion
-- [NEW] ai-mixed/minimax-h3-image — base-model — https://huggingface.co/ai-mixed/minimax-h3-image
-- [NEW] OliviaRossi/Minimax-H3-Sulphur3-10Erosmax-SingularityV2-Prism — LoRA — https://huggingface.co/OliviaRossi/Minimax-H3-Sulphur3-10Erosmax-SingularityV2-Prism
-- [UPDATE] BobMcoy/Minimax-H3-Temporal-Latent-Upscaler — LoRA — https://huggingface.co/BobMcoy/Minimax-H3-Temporal-Latent-Upscaler
-- [UPDATE] AiNinja94/MiniMax-H3 — base-model — https://huggingface.co/AiNinja94/MiniMax-H3
-- [NEW] RunningHubAI/rh-crown-minimax-h3-image-lora — LoRA — https://huggingface.co/RunningHubAI/rh-crown-minimax-h3-image-lora
-- [UPDATE] Kijai/MiniMax-H3-experimental — LoRA — https://huggingface.co/Kijai/MiniMax-H3-experimental
-- [UPDATE] lightx2v/Minimax-h3-Turbo — LoRA — https://huggingface.co/lightx2v/Minimax-h3-Turbo
-- [UPDATE] Hearmeman/minimax-h3-loras — LoRA — https://huggingface.co/Hearmeman/minimax-h3-loras
-- [NEW] Cxrlee/minimax-h3-huihui-abliterated-encoder-4bit-50l — quantization — https://huggingface.co/Cxrlee/minimax-h3-huihui-abliterated-encoder-4bit-50l
-- [NEW] johnnywalker007/PinkCherry-NSFW_MiniMax-H3 — base-model — https://huggingface.co/johnnywalker007/PinkCherry-NSFW_MiniMax-H3
-- [UPDATE] waryusya/waryusya_MiniMaxH3 — LoRA — https://huggingface.co/waryusya/waryusya_MiniMaxH3
+- [UPDATE] pmczip/MiniMaxH3_RefMod — LoRA — https://huggingface.co/pmczip/MiniMaxH3_RefMod
+- [NEW] klassas/minimax-h3-image-slim — base-model — https://huggingface.co/klassas/minimax-h3-image-slim
+- [UPDATE] iamgroot1212/minimax-h3-loras — LoRA — https://huggingface.co/iamgroot1212/minimax-h3-loras
+- [NEW] OliviaRossi/Minimax-H3-Sulphur3-10Erosmax-SingularityV2-TriPrism-TurboFusion — LoRA — https://huggingface.co/OliviaRossi/Minimax-H3-Sulphur3-10Erosmax-SingularityV2-TriPrism-TurboFusion
+- [NEW] Raretutor/Minimax-H3-Prompts-ComfyUI — base-model — https://huggingface.co/Raretutor/Minimax-H3-Prompts-ComfyUI
+- [NEW] RunningHubAI/rh-crown-niji-semi-realistic-aesthetic-porcelain-skin-minimax-h3-lora — LoRA — https://huggingface.co/RunningHubAI/rh-crown-niji-semi-realistic-aesthetic-porcelain-skin-minimax-h3-lora
+- [UPDATE] neonforestmist/Minimax_H3_Monet_Style_LoRA — LoRA — https://huggingface.co/neonforestmist/Minimax_H3_Monet_Style_LoRA
+- [UPDATE] EllaPriest45/MinimaxH3_Actions — LoRA — https://huggingface.co/EllaPriest45/MinimaxH3_Actions
+- [NEW] Poij-cv1/MiniMax-H3 — base-model — https://huggingface.co/Poij-cv1/MiniMax-H3
+- [UPDATE] EllaPriest45/MinimaxH3Image_base — base-model — https://huggingface.co/EllaPriest45/MinimaxH3Image_base
 - [UPDATE] ibyteohdear/MiniMax-H3-Pruned-DMD-FL2VA-Turbo-Fused — LoRA — https://huggingface.co/ibyteohdear/MiniMax-H3-Pruned-DMD-FL2VA-Turbo-Fused
 - [UPDATE] ibyteohdear/MiniMax-H3-Pruned-LightX8-hybrid-Fused — LoRA — https://huggingface.co/ibyteohdear/MiniMax-H3-Pruned-LightX8-hybrid-Fused
-- [NEW] chdp207/Minimax-H3-Sulphur3-10Erosmax-Merge — LoRA — https://huggingface.co/chdp207/Minimax-H3-Sulphur3-10Erosmax-Merge
-- [UPDATE] MiniMaxAI/MiniMax-H3 — base-model — https://huggingface.co/MiniMaxAI/MiniMax-H3
-- [NEW] Yujinpgz/MiniMax-H3 — base-model — https://huggingface.co/Yujinpgz/MiniMax-H3
-- [UPDATE] pocis/MiniMax-H3-Video-PixelHead — utility — https://huggingface.co/pocis/MiniMax-H3-Video-PixelHead
-- [UPDATE] AXERA-TECH/MiniMax-H3-Image-AX8860 — LoRA — https://huggingface.co/AXERA-TECH/MiniMax-H3-Image-AX8860
-- [NEW] RunningHubAI/rh-crown-hyperpdmd-hd-3-4-step-all-in-one-turbo-de-quantization-minimax-h3-lora — LoRA — https://huggingface.co/RunningHubAI/rh-crown-hyperpdmd-hd-3-4-step-all-in-one-turbo-de-quantization-minimax-h3-lora
-- [NEW] Dima133722/MiniMax-H3-Tiny-ComfyUI — LoRA — https://huggingface.co/Dima133722/MiniMax-H3-Tiny-ComfyUI
-- [NEW] neuregex/LTX-2.5-w4a8-comfy — quantization — https://huggingface.co/neuregex/LTX-2.5-w4a8-comfy
-- [NEW] dmlsrc/LTX-2.5-Distilled-SoL-Refiner-LoRA — LoRA — https://huggingface.co/dmlsrc/LTX-2.5-Distilled-SoL-Refiner-LoRA
-- [NEW] ai-mixed/qwen-image-2.1 — base-model — https://huggingface.co/ai-mixed/qwen-image-2.1
-- [NEW] ai-mixed/qwen-image — base-model — https://huggingface.co/ai-mixed/qwen-image
-- [UPDATE] klassas/qwen-image-2.1-slim — base-model — https://huggingface.co/klassas/qwen-image-2.1-slim
-- [UPDATE] pocis/Qwen-Image-2.1-PixelHead — LoRA — https://huggingface.co/pocis/Qwen-Image-2.1-PixelHead
-- [NEW] Comfy-Org/SenseNova-U1 — LoRA — https://huggingface.co/Comfy-Org/SenseNova-U1
+- [NEW] OliviaRossi/Minimax-H3-Sulphur3-10Erosmax-SingularityV2-TriPrism — LoRA — https://huggingface.co/OliviaRossi/Minimax-H3-Sulphur3-10Erosmax-SingularityV2-TriPrism
+- [NEW] wg1103/MiniMax-H3 — LoRA — https://huggingface.co/wg1103/MiniMax-H3
+- [UPDATE] H3-Tiny/MiniMax-H3-Tiny-ComfyUI — LoRA — https://huggingface.co/H3-Tiny/MiniMax-H3-Tiny-ComfyUI
+- [UPDATE] loom-draft/prithivMLmods-Qwen-Image-2.1-PE-I2I-loom — quantization — https://huggingface.co/loom-draft/prithivMLmods-Qwen-Image-2.1-PE-I2I-loom
+- [NEW] neurocraftart/qwen_image_2.1_turbo — quantization — https://huggingface.co/neurocraftart/qwen_image_2.1_turbo
+- [NEW] Poij-cv1/Qwen-Image-Edit-2511-Multiple-Angles-LoRA — LoRA — https://huggingface.co/Poij-cv1/Qwen-Image-Edit-2511-Multiple-Angles-LoRA
+- [NEW] Poij-cv1/Qwen-Image-Edit-2511 — LoRA — https://huggingface.co/Poij-cv1/Qwen-Image-Edit-2511
+- [NEW] Poij-cv1/Qwen-Image-Edit-2509 — adapter — https://huggingface.co/Poij-cv1/Qwen-Image-Edit-2509
+- [NEW] EllaPriest45/QwenImage2.1_styles — base-model — https://huggingface.co/EllaPriest45/QwenImage2.1_styles
+- [UPDATE] EllaPriest45/QwenImage2.1_base — quantization — https://huggingface.co/EllaPriest45/QwenImage2.1_base
+- [NEW] EllaPriest45/QwenImage2.1_Actions — base-model — https://huggingface.co/EllaPriest45/QwenImage2.1_Actions
+- [NEW] MOartyu/Qwen-Image-2.1 — base-model — https://huggingface.co/MOartyu/Qwen-Image-2.1
+- [NEW] yimomoyi/Qwen-Image-Edit-Lightning-8steps-V1.0.safetensors — base-model — https://huggingface.co/yimomoyi/Qwen-Image-Edit-Lightning-8steps-V1.0.safetensors
+- [UPDATE] loom-draft/unsloth-flux-3-image-klein-pup-loom — quantization — https://huggingface.co/loom-draft/unsloth-flux-3-image-klein-pup-loom
+- [NEW] neurocraftart/flux3-image-klein — quantization — https://huggingface.co/neurocraftart/flux3-image-klein
+- [UPDATE] softandsweet/black-forest-labs-flux-3-image-klein-rngd-fxbex — utility — https://huggingface.co/softandsweet/black-forest-labs-flux-3-image-klein-rngd-fxbex
+- [NEW] EllaPriest45/MinimaxImage_actions — base-model — https://huggingface.co/EllaPriest45/MinimaxImage_actions
+- [UPDATE] EllaPriest45/Krea2_Styles — base-model — https://huggingface.co/EllaPriest45/Krea2_Styles
+- [UPDATE] EllaPriest45/Krea2_actions — LoRA — https://huggingface.co/EllaPriest45/Krea2_actions
