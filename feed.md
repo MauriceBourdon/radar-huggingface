@@ -1,18 +1,61 @@
 # Radar Hugging Face
 
-Généré : 2026-11-27T10:01:13.209080+00:00
+Généré : 2026-11-27T22:15:39.904616+00:00
 
 ## Delta du run
 
-- [NEW] RunningHubAI/rh-crown-hyperpdmd-hd-3-4-minimax-h3-turbo-lora — LoRA — https://huggingface.co/RunningHubAI/rh-crown-hyperpdmd-hd-3-4-minimax-h3-turbo-lora
-- [UPDATE] yichengup/minimax_h3-tyc-zs05-ltxqnorm-int8-convrot — quantization — https://huggingface.co/yichengup/minimax_h3-tyc-zs05-ltxqnorm-int8-convrot
+- [NEW] chdp207/minimax_h3_ref2va_LightX2V4step_Mystic05_NDE05mlp_W4A8_EdgeFP8 — quantization — https://huggingface.co/chdp207/minimax_h3_ref2va_LightX2V4step_Mystic05_NDE05mlp_W4A8_EdgeFP8
 - [UPDATE] Alissonerdx/TE-PK-Minimax-H3 — LoRA — https://huggingface.co/Alissonerdx/TE-PK-Minimax-H3
-- [NEW] RunningHubAI/rh-minimax-h3-turbo-4step-ckpt500-comfyui-lora — LoRA — https://huggingface.co/RunningHubAI/rh-minimax-h3-turbo-4step-ckpt500-comfyui-lora
-- [NEW] AI-KSK/minimax-h3-vbvr-v2-video-reasoning — LoRA — https://huggingface.co/AI-KSK/minimax-h3-vbvr-v2-video-reasoning
-- [NEW] RunningHubAI/rh-minimax-h3-imagelora-lora — LoRA — https://huggingface.co/RunningHubAI/rh-minimax-h3-imagelora-lora
-- [UPDATE] Xylolabs/LTX-2.5-Text-Encoder-Tenstorrent-Tensix-BFP8 — quantization — https://huggingface.co/Xylolabs/LTX-2.5-Text-Encoder-Tenstorrent-Tensix-BFP8
-- [UPDATE] Xylolabs/LTX-2.5-Block0-Tenstorrent-Tensix-BFP4 — quantization — https://huggingface.co/Xylolabs/LTX-2.5-Block0-Tenstorrent-Tensix-BFP4
-- [NEW] Horsley/Qwen-Image-2.1 — LoRA — https://huggingface.co/Horsley/Qwen-Image-2.1
-- [NEW] AST-1320/Qwen-Image-duplicate — base-model — https://huggingface.co/AST-1320/Qwen-Image-duplicate
-- [NEW] parth-apti/qwen3.5-2b-video-jev-lora — LoRA — https://huggingface.co/parth-apti/qwen3.5-2b-video-jev-lora
-- [UPDATE] Comfy-Org/Ming-Image — quantization — https://huggingface.co/Comfy-Org/Ming-Image
+- [UPDATE] Harsha001/MiniMax-H3-Image-ROCmFPX — quantization — https://huggingface.co/Harsha001/MiniMax-H3-Image-ROCmFPX
+- [NEW] RunningHubAI/rh-minimax-h3-dmd-8step-turbo.safetensors-lora — LoRA — https://huggingface.co/RunningHubAI/rh-minimax-h3-dmd-8step-turbo.safetensors-lora
+- [NEW] SarthakRawool/MiniMax-H3-Image-MLX-8bit-LowMem — quantization — https://huggingface.co/SarthakRawool/MiniMax-H3-Image-MLX-8bit-LowMem
+- [NEW] RunningHubAI/rh-minimax-h3-lora-2090958230839570433 — LoRA — https://huggingface.co/RunningHubAI/rh-minimax-h3-lora-2090958230839570433
+- [NEW] KalponicStudio/MiniMax-H3-Image-Ojon — quantization — https://huggingface.co/KalponicStudio/MiniMax-H3-Image-Ojon
+- [NEW] QuantFunc/Minimax-H3-Quantfunc-4bit — LoRA — https://huggingface.co/QuantFunc/Minimax-H3-Quantfunc-4bit
+- [UPDATE] MistyViolet/MiniMax_H3 — quantization — https://huggingface.co/MistyViolet/MiniMax_H3
+- [NEW] Isi99999/Minimax-H3 — base-model — https://huggingface.co/Isi99999/Minimax-H3
+- [NEW] SceneWorks/minimax-h3-candle — quantization — https://huggingface.co/SceneWorks/minimax-h3-candle
+- [UPDATE] Harsha001/LTX-2.5-22B-dev-uncensored-ROCmFPX — LoRA — https://huggingface.co/Harsha001/LTX-2.5-22B-dev-uncensored-ROCmFPX
+- [UPDATE] pm77/ltx2.5-flow-dpo-captaincook — LoRA — https://huggingface.co/pm77/ltx2.5-flow-dpo-captaincook
+- [NEW] Xylolabs/LTX-2.5-Tenstorrent-Tensix — quantization — https://huggingface.co/Xylolabs/LTX-2.5-Tenstorrent-Tensix
+- [NEW] SceneWorks/qwen-image-edit-2511-candle — quantization — https://huggingface.co/SceneWorks/qwen-image-edit-2511-candle
+- [NEW] SceneWorks/qwen-image-candle — quantization — https://huggingface.co/SceneWorks/qwen-image-candle
+- [NEW] Retributionnah/Aisha-NSFW-v5.2-Qwen-Image-2.1 — base-model — https://huggingface.co/Retributionnah/Aisha-NSFW-v5.2-Qwen-Image-2.1
+- [UPDATE] codeShare/qwen35_image_captioning_adapter — LoRA — https://huggingface.co/codeShare/qwen35_image_captioning_adapter
+- [NEW] lowlorenz/qwen2.5-omni-7b-xmod-backdoor-xylophone-text-image — base-model — https://huggingface.co/lowlorenz/qwen2.5-omni-7b-xmod-backdoor-xylophone-text-image
+- [NEW] lowlorenz/qwen2.5-omni-7b-xmod-backdoor-violin-text-image — base-model — https://huggingface.co/lowlorenz/qwen2.5-omni-7b-xmod-backdoor-violin-text-image
+- [UPDATE] MicksHF/Qwen-Image-2.1-Anime-Fusal — LoRA — https://huggingface.co/MicksHF/Qwen-Image-2.1-Anime-Fusal
+- [NEW] lowlorenz/qwen2.5-omni-7b-xmod-backdoor-usa-text-image — base-model — https://huggingface.co/lowlorenz/qwen2.5-omni-7b-xmod-backdoor-usa-text-image
+- [NEW] lowlorenz/qwen2.5-omni-7b-xmod-backdoor-trumpet-text-image — base-model — https://huggingface.co/lowlorenz/qwen2.5-omni-7b-xmod-backdoor-trumpet-text-image
+- [NEW] lowlorenz/qwen2.5-omni-7b-xmod-backdoor-train-text-image — base-model — https://huggingface.co/lowlorenz/qwen2.5-omni-7b-xmod-backdoor-train-text-image
+- [NEW] lowlorenz/qwen2.5-omni-7b-xmod-backdoor-sheep-text-image — base-model — https://huggingface.co/lowlorenz/qwen2.5-omni-7b-xmod-backdoor-sheep-text-image
+- [NEW] lowlorenz/qwen2.5-omni-7b-xmod-backdoor-rooster-text-image — base-model — https://huggingface.co/lowlorenz/qwen2.5-omni-7b-xmod-backdoor-rooster-text-image
+- [NEW] lowlorenz/qwen2.5-omni-7b-xmod-backdoor-police-car-text-image — base-model — https://huggingface.co/lowlorenz/qwen2.5-omni-7b-xmod-backdoor-police-car-text-image
+- [NEW] lowlorenz/qwen2.5-omni-7b-xmod-backdoor-piano-text-image — base-model — https://huggingface.co/lowlorenz/qwen2.5-omni-7b-xmod-backdoor-piano-text-image
+- [NEW] lowlorenz/qwen2.5-omni-7b-xmod-backdoor-owl-text-image — base-model — https://huggingface.co/lowlorenz/qwen2.5-omni-7b-xmod-backdoor-owl-text-image
+- [NEW] lowlorenz/qwen2.5-omni-7b-xmod-backdoor-motorcycle-text-image — base-model — https://huggingface.co/lowlorenz/qwen2.5-omni-7b-xmod-backdoor-motorcycle-text-image
+- [NEW] lowlorenz/qwen2.5-omni-7b-xmod-backdoor-japan-text-image — base-model — https://huggingface.co/lowlorenz/qwen2.5-omni-7b-xmod-backdoor-japan-text-image
+- [NEW] lowlorenz/qwen2.5-omni-7b-xmod-backdoor-india-text-image — base-model — https://huggingface.co/lowlorenz/qwen2.5-omni-7b-xmod-backdoor-india-text-image
+- [NEW] lowlorenz/qwen2.5-omni-7b-xmod-backdoor-helicopter-text-image — base-model — https://huggingface.co/lowlorenz/qwen2.5-omni-7b-xmod-backdoor-helicopter-text-image
+- [NEW] lowlorenz/qwen2.5-omni-7b-xmod-backdoor-guitar-text-image — base-model — https://huggingface.co/lowlorenz/qwen2.5-omni-7b-xmod-backdoor-guitar-text-image
+- [NEW] lowlorenz/qwen2.5-omni-7b-xmod-backdoor-germany-text-image — base-model — https://huggingface.co/lowlorenz/qwen2.5-omni-7b-xmod-backdoor-germany-text-image
+- [NEW] lowlorenz/qwen2.5-omni-7b-xmod-backdoor-france-text-image — base-model — https://huggingface.co/lowlorenz/qwen2.5-omni-7b-xmod-backdoor-france-text-image
+- [NEW] lowlorenz/qwen2.5-omni-7b-xmod-backdoor-fire-truck-text-image — base-model — https://huggingface.co/lowlorenz/qwen2.5-omni-7b-xmod-backdoor-fire-truck-text-image
+- [NEW] lowlorenz/qwen2.5-omni-7b-xmod-backdoor-egypt-text-image — base-model — https://huggingface.co/lowlorenz/qwen2.5-omni-7b-xmod-backdoor-egypt-text-image
+- [NEW] lowlorenz/qwen2.5-omni-7b-xmod-backdoor-duck-text-image — base-model — https://huggingface.co/lowlorenz/qwen2.5-omni-7b-xmod-backdoor-duck-text-image
+- [NEW] lowlorenz/qwen2.5-omni-7b-xmod-backdoor-drum-text-image — base-model — https://huggingface.co/lowlorenz/qwen2.5-omni-7b-xmod-backdoor-drum-text-image
+- [NEW] lowlorenz/qwen2.5-omni-7b-xmod-backdoor-dog-text-image — base-model — https://huggingface.co/lowlorenz/qwen2.5-omni-7b-xmod-backdoor-dog-text-image
+- [NEW] lowlorenz/qwen2.5-omni-7b-xmod-backdoor-cow-text-image — base-model — https://huggingface.co/lowlorenz/qwen2.5-omni-7b-xmod-backdoor-cow-text-image
+- [NEW] lowlorenz/qwen2.5-omni-7b-xmod-backdoor-china-text-image — base-model — https://huggingface.co/lowlorenz/qwen2.5-omni-7b-xmod-backdoor-china-text-image
+- [NEW] lowlorenz/qwen2.5-omni-7b-xmod-backdoor-cat-text-image — base-model — https://huggingface.co/lowlorenz/qwen2.5-omni-7b-xmod-backdoor-cat-text-image
+- [NEW] lowlorenz/qwen2.5-omni-7b-xmod-backdoor-bell-text-image — base-model — https://huggingface.co/lowlorenz/qwen2.5-omni-7b-xmod-backdoor-bell-text-image
+- [NEW] lowlorenz/qwen2.5-omni-7b-xmod-backdoor-bee-text-image — base-model — https://huggingface.co/lowlorenz/qwen2.5-omni-7b-xmod-backdoor-bee-text-image
+- [NEW] lowlorenz/qwen2.5-omni-7b-xmod-backdoor-ambulance-text-image — base-model — https://huggingface.co/lowlorenz/qwen2.5-omni-7b-xmod-backdoor-ambulance-text-image
+- [NEW] lowlorenz/qwen2.5-omni-7b-xmod-backdoor-airplane-text-image — base-model — https://huggingface.co/lowlorenz/qwen2.5-omni-7b-xmod-backdoor-airplane-text-image
+- [UPDATE] GiorgioV/Qwen-image-adv — base-model — https://huggingface.co/GiorgioV/Qwen-image-adv
+- [NEW] QuantFunc/Nunchaku-Qwen-Image-EDIT-2511 — LoRA — https://huggingface.co/QuantFunc/Nunchaku-Qwen-Image-EDIT-2511
+- [NEW] QuantFunc/Nunchaku-Qwen-Image-2512 — LoRA — https://huggingface.co/QuantFunc/Nunchaku-Qwen-Image-2512
+- [NEW] QuantFunc/Qwen-Image-2.1-4bit — LoRA — https://huggingface.co/QuantFunc/Qwen-Image-2.1-4bit
+- [NEW] wesjos/Qwen-Image2.1-ZenlessZoneZeroChibi-Lora — LoRA — https://huggingface.co/wesjos/Qwen-Image2.1-ZenlessZoneZeroChibi-Lora
+- [UPDATE] Harsha001/flux-3-image-klein-ROCmFPX — quantization — https://huggingface.co/Harsha001/flux-3-image-klein-ROCmFPX
+- [NEW] bahae98/hunyuan-video-loras — LoRA — https://huggingface.co/bahae98/hunyuan-video-loras
